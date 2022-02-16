@@ -63,3 +63,10 @@ Codes
 
     - Affordances: 
       - [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape
+
+## Participants tend to draw things in order of reading.
+  - Often, but not always, this order reflects itself on the page
+    - Support: File System and Power Station tend to be drawn in order of reading
+      - Session 26: intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
+    - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
+      - 016-B-bonus.jpg: this user came up with ways to arrange the data based on attributes that they added
