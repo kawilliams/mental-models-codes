@@ -1,72 +1,124 @@
-Formatting conventions
-======================
+# Formatting conventions
 
 ## Codes and categories should be written as first-level headers
-  - Discrete supporting evidence
-  - (or codes associated with categories)
-  - are listed as distinct bullet points
 
-Codes
-=====
+- Discrete supporting evidence
+- (or codes associated with categories)
+- are listed as distinct bullet points
+
+# Codes
+
 ## Participants often want to add additional information, data that isn’t there
 
-  - Impose structure/hierarchy: for the junk drawer, some participants group items 
-    - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render))
+- Impose structure/hierarchy: for the junk drawer, some participants group items
 
-  - Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
-    - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render))
 
-  - Add data attributes to each item: For the file system, a participant wanted to add the file sizes
-      - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render) 
+- Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
 
-  - Add data attributes to each item: For the power plants, participants want to reduce down to the number of people or to the number of individual units 
-    - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
-  - Add data attributes to each item: Observation by KI - Participants want to add a 'richness' to the data in lots of dimensions. This isn't their data so they want to put it into the context of what they know.
+  - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
+
+- Add data attributes to each item: For the file system, a participant wanted to add the file sizes
+
+  - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
+
+- Add data attributes to each item: For the power plants, participants want to reduce down to the number of people or to the number of individual units
+  - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
+- Add data attributes to each item: Observation by KI - Participants want to add a 'richness' to the data in lots of dimensions. This isn't their data so they want to put it into the context of what they know.
 
 ## Participants want to uncover the purpose: “Why is the file system organized like this?,” “what are the power stations doing?”
-  - Make a story/context for the file system: 
-    - [Session 006](https://mfr.osf.io/render?url=https://osf.io/kj4nt/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
 
-## Participants want to discover ultima: For power plant, which one produces the most energy?   
-  - Supported by:
-    - [Session 011](https://mfr.osf.io/render?url=https://osf.io/kaemj/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
-  - Not Supported:
-    - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render)
+- Make a story/context for the file system:
+  - [Session 006](https://mfr.osf.io/render?url=https://osf.io/kj4nt/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
 
-## The idea that data relates to computers is prevalent: 
-  - [Session 010](https://mfr.osf.io/render?url=https://osf.io/kgv76/?direct%26mode=render%26action=download%26mode=render) wrote a Python dictionary. 
-  - Participants used file system icons that they cited as being from an operating system.
-    - [Session 006](https://mfr.osf.io/render?url=https://osf.io/kj4nt/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render)
-  - Reliance on tables: 
-    - Session 007: 
-      Me: "Did it surprise you that we called it a data set?" 
+## Participants want to discover ultima: For power plant, which one produces the most energy?
 
-      S: I was expecting something more structured, maybe like a table or something. I guess I was expecting a table. Because that’s the most common form of storing data, like a spreadsheet or table, something like that. I guess this a valid data set, it’s got objects and quantities for those objects.  
-    - Session 014: 
-      N: "For instance, there was apartments, there was houses, there was homes, there were warehouses so the first thing I thought in my mind was how to arrange those in a table in order to get an idea of how much power each house or apartment would generate or require."
+- Supported by:
+  - [Session 011](https://mfr.osf.io/render?url=https://osf.io/kaemj/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
+- Not Supported:
+  - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render)
 
+## The idea that data relates to computers is prevalent:
 
+- [Session 010](https://mfr.osf.io/render?url=https://osf.io/kgv76/?direct%26mode=render%26action=download%26mode=render) wrote a Python dictionary.
+- Participants used file system icons that they cited as being from an operating system.
+  - [Session 006](https://mfr.osf.io/render?url=https://osf.io/kj4nt/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render)
+- Reliance on tables:
+
+  - Session 007:
+    Me: "Did it surprise you that we called it a data set?"
+
+    S: I was expecting something more structured, maybe like a table or something. I guess I was expecting a table. Because that’s the most common form of storing data, like a spreadsheet or table, something like that. I guess this a valid data set, it’s got objects and quantities for those objects.
+
+  - Session 014:
+    N: "For instance, there was apartments, there was houses, there was homes, there were warehouses so the first thing I thought in my mind was how to arrange those in a table in order to get an idea of how much power each house or apartment would generate or require."
 
 ## Physical objects can also be used to represent data
-  - Their organization (e.g. orientation, appearance, affordances) is based on the real world
 
-    - Appearance: based on / tied to memories
-      - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render): the pencils, etc. 
-      - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render): the cooling towers 
+- Their organization (e.g. orientation, appearance, affordances) is based on the real world
 
-    - Affordances: 
-      - [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape
+  - Appearance: based on / tied to memories
+
+    - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render): the pencils, etc.
+    - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render): the cooling towers
+
+  - Affordances:
+    - [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape
 
 ## Participants tend to draw things in order of reading.
-  - Often, but not always, this order reflects itself on the page
-    - Support: File System and Power Station tend to be drawn in order of reading
-      - Session 26: intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
-    - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
-      - 016-B-bonus.jpg: this user came up with ways to arrange the data based on attributes that they added
+
+- Often, but not always, this order reflects itself on the page
+  - Support: File System and Power Station tend to be drawn in order of reading
+    - Session 26: intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
+  - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
+    - 016-B-bonus.jpg: this user came up with ways to arrange the data based on attributes that they added
+
+## Instances where participants indicated a bottom-up perspective, e.g. not needing to extrapolate the idea of local containment to its full abstraction implication that "this is a tree"
+
+- [Session 006](https://mfr.osf.io/render?url=https://osf.io/pkqsm/?direct%26mode=render%26action=download%26mode=render) Envisioning one folder at time, what is inside a folder, doesn't explicitly mention "file system" until asked. "I only really consider one space at a time;" most of the structure is described from what they see from a location within the abstraction, rather than a bird's-eye view
+
+## Instances where participants drew something more like a node-link diagram, even though their description was more set-like
+
+- [Session 006](https://mfr.osf.io/render?url=https://osf.io/pkqsm/?direct%26mode=render%26action=download%26mode=render)
+- possibly [Session 010](https://mfr.osf.io/render?url=https://osf.io/kedv9/?direct%26mode=render%26action=download%26mode=render)
+
+## Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
+
+- [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
+
+## Instances where participants drew a table, even though their description was very non-tabular
+
+- [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
+  - Surprised by their answer about whether their mental model changed (answer: kind of yes and no); feels like it contradicts how VIS people (or at least Alex) would interpret the way they first drew a "mind map," and then a table
+
+## Instances where participants primarily relied on text and labels, before, or in place of, visual encodings
+
+- [Session 010](https://mfr.osf.io/render?url=https://osf.io/kedv9/?direct%26mode=render%26action=download%26mode=render)
+- [Session 011](https://mfr.osf.io/render?url=https://osf.io/kaemj/?direct%26mode=render%26action=download%26mode=render)
+
+## Instances where participants relied on concrete pictures or glyphs of real-world objects instead of more abstract visual representations
+
+- [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render)
+- [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render)
+- [Session 006](https://mfr.osf.io/render?url=https://osf.io/pkqsm/?direct%26mode=render%26action=download%26mode=render)
+  - maybe questionable, depending on how we interpret their use of "manila folders"
+- [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
+- [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render)
+
+## Instances where participants used aggregative sketch marks to communicate the abstraction without having to draw the data in detail
+
+- Not sure how I feel about "aggregative sketch marks" ... may need a better word to describe the practice of drawing squiggles or short lines to indicate "there's more data here." Kind of the data sketching version of Lorem Ipsum
+- [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
+- short lines in [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
+
+## Instances where participants used sketch marks to indicate uncertainty
+
+- [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
+  - "I marked it with a bunch of question marks to the right because I don't have any idea what [this folder] was for; it's just there"
