@@ -101,14 +101,14 @@ houses in 3D.
     - also notes that power plants based on those back home and in engineering
       students text books, warehouse based on Amazon warehouse.
 
-- Notes he would explain his drawing just like it was written without the
+- Notes they would explain his drawing just like it was written without the
   drawing. Huh.
-  - Interesting that he doesn't explain the drawing, but instead explains teh
+  - Interesting that they don't explain the drawing, but instead explains teh
     data.
   - Seems to be trying to immediately answer some questions about the data "So
     I guess D is proving the most power?"
     - CODE: Naturally seeking tasks
-- Notes he oesn't know what kind of power plants they are
+- Notes they don't know what kind of power plants they are
   - CODE: Naturally seeking extra data/information/attributes
 
 - Mental model remained the same but then they "got lazy" with the rendering
@@ -263,4 +263,49 @@ https://osf.io/kaemj/ (drawing)
 - 18yo CS major, sometimes visualizes but doesn't like doing it but looks at
   other people's visualizations
 
+
+12. 
+
+File System
+
+https://osf.io/xbw3h/ (notes)
+https://osf.io/4aphc/ (drawing)
+
+- drawing is a left-right tidy-esque node link diagram with two source nodes
+  (a forest), there is a sub-hierarchy by file type.
+  - CODE: file system as tree, SUB-CODE: left-right tree
+  - CODE: imposed hierarchy, new hierarchy nodes added for file type
+  - CODE: physical icons
+  - CODE: icons used in this space before (familiar with Windows)
+- There is an added edge at the bottom that the faciliator suggests may be
+  about reorganizing the data
+  - CODE: Annotation
+- There are other annotations about interacting with and uses as well
+  - CODE: Annotation
+  - CODE: Desire for more data/info
+
+- On having the data set read to them, they associate ith with computers and
+  suggest a CS major may have done it. They then explain it/critique it in
+terms of organizing a software project.
+  - CODE: Assumption this is from a software project
+  - CODE: Trying to determine the higher level structure/purpose
+  - CODE: (wanting) Arrangement by categorical type 
+
+- Participant notes it's hard to draw exactly what's in their head
+  - CODE: Limitation of drawing capability, head != representation
+- Participant says they think of the file explorer
+  - CODE: file system through file explorer
+  - CODE: participant notes drawing cannot be interactive
+
+- Participant is asked about their concerns with organization
+  - CODE: arrangement
+- Participant says they thought about how they arrange things
+  - CODE: arrangement is very personal
+  - CODE: relationship to something they know
+
+- 19yo CS major & TA + biochem major
+  - notes whether htey visualize data depends on what one considers data
+    - CODE: whether something is data or not
+  - does some visualization for personal convenience
+  - has made some charts in biochem
 
