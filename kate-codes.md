@@ -309,3 +309,45 @@ terms of organizing a software project.
   - does some visualization for personal convenience
   - has made some charts in biochem
 
+
+13. 
+
+Junk Drawer
+
+https://osf.io/bgeh9/ (notes)
+https://osf.io/dgzrs/ (drawing)
+
+- drawing appears to use color and be done with a digital drawing program.
+- drawing represents objects in good facsimile to what they are
+  - CODE: physical representations / life-like drawings
+- pens are in pencil case, small things are in basket
+  - CODE: junk drawer containment imposed
+- stamps are near envelopes
+  - CODE: organization, arrangment
+- colors and details added later
+  - CODE: embellishment
+- they discuss how / why they chose representations they did, relating back to
+  objects they have seen before (e.g., third grade stamps (line 2), what their
+parents had (line 4)). Each object has a personal story and memory.
+  - CODE: relations to personal, real life
+
+- while dataset being written, participant notes as the items came thought it
+  was a home toolbox, but when pens came, thought it was an electricians
+toolbox
+  - CODE: Trying to see bigger picture behind dataset
+
+- participant discusses ways you can pair the different data (line 19 -
+  envelopes/stamps, rubber bands/tacks, pens/pencils/sharpener/pouch) then
+says the basket doesn't have a pair which is why it stuck out
+  - CODE: arrangement by sets/grouping
+  - CODE: outlier as a singleton set
+
+- participant focused on the individual represenation (line 24) in terms of
+  which to draw
+  - CODE: physical/life-like representations
+
+- 19yo CS/Info Science major works at Global Center, sometiems visualizes
+  things
+
+
+
