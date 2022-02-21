@@ -425,3 +425,59 @@ connections on paper
 
 - 21yo cs & infoscience major, sometimes visualizes things
 
+
+15. 
+
+File System
+
+https://osf.io/zn6qj/ (notes)
+https://osf.io/y487f/ (drawing)
+
+- when asked initial intuition during reading they said they visualize drawers
+  for folders and paper for files
+  - CODE: imagine as physical objects
+
+
+- participant tried to memorize data so the facilitator suggested they write
+  it down which they do as a list for each top level folder and an arrow for
+the nested one
+  - CODE: file system, indented tree
+- participant clarifies how a folder can be inside a folder and says they have
+  to reimagine that.
+- participant says they shift to imagining the icons in Windows
+  - CODE: Liken to existing file system iconography
+- participant draws with physical nested folders though, in 3D-ish perspective
+  - CODE: physical objects
+- participant shades text files to differentiate them from other types of
+  files
+  - CODE: encoding type with color
+
+- when explaining the image, the participant talks about how sheets/files
+  would be right next to each other
+  - CODE: constraints of physical objects
+- facilitator asks why different kinds of markings for the same type and
+  participant explains that they could show it at first but then constraints
+of occlusion forced them to use labels later
+  - CODE: encoding changes forced by space
+
+- participant finds nested folder strange
+  - CODE: violation of mental model sticks out
+
+- when asked about the idea, participant refers to windows icons. 
+  - Note: I have seen windows icons like this with the folder on the side and
+    its showing that there's stuff in there, not sure when those came into
+Windows. I assume this doesn't hint that there are folders inside
+  - CODE: inspired by OS iconography
+
+- participant says they don't think their mental model changed, but it *did*
+  change because they had to fit it all and that caused rearrangement
+  - CODE: mental model at a high level did not change
+  - CODE: arrangement
+- when asked about crossing out adn starting over, participant said they would
+  probably keep doing it again and again so they preferred to get the main
+thing sketched and once it was good they could always draw a better version
+  - CODE: figure out in place
+
+- 21yo CS major, sometimes does visualizations for school... like trees and
+  digraphs
+
