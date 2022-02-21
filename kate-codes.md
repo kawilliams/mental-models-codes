@@ -350,4 +350,78 @@ says the basket doesn't have a pair which is why it stuck out
   things
 
 
+14.
+
+Power Stations
+
+https://osf.io/gzw56/ (notes)
+https://osf.io/dm3ak/ (drawings)
+
+- after having the dataset read, the participant asks whether the emphasis is
+  on the data set not the data "containing in it"
+  - Note: I wonder what that means, is it thinking of the whole versus the
+    parts?
+  - CODE (possibly): whole dataset versus data items
+- facilitator notes the emphasis is on how they think about the data and
+  organize it in their head. participant repeats that the details are not
+important, but the organization. Facilitators says its however it makes sense
+to them.
+- participant does say their initial reaction was what the answer was
+  - CODE: creating a task for the data
+    - Note: It does seem like while we see this in a lot of places, it is most
+      prevalent with the power station dataset and least with the junk drawer
+but I would have to double check that after seeing all the data
+- participant says they thought about how they might arrange the details in a
+  table to get an idea of how much power was required, based on their task
+  - CODE: creating a task for the data
+  - CODE: table arrangement
+
+- participant draws a node-link diagram showing how power stations connect to
+  the different types of buildings and then how the apartment connects to
+residents
+  - Note: while presumably houses would have residents, the resdients only
+    appears connect to the apartment, perhaps because how the data was read
+  - CODE: power station, either graph or hierarchy, unclear, left-right
+- participant then draws a table with rows for A..F and columns for the types
+  of buildings including resdients. The A...F is hte power station column.
+They do not add details but say this is how they thought in their mind
+  - CODE: power station, table
+  - CODE: abstracting away implied details
+
+- participants talks about the types of data they have (e.g., categories) and
+  also how specific they are in their connections to types of buildings. Talks
+about residents in apartments as a parameter
+  - CODE: Casting into a data typology
+- participant has hexperience with Python, seaborne, and matplotlib and says
+  as such they are used to different types of data and prioritizing some
+features, so they were applying that background in data analysis
+  - CODE: link to what they know
+  - CODE: data organization from/for data analysis tools
+- line 15: talks about how much power each type of building needs (the prompt
+  was what was powering the most things, but participant converted the rpboem)
+  - CODE: wanting other atributes (in this case, power draw)
+- line 17: talks about residents and buildings as "end points" that draw power
+- line 19 & 23: talks about encpsulating all three different parameters and begins
+  drawings/talking through it again. This is the node-link drawing with
+operations on the edges at the bottom fo teh sheet
+  - CODE: Using drawing to explain to facilitator
+  - CODE: expression tree (?) as a node-link diagram, left-right
+  - CODE: More suggesting data / format wanted to solve a problem
+
+- when asked what htey noticed, participant said the layered-strcture of the
+  data
+  - CODE: layers/hierarchy in power station
+
+- when asked what this is like previously, participant talked about chart
+  types for algorithm development and also mind map techniques for laying out
+connections on paper
+  - CODE: related to prior things seen/strategies used
+
+- mental model did not change until problem statement
+  - CODE: mental model consistent (need to go back and code the yes/no/maybe
+    for this question for everything before!)
+  - CODE: introduction of task changed mental model, but it was still quite
+    similar
+
+- 21yo cs & infoscience major, sometimes visualizes things
 
