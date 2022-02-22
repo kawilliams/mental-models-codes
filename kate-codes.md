@@ -481,3 +481,63 @@ thing sketched and once it was good they could always draw a better version
 - 21yo CS major, sometimes does visualizations for school... like trees and
   digraphs
 
+16.
+
+Junk Drawer
+
+https://osf.io/d4efp/ (notes)
+https://osf.io/4reuj/ (drawing)
+
+- On having dataset read, participant notes that items are broken out by
+category, that they're office supplies, and the data is discrete
+  - CODE: Data typology seen (discrete)
+  - CODE: Higher level idea inferred (office supplies)
+
+- Writes labels left to write
+  - CODE: Left to right
+- Writes in order tha thtings are in the dataset
+  - CODE: Dataset list order
+- Has to wrap around to fit all labels
+  - CODE: Run out of space
+
+- On explaining, suggests they could have grouped some of the items (e.g., the
+  baskets) together
+  - CODE: Grouping
+
+- When asked what sticks out, notes it felt like the list may have been
+  ordered by quantitity
+  - CODE: Inferring ordering meaning
+- Participant discusses cost of items
+  - CODE: Pondering about extra attributes
+
+- Participant notes they work with bar graphs often
+  - CODE: Familiarity from life with representation
+- Participant notes how they reorganized the names to fit inventory better
+  with how they might have been done in the military - nouns first, then
+adjectives
+  - CODE: Familiarty from real life
+  - CODE: identification of nouns and adjectives -- posibbly a typology?
+    - Note: How diverse the typologies?
+
+- Participant said that while they were drawing, they thought of a better way
+  to organize: by price
+  - CODE: arrangement, price order
+  - CODE: extra attributes
+  - CODE: inferring tasks
+
+- Participant draws second version as the inventory they were speaking of
+  (partially to show how they would do it)
+  - https://osf.io/u5dge/ (drawing)
+- They add X for expendible and D for durable
+  - CODE: extra attributes
+
+- Participant talks about how they try to articulate a story such that someone
+  else can repeat it in an understandable way and sometimes data gets in the
+way of it! (line 31)
+  - CODE: story-telling, main point
+  - CODE: communication/collaboration
+  - CODE: data as a distraction
+
+- 35yo in Sales, uses financial modeling and charts to try to show customer
+  value, visualizes often
+  - previously platoon leader in engineering company, inventory was a big deal
