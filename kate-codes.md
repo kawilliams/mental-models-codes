@@ -665,6 +665,68 @@ https://osf.io/mj84a/ (drawing)
   front-end person, worries about things like font sizes and colors rather
 than structure
 
+19.
+
+Junk Drawer
+
+https://osf.io/z3j9f/ (notes)
+https://osf.io/d2wgk/ (drawing)
+
+- gut reaction: they are cleaning up/out their desk
+  - CODE: description of higher level task
+  - CODE: encompassing description
+  - CODE: relation to personal
+
+- draw from the upper left
+  - CODE: draw left-right
+- drawing shows individual items, generally arranged up-down or left-right
+  within an item grroup
+  - CODE: junk draw, physical depiction
+  - CODE: arrangement by type, ordered by dataset
+  - CODE: show all individual elements
+
+- on explanation, participant notes they drew in the order the items were
+  given
+  - CODE: ordering as given
+- on explanation, suggests if they considered it longer they would have put
+  some items in the pouches/basket
+  - CODE: revision
+  - CODE: nesting items in junk drawer containers
+
+
+- what sticks out: reminds them of cleaning their desk
+  - CODE: relationship to personal
+- they ask where the paper clips are
+  - CODE: note what's missing
+
+- they did not relate this idea to what htey had seenb before, just drawing
+  what was there
+  - CODE: not related to previous vis
+- if they had done it a second time, would have put all writing implements in
+  the pencil pouch, small items in small tray, and enveloes in big tray... or
+possibly stack all in tray
+  - CODE: nesting in containers
+
+- they said their mental model changed in thinking about what the writing
+  implements looked like (or is this drawing what they looked like) but
+otherwise did not change
+  - CODE: mental model didn't change
+  - CODE: representation needed to change to distinguish categories
+
+- asked how they would communicate it to someone else if that were the task,
+  htey said they would probably do it as lists of things that can fit in the
+various containers (line 20)
+  - CODE: arrangement by size, arrangement by nesting
+
+- 54yo retired research editor, didn't work with Excel that much so didn't
+  think of datasets, associated data sets with excel
+  - CODE: data = Excel
+  - CODE: data analysis = grouping people by demographics
+- They said they didn't think of _stuff_ like her as a dataset or organizing
+  things as a data task
+  - CODE: junk drawer not previously seend as dataset 
+    - Note: possible teaching tool?
+
 
 
 
