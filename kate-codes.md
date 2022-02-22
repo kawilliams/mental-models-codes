@@ -541,3 +541,91 @@ way of it! (line 31)
 - 35yo in Sales, uses financial modeling and charts to try to show customer
   value, visualizes often
   - previously platoon leader in engineering company, inventory was a big deal
+
+
+General Note: This repeated desire for more attributes fights with the desire
+to simplify things for the story. I feel like this has something to say about
+why data can get wide in attributes but also how much of it people may want to
+know at once?
+
+
+17.
+
+Power Stations
+
+https://osf.io/qmts9/ (notes)
+https://osf.io/rqxab/ (drawing)
+
+- Upon being read the dataset, their intuition is that it might be from a
+  municipal guide/power company guide. They ask if that's intuition.
+  - Note: Is the wording here biasing people to try to see the larger picture?
+  - CODE: trying to infer larger picture of data or its source
+
+
+- Participants notes their discomfort with drawing, notes that they will go
+  with how they wrote it as it was being read
+  - Note: This may be related to the ordering/arrangement we see
+- Participant writes things in a table of power station letters (rows) and
+  building types (columns) with numbers at intersections. The intersections
+have multipliers for the people in the apartments. Note the column headings
+were added by prompting.
+  - CODE: Tables for power station
+- Partiipant says if the city was noted, they would understand it
+  - CODE: desire for more data, source requested
+
+- Participant refers to the drawing as a "graph"
+  - CODE: tables are a graph!
+- Participant says they put the residential buildings first then the
+  commercial/industrial warehouse
+  - CODE: arrangement by type
+- Participant is asked about how they handled separating the number of
+  participants and the number of residents. Participant brings up that homes
+can have numbers of people and thus that's necessary
+  - CODE: preparing for data not given
+
+- When asked what sticks out, participant notes the power stations do not
+  serve many homes and wonders why, could it be renewables?
+  - CODE: Smell testing teh data
+- Participant verifies they have experience with renewables and was on town's
+  energy commission
+  - CODE: Relating to waht they know from real life
+
+- Participant said they hadn't seen it before, it just made sense to them
+  - CODE: Does not relate to a prior visualization
+
+- Participant said mental model did not really change, even when further
+  prompted
+  - CODE: Mental model constant
+
+- 77 yo swim couch, environmentalist, previously abuse counselor, computer
+  programmer, and retail distrubtor.
+  - Sometimes visualizes data to help them understand things
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
