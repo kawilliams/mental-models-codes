@@ -602,6 +602,69 @@ can have numbers of people and thus that's necessary
   - Sometimes visualizes data to help them understand things
 
 
+18.
+
+File System
+
+https://osf.io/ydnb9/ (notes)
+https://osf.io/mj84a/ (drawing)
+
+- It seems they read the description rather than having it read to them or
+  read it before talking about their gut reaction.
+- They said they had trouble understanding whether the last sentence referered
+  to a new folder on the one previous
+- They said they thought of something nested
+  - CODE: Nesting
+  - Note: I really need to go through and match gut reaction to what they said
+    their mental model was and what the drew. I may need to make a table
+
+- Starts in top left
+  - CODE: drawing left to right
+- Draws an indented tree (see figure), one folder at a time, with inidivudal
+  items for the different text and image files
+  - CODE: file system similar to indented tree, SUB-CODE: left-right
+    indetneded tree
+  - Note: People seem to naturally draw the individual items most of the time,
+    but not always (see inventory in P17) We should also keep track of this
+
+- On explanation, uses the term "sets"
+  - CODE: sets
+- They also named the two folders, A and B, to tell them apart, as well as the
+  files
+  - CODE: assigns IDs
+- Second level are assigned numbers along with the type
+  - CODE: assigns IDs, develops naming system (possible code name: "develops
+    schema")
+- They note they have some files wiht the same name, so its really the nesting
+  path and the name that is unique. They consider this a potential problem
+  - CODE: uniqueness considered
+  - CODE: possible edits 
+
+
+- Participant says they were inspired for this diea by the code they do at
+  their job, and coming up with naming systems and access in JSON
+  - CODE: related to personal life
+- Faciliator asks about curly braces. Participant says they considered it
+  - CODE: related to personal life
+
+- Participant said mental model did not change
+  - CODE: mental model did not change
+
+- Facilitator discusses the difference between Apple and Windows expectations
+
+- Facilitator asks about not using icons. Participants says they're used to
+  variables instead
+  - CODE: related to personal life
+
+- Icon conversation prompts a second drawing https://osf.io/q4ybw/ which is
+  more like a treemap
+  - CODE: file system, tree map 
+  - Note: Ubuntu has this file system view
+
+- 43 yo front-end developer, frequently visualizes but not every day... as a
+  front-end person, worries about things like font sizes and colors rather
+than structure
+
 
 
 
