@@ -859,8 +859,44 @@ interactions would look like in place.
 - 56yo project manager who visualizes regularly in their work
 
 
+22. 
+
+Junk Drawer
+
+https://osf.io/psv9g/ (notes)
+https://osf.io/ty2k8/ (drawing)
+
+- asked about gut reaction, notes they are all used in an office space
+  - CODE: higher level description
+
+- starts by drawing a bucket and then things inside of it
+  - CODE: *Not* the order of the items as given
+  - CODE: Semi-containment order?
+
+- explains how they drew it as putting everything into the long basket and
+  pens/pencils into the pouch
+  - CODE: containment
+- explains they can carry it all around
+  - CODE: practical task
+- notes they keep sharpies separate as those don't go in a pencil pouch
+  - CODE: personal knowledge
+
+- they say the 4 tacks stick out because you wouldn't carry them around
+  - CODE: inferred task (carry them around)
+  - CODE: outlier to task detected
+
+- they say they've never worked with a dataset and they came up with this
+  encoding randomly
+  - CODE: No relation to prior experience in vis
+- they do however have these items in real life
+
+- they said their mental model did not change
+  - CODE: mental model did not change
+- they say if they had done it again, they would make the basket bigger
+  - CODE: drawing revisions for space
 
 
+- 19 you CS major, always visualizes things in mind to understand them
 
 
 
