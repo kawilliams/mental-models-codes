@@ -776,6 +776,89 @@ https://osf.io/wrd6x/ (drawing)
 - 66yo software engineer in compilers, frequently visualizes
 
 
+21.
+
+File System
+
+https://osf.io/v4nmf/ (notes)
+https://osf.io/5hsua/ (drawing)
+
+- when asked about gut reaction, says "it's just a categorization of..." and
+  asked about seeing what's in their head
+- said that this is waht they do all day every day, it's just what their
+  network drive or Box would show
+  - CODE: Did not look for bigger picture
+  - CODE: likened to something form personal life
+- said "I was just classifying things as I read them"
+  - CODE: Categorization
+
+- They draw a box for each folder and then a numbered list with each contents
+  individually
+  - CODE: sort-of indented tree
+  - CODE: show multiple items individually rather than grouping
+
+- They explain their drawing where the folders are "two buckets" as
+  represented by the box. They list the contents underneath and used common
+abbreviations for the types based on what made sense to them. They also
+numbered them
+  - CODE: numbering
+  - CODE: file extensions
+- When asked about not labeling the folders, they said that it didn't occur to
+  them because they're just containers
+  - CODE: anonymous containers
+
+- When asked what sticks out, they note there are different fiel types that
+  are mixed together, and normally one would group like things together
+  - CODE: discomfort with file mixing
+- They suggest the files may be related in another way
+  - CODE: inferring a scheme must exist
+- They say there's not enough information to tell whether it's a meaningful
+  grouping
+  - CODE: assessing the grouping
+  - CODE: missing information / requested information
+
+- When asked how they came up with the diea, they said they work all day in
+  file folders like Box and their desktop, so that's how things are organized,
+and that was the inspiration
+  - CODE: liken to something seen regularly, from personal life
+
+- When asked if their model changed, they said it did not
+  - CODE: No mental model change
+
+- They explain they are a project manager so they do a lot of business
+  analysis and data analysis and workflows. They also bridge the gap between
+technical people who talk in code and business people who don't see things the
+same way. They emphasize the importance of communication
+  - Note: Not sure how to code this but is interesting
+
+- Facilitator uses above as jumping point to ask how they would communicate
+  the data to someone else. They start drawing again: https://osf.io/wdr2y/
+- The new drawing has labeled box folders organized vertically with arrows
+  pointing to the right, a more traditional indented tree, with the full words
+written out for text, image, and code files
+  - CODE: indented tree, left-to-right
+  - CODE: elaboration on name (or perhaps previous was the abstraction we've
+    seen in other datasets
+- They explain that htey used more labels/details to better communicate what
+  things meant. They also use enclosing rectangles to shown containment
+  - CODE: containment / enclosure
+  - CODE: details for communication
+- They mention showin the hierarchy with the enclosure too
+  - CODE: hierarchy
+
+- Facilitator asks more about hierarchy and the switch to left-to-right. They
+  said that their first drawing was what they woould see on screen, but when
+trying to explain it to someone, they had to recreate the idea of what the
+interactions would look like in place. 
+  - CODE: They're kind of showing it over time but statically by melding
+    differnt states I guess?
+- They note they didn't consciously think left-to-right but since people read
+  left-to-right, perhaps that's why it seemed natural
+  - CODE: make it left-to-right for people
+
+- 56yo project manager who visualizes regularly in their work
+
+
 
 
 
