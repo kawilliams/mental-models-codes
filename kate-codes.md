@@ -724,8 +724,57 @@ various containers (line 20)
   - CODE: data analysis = grouping people by demographics
 - They said they didn't think of _stuff_ like her as a dataset or organizing
   things as a data task
-  - CODE: junk drawer not previously seend as dataset 
+  - CODE: junk drawer not previously seen as dataset 
     - Note: possible teaching tool?
+
+
+20.
+
+Power Stations
+
+https://osf.io/5rsjc/ (notes)
+https://osf.io/wrd6x/ (drawing)
+
+- gut reaction: says since its mostly residential homes and only one
+  warehouse, probably comes from residential part of city
+  - CODE: Trying to see larger context / inference
+  - CODE: Trying to understand data source
+
+- drawing starts in upper left
+  - CODE: upper left
+- draws power stations first, then arrows from them, then values
+  - CODE: node-link diagram
+
+- on explanation uses the term node, making each power station a node and then
+  connecting them because power stations are connected (line 2)
+  - CODE: nodes for power stations
+  - CODE: connectivity of power stations
+- different kinds of buildings have different nodes with annotations for
+  size/power
+  - CODE: split by category
+
+- participant said the warehouse stuck out because it was the only one in teh
+  list
+  - CODE: outlier detection
+- participant also noticed power was pretty balanced across stations except
+  the last one
+  - CODE: noticing balance/symmetry
+
+- participant said they are unfamiliar with the data but drawing as they did
+  here is similar how they do things at work, often making a graph problem.
+(They do compilers/debuggers)
+  - CODE: often draw problems this way, draw them this way at work
+
+- participant said while they were drawing, they started thinking about how
+  they would handle scale of many items like 100 houses
+  - CODE: mental model did change
+  - CODE: aggregation
+- participant at prompting revises the drawing to use directed arrow with
+  labels for the power
+  - CODE: directed edges, weighted edges
+
+- 66yo software engineer in compilers, frequently visualizes
+
 
 
 
