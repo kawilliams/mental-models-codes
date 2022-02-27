@@ -977,6 +977,77 @@ visual literacy some how and this feels very important
   - CODE: familiarity with line charts
 
 
+24. 
+
+Power Stations
+
+https://osf.io/742fb/ (notes)
+https://osf.io/8hsv9/ (drawing)
+
+- their gut reaction was "an image of cell-free MIMO graphs"
+  - CODE: immediately associates with image
+  - Note: this appears to be some sort of mobile networking concept, based on
+    what I remember from taking a class in mobile networking, the 'cell' here
+might refer to the areas hexagon'd out by cell towers, but that's not the
+absraction in these... they're more amorphous
+
+- while drawing they give each power station letter its own space in 2x3 grid.
+  THey put small marks around each letter and then enclose the letter and the
+small marks. They appear to use small squares for houses, large rectangle for
+the warehouse, and a rectangle with squares inside for the apartment.
+  - CODE: sets (my categorization)
+  - CODE: enclosure
+  - CODE: shapes as categories
+
+- they describe each letter as having a bubble that can include the various
+  marks (squares, rectangles). They note the encoding with horizontal
+rectangles being warehouses, but vertical ones being apartments
+  - CODE: shapes for categories
+  - CODE: orientation for categories
+  - CODE: encoding made clear
+
+- when asked what sticks out, they noted there was only one warehouse and so
+  this was a mostly residential neighborhood (line 5)
+  - CODE: unpaired/different object sticks out
+  - CODE: unrequested inference "this is a residential neighborhood"
+
+- when asked more about cell-free MIMO graphs, they note they do research in
+  ECE (electrical & computer engineering) adn one of their labmates works on this and did a presentation on them. 
+  - CODE: had seen something similar before
+- they further exlain that when youare in a radius of the cell [sic: tower?]
+  then that's what you're connecting to. The power stations are similar --
+when you're in their area, you're using that power station
+  - CODE: enclosure implies connectivity
+
+- when asked about their mental model, they said it didn't change, but that
+  their mental model is more geographical than their drawing. They would have
+considered a geographic map with cities and counties rather than "arbitrary
+circles"
+  - CODE: mental model did not change
+  - CODE: did not draw more detailed mental model
+  - CODE: geospatial mental model
+  - CODE: abstraction used rather than draw details
+
+- they are asked if they would draw the general idea of that mental model, on
+  a subset of the data, resulting in: https://osf.io/d8pke/
+- They explain it (line 35) with five power stations. The outer rectangle is a
+  little township in New Mexico. Squiggly lines divide the land, are maybe
+counties or city sections. The same marks are used for the buildings. Power
+stations then have their circle radii overlaid, and those overlap some.
+  - CODE: geospatial constraints applied to marks 
+  - CODE: boundary of land shown as rectangle
+- They note they wish they had color to make the circles of the power stations
+  more obvious
+  - CODE: color as a highlight
+- They note in this drawing the circles overlap, "in case of power failures or
+  something"
+  - CODE: inferring realty constraints
+
+-20o ECE RA and CS major, studies neural networks, visualizes somethings but
+less so now that they work with neural networks. When they visaulized more
+often, it was data structures in CS. 
+
+
 
 
 
