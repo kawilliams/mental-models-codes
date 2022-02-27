@@ -1148,6 +1148,99 @@ class
   - CODE: familiarity from data structure visualizations
 
 
+26.
+
+Power stations
+
+https://osf.io/wfrc5/ (notes)
+https://osf.io/mpncx/ (drawing)
+
+- when asked about gut reaction, they said they wanted to "make it tidy". They
+  said they are not a narrative person and wanted it concise, and thought how
+they would change it into an Excel sheet with certain columns
+  - CODE: narrative vs. concise
+  - CODE: already thinking of reformatting 
+  - CODE: tables
+  - CODE: Excel
+- they said their other reaction was that they don't know about power stations
+  and thought they might be confused
+  - CODE: domain unfamiliarity and concern
+
+- they started drawing in the upper left and then labeled the columns as they
+  described above, though they had to squeeze more for space. Then they drew
+the vertical lines to define the columns and a horizontal line under the
+labels
+  - CODE: table
+  - CODE: left to right drawing
+  - CODE: inadequate spatial planning
+    - Note: need better name, this code seems unduly negative as I suspect
+      this happens to us all, we all love our margins and fail to account for
+them I wonder.
+- they list the A through F beneath the power plant label and start filling in
+  table to the table. In the middle of this they add more horizontal lines for
+hte rows
+  - CODE: gridded table
+- data is filled in in written order
+  - CODE: written order
+
+- when they describe it, it is a "matrix" "organized by rows and columns"
+  where the information corresponding to the row and column is filled in
+  - CODE: table = matrix
+  - CODE: row and columns language
+
+- when asked what sticks out, they again mention trying to make the narrative
+  into something "numeric and linear". They suggest alternative language to
+orient them towards types of buildings earlier
+  - CODE: narrative form sticks out
+  - CODE: suggested language revision to point towards categories
+    - Note: they assume this categorization is important
+
+- when asked about how the sentences are not given in alphabetical order and
+  if it threw them off, they said that it did.
+  - CODE: unexpected order
+
+- asked about Excel, they say they use it every day. 
+  - CODE: consistent Excel user
+  - CODE: idea came from use of Excel
+- when asked what htey use it for, they say they use SAS for visualization and
+  not Excel, but they can create simple charts and pivot tables in Excel
+  - CODE: Excel used primarily for tables
+  - CODE: familiarity with pivot tables
+  - CODE: familiarity with charts
+
+- when asked if their mental model changed, they said no, when they tried to
+  order it they knew they are doing a matrix and how to create it
+  - CODE: mental model did not change
+    - Note: it's interesting they use "matrix" and not "sheet" (Excel)
+- when prompted about things changing wiht 'warehouse' and 'apartments', they
+  said that indeed that hapepned, the columns got added
+  - CODE: while mental model as a whole didn't change, it became more
+    detailed/revised in place
+
+- 37yo AVP of Assessment & Accreditation at School, describes self as a
+  research analyst. They explain they look at institutional data/student
+information systems, like retention and graduation of populations. Sometimse
+they work with HR data too. Has created table visualizations as part of
+job/projects. (line 7)
+  - CODE: familiarity with this tabular form
+- they note depending on audience they sometimes make infographics and they
+  take audience into account that make sense to most people... also they have
+to worry about things like a percentage versus "one in five". They also
+describe using unit visualizations/isotype charts (line 11). They also note
+that if they are presenting to faculty member with "quantiative literacy" they
+can use histograms, box plots, or contingency tables.
+  - CODE: high visual literacy participant
+  - CODE: right data display for the right audience
+- they note (line 1) that if they're showing odds ratios, they might leave it
+  as a table becasue the group is fine with the table, but other audiences
+need pictures
+  - CODE: tables for high literacy folks
+    - Note: Since this one was form themselves, is that why it was a high
+      literacy table?
+- they consider themselves as a "sometimes" visualizer at their job, especialy
+  now that they're more senior
+
+
 
 
 
