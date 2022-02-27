@@ -1049,7 +1049,103 @@ often, it was data structures in CS.
 
 
 
+25.
 
+Junk Drawer
+
+https://osf.io/z7w25/ (notes)
+https://osf.io/ejqnr/ (drawing)
+
+- to the gut reaction question/intuition, they asked "how I visualize it?"
+  - CODE: visualization matched with intuition
+    - NOTE: Is there something in our recruitment info that would lead to
+      this? Seems interesting otherwise.
+- they are told whatever comes to mind and how they visualize is valid. They
+  respond that its really random and they expected more similarity between
+objects in size and type. They "drew a circle in my head around all of them.
+And thatw as it, that was really it"
+  - CODE: noted the dissimilarities in type
+  - CODE: noted the dissimilarities in size
+  - CODE: enclosure of them all together
+
+- upon drawing, they drew the circle as they had said and then starts writing
+  the names of the object types on the lined paper. It sounds like it goes
+left to right, top to bottom. The object types are followed by their count in
+parentheses, only text is used. The final, the long plastic basket, is written
+diagonally
+  - CODE: use text for items
+  - CODE: aggregate by item time
+  - CODE: enclosure to show full set
+
+- when explaining it (line 2), they note that they thought of a circle and "in" that
+  circle, they have the first time (rubbter bands) and a number in
+parentheses. They ask what it could indicate and say it's their number
+  - CODE: enclosure of full set
+  - CODE: number of items indicated by number
+  - CODE: rhetorical quesitoning to explain.
+- as they continue they drop the rhetorical but keep explaining where things
+  are and what other elements there are
+  - CODE: dropped rhetorical
+- they note the long plastic basket was "done long" because it's long
+  - CODE: length encoding
+- they note the pens, pencils and sharpies arent in a group but drawn close
+  to each other, perhaps because he unconsciouly grouped them together
+  - CODE: grouping by proximity (Gestalt principles)
+  - Note: these are written close to each other in the dataset but if they had
+    continued as they started, they would have been spread left-to-right, but
+they changed their order of writing for them.
+- when asked further about the placement, they reiterated that they put them a
+  little closer together because "they are close"
+  - CODE: grouping by proximity (confirmed)
+- they drew the long basket diagonal because they thought it would be
+  "hilarious" to write it long
+  - CODE: long encodes long, direct encoding
+  - CODE: tilt for pop out?
+
+- when asked what sticks out, they also noted the long plastic basket. On
+  propmpting, especially in comparison to the small plastic basket, they say because it's long.
+  - Note: I wonder if like me, it's because they have trouble knowing exactly
+    what it is and in which direction it is long in. We will never know the
+mysteries of the long plastic basket.
+- They then ask if we meant what's different in the set. THey are told it's
+  not what they drew, just in the data. They start saying anything and then
+declare there's a pencil pouch that they missed. They also say the baskets
+stick because they don't seem to belong.
+  - CODE: lack of cohesion with others as reason for sticking out
+  - CODE: missed a data point
+- They are asked if they put a "(1)" next to single items. They say no
+  - CODE: single quantitiy implied
+
+- when asked if they had seen something like this before. They say since 2nd
+  grade they have sen Venn diagrams and that they didn't like them in 4th
+grade.  (line 26)
+  - CODE: had seen something similar before
+  - CODE: taught in K-12
+  - CODE: set (confirmed)
+- facilitator probes on the idea of Venn diagrams having overlapping
+  categories, asks why this has one. The participant says it's mood dependent
+but they semed like they were all pretty similar, so they didn't look into
+detail or "bother" splitting them. However, if they had to, they'd probably
+divide the office items out OR perhaps the post office items out.
+  - CODE: office grouping
+  - CODE: post office grouping
+  - CODE: would require more thought so they didn't
+
+- when asked if their mental model change, they said it didn't ecxept when
+  they got to the pens, pencils, and shapries they thought of those like a
+stack in CS
+  - CODE: mental model didn't change overall
+  - CODE: mental model became more detailed in process
+  - CODE: stacks considered
+- when asked how they'd make a stack, they said they would probably draw them
+  individually instead of grouped
+  - CODE: stack implies individual item
+
+- 19yo CS major, works part-time on a data project working with maps, but just
+  started, now visualizes regularly in those last 2-3 weeks of starting see
+they visualize there, but has also visualized data sets and structures in
+class
+  - CODE: familiarity from data structure visualizations
 
 
 
