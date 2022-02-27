@@ -1241,8 +1241,87 @@ need pictures
   now that they're more senior
 
 
+27. 
+
+File System
+
+https://osf.io/q9cn5/ (notes)
+https://osf.io/mjen8/ (drawing)
+
+- when asked about their initial reaction, they point out that they got lost
+  in the narrative of the "in this folder" and had to backup to think what
+that meant
+  - Note: this is the second time someone has pointed out that phrase
+  - CODE: possible ambiguity sticks out
+
+- they draw from the upper left but ove down from there.  It sounds like
+  they're writing text interspered with arrows. The arrows go downn. 
+  - CODE: node-link diagram, top - down, othrogonal/straight edges
+  - CODE: no root between the two folders
+- They group the files within each folder, using "filetype x #"
+  - CODE: aggregation of files by type
+- They give the folders a name
+  - CODE: naming/labeling folders
+- At the end they draw a rectangle around the diagram and label it "dataset"
+  - CODE: enclosure for the whole dataset
 
 
+- when describing the dataset, they first use the term "very large data set"
+  but then correct themselves
+  - Note: Not sure what this means
+- when they describe the drawing, they more describe the dataset than the
+  pieces of the drawing itself. They don't mention arrows, arrangement, etc
+  - CODE: explain dataset rather than drawing
+  - Note: though how much have they reorganized it versus what they were
+    given?
+- when asked why they didn't use icons, they suggest icons can be confusing
+  unless its "mutally understood by both people"
+  - CODE: icons can confuse people
+- they further suggest they might forget what the icons mean if not written
+  somewhere.
+  - CODE: need to keep track of encoding
+- "You can't go wrong with text and it's not long either" (line 6)
+  - CODE: text makes things clear
+  - CODE: there wasn't too much to write/draw
+
+- when asks what sticks out, at first they are unsure
+  - CODE: neesd reflection on what sticks out
+- they note that they had initially pictured a dataset for an ML or deep
+  learning task when the term "data set" was used and therefore assumed all
+the files to be the same type, so they noticed they had different type (line
+9)
+  - CODE: surprise at what a 'dataset is
+     - Note (!!!): I think they think the dataset is what is IN the files, not
+       what we have presented to them! I think they never knew what we meant.
+       - Several people mentioned the heterogeneous files... were they
+         thinking the same thing??
+  - CODE: heterogeneous mixing of the files.
+
+- facilitator asks for more information of the dataset in their head. They
+  said they would expect folders and subfolders, with the subfolders at the
+end having files of the same type. (line 13)
+  - CODE: dataset organized with files only at the bottom
+- they also said they expected a nested organization of folders with the files
+  only at the end OR just one folders with the list of files. (line 13)
+  - CODE: dataset organized with files only at the bottom
+  - CODE: dataset organized as just a list of files
+- they note they don't expect a "date modified" as asked by the facilitator
+  unless they know what the data set is for (line 13)
+  - CODE: more attributes only if task requires them
+
+- when asked how they came up with this idea, they said that for any
+  hierarchy, a tree comes to mind, so that's what they thought of to show.
+  - CODE: hierarchy = tree
+- they also note they could ahve picked it up in some classes they took
+  - CODE: taught representation
+- they note they are a computer science major
+
+- when asked if their mental model changed, they said no, especially once they
+  figured out the ambiguity regarding the last folder
+  - CODE: mental model did not change
+
+- 23 yo CS grad student, GRA, NLP. They visualize data frequently as a go-to
+  before further analysis
 
 
 
