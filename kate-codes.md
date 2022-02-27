@@ -899,6 +899,84 @@ https://osf.io/ty2k8/ (drawing)
 - 19 you CS major, always visualizes things in mind to understand them
 
 
+23. 
+
+Power Stations
+
+https://osf.io/t45ry/ (notes)
+https://osf.io/prtw4/ (drawing)
+
+- what sticks out, they say a lot of different categories
+  - CODE: noted categories / data breadth
+- when prompted which stikc out the most, they talk about the categories of
+  buildings, some with people, some without
+  - CODE: building categories
+
+- start drawing in upper left
+  - CODE: upper left drawing
+- draws axes with a big L and then adds vertical lines to divide the space,
+  with labels along the bottom. After having the building type vertical
+buckets, writes numeric labels along the y-axis. Then scribbles in some
+shading inside the columns, probably to indicate they are bars
+  - CODE: bar chart (showing power need? residents?)
+- the shading is not tied to an axis
+  - CODE: imprecision
+
+- they explain they made "a graph" but are unclear what they were trying to do
+  with it
+  - CODE: drawing is some kind of chart
+  - CODE: doesn't understand encoding
+- They say they did plan for the scale
+  - CODE: drawing estimation issues
+- They say they don't know what to do with the power stations
+  - CODE: subset of the data shown (though this appears to be due to not
+    having a clear idea of what they were doing)
+    - CODE: mental model unclear?
+- They suggest they are using the shading to do something with the apartments
+  and "each unit" (house?)
+
+- they say what stuck out to them was the differences in each power station
+  - Note: that's interesting since they don't show the power stations
+- when asked if they considered showing the power stations instead of the
+  totals, they say they thought of it and suggest they could have done it like
+a pie chart of the power stations
+  - CODE: familiar chart suggested
+  - CODE: mental model change 
+- they note they have only taken high school math
+  - CODE: training with data/charts/math
+
+- when asked if they had seen this idea before, they say they have not
+  - CODE: Not seen before
+- they do however note they do a lot of Excel "but that's like, you just enter
+  hte numbers. And you have subcategories"
+  - CODE: familiarity with categorization?
+- they are asked if they make charts in Excel, they note they only categorize
+  - CODE: little vis experience
+  - Note: their solution does include categorization however...
+
+- when asked about changing their mental model, they said they did. They said
+  reading it, it made sense, but trying to figure out the best way to express
+it, they had difficulty doing so concisely with so much goin on
+  - CODE: mental model did change
+  - CODE: imposed task - express concisely
+  - CODE: too complicated?
+    - Note: was lack of familiarity with networks an issue here?
+
+- when asked how they might change it, they suggest including the power
+  stations
+  - Note: this feels like lack of background... it's too bad we couldn't get a
+    sense of how it made sense to them. There seems to be a break here between
+the mental model and their ability to express it. This feels like it ties into
+visual literacy some how and this feels very important
+    - CODE: inability to express mental model
+
+- 25 yo nurse, says they somtimes visualize despite the above. Basically in
+  terms of tracking things on patients charts. Sometimes a bar is used
+  - CODE: so they do have familiarty with bar charts?
+- they also talk about what sounds like line charts of weight and BMI
+  - CODE: familiarity with line charts
+
+
 
 
 
