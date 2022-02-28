@@ -1382,6 +1382,103 @@ them and annotations
   - Note: sounds like they like to cluster/categorize
 
 
+29. 
+
+Power Station
+
+https://osf.io/bph2d/ (notes)
+https://osf.io/u7d5m/ (drawing)
+
+- their gut reaction was that the data is unclear because it doesn't say how
+  many people live in the homes, just the apartments and also how the arehouse
+fits into the residential stuff. They wouldn't be able to see how many people
+are affected
+  - CODE: extra attributes/data wanted/missing
+  - CODE: declares task ("people affected") and said they couldn't do that
+- they suggest it wouldn't be good for certain purposes but isn't necessasrily
+  bad. The facilitator asks them what it could be used for or what it needs.
+Teh participant explains the estimates of how may people are in each home as a
+spread sheet with how many live in each, otherwise you have to estimate by
+average
+  - CODE: table/Excel requested
+  - CODE: suggest average amount per house
+- they go on to say the warehouse is less obvious, but may how many people
+  worked there and how many hours.
+  - CODE: need more about people-hours
+- they then suggest that perhaps this is about buildings rather than people,
+  but then you'd need amount of apartments
+  - CODE: comes up with alternative task matching data better
+- they suggest knowing the land-area for the power station would also require
+  knowing where houses are
+  - CODE: geospatial request
+
+- they draw out a table as a big rectangle, labeling the column headers and
+  row labels first. They fill in counts where it exists and put X where it
+doesn't. Next to the apartment label they put an asterisk with a annotation
+about how many are in each apartment.
+  - CODE: table
+  - CODE: marks for missing data
+  - CODE: handles extra apartment info as a note/annotation
+
+- when asked to describe it, they say "it's mostly a table setup" and epxlain
+  "3 variables" as the rows (home, apt, warehouse).
+  - CODE: table
+- they note the power stations are listed horizontally, briefly calling it at
+  x-axis but deciding that doesn't work in a table and saying horizontal again
+  - CODE: x-axis has more meaning, does not match with table
+- they note their asterisk is next to the apartment signifier and they put it
+  down in case it would be useful
+  - CODE: signifier
+  - CODE: saving all information
+
+- when asks what sticks out, they say the warehouse because there's just one
+  of them
+  - CODE: the singleton sticks out
+- not knowing how many people per home also stuck out to them
+  - CODE: missing attribute sticks out
+- on prompting, they further explain that since the warehouse isn't
+  residential, the power station powering it is not a "residential power
+station", so they can think of things in terms of power station C being
+different.
+  - CODE: the different one, power station C sticks out
+- they speak about if you consider how many buildings powered, the data may be
+  skewed because the warehouse is just one big building
+  - CODE: concerns with summary metrics denominator
+
+- when asked about the idea, they said it's natural for them to put it in a
+  table and the easiest for them to understand what's going on. They note they
+have worked wiht an lot of Excel spreadhseets in school and even drew things
+this way in elementary school due to the logic puzzles they did
+  - CODE: table
+  - CODE: heavily releated to past experiences in childhood and in school
+- facilitator notes the logic puzzles would encourage using X's the way they
+  did. They explain the X's make it easier to see/work with. They note in
+Excel they would put zero, but those aren't as easy to pick out as being
+different
+  - CODE: fast readability considered for marks
+  - CODE: deliberately set zero values
+
+- when asked about their mental changing, they said it did not. They didn't
+  notice things weren't in ABC order the first time but did notice that when
+drawing it out
+  - CODE: mental model did not change
+  - CODE: ordering change did not affect them
+
+- 22yo student changing from chemical engineering to information science. They
+  don't think they think of things in terms of pictures in their head that
+much, instead they prefer to work with tables and numbers and Excel sheets
+  - CODE: does not visualize with images
+- facilitator asks if they can recall which power station used the most power.
+  They said they would have to look again since they weren't thinking too hard
+about it, but the apartment buildings are probably heavy. They make an
+estimate for the warehouse and the houses and then say how they would estimate
+it based on epople.
+  - CODE: does not remember
+  - CODE: does come up with an algorithm for calculation
+- The faciliator says they asked to see if the person remembered numbers. They
+  say instead they just remember C has the warehouse
+  - CODE: outlier wins
+
 
 
 
