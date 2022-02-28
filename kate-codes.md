@@ -5,34 +5,56 @@ https://osf.io/pkqsm/ (notes)
 https://osf.io/kj4nt/ (drawing)
 
 - As the dataset is read, imagines manila folders, similar to "Windows"
+  - CODE: similiarity to Windows
+  - CODE: relation to icons (and through them "real world objects")
 - As the dataset is read, in head organizes first one on the "left"
+  - CODE: left-right organization
 - As the dataset is read, thinks of things in levels already
+  - CODE: hierarchy
 
 
 - Draws a node-link hierarchy with orthogonal edges
+  - CODE: top-bottom node-link hierarchy
+  - CODE: orthogonal edges
 - Uses different icons for the different types (squiggles for text files,
   photo for pictures)
+  - CODE: types as glpyhs/icons
 - Root is only added during discussion
+  - CODE: rootless at first, root added later
 - Talks about things being "connected to but beneath" and needing to "link
   them"
+  - CODE: hierarchy described with 'beneath'
+  - CODE: word "link" used
 
 - They want to re-organize this data by type ("have all the text files in one
   folder and maybe all the photos in one folder")
+  - CODE: desire to organize by type
 
 - They note they got this idea from growing up with computers, using Win98 and
   XP, and thus their file system/structure makes the most sense for them
+  - CODE: idea came from something they had seen before
+  - CODE: idea came from OS file system
+
 - During hte process, they say that they're imagining the containing folder
   for the first two. They appear to be describing the icon view in the Windows
 file system.
-- NOTE: There is no view in Win98 or XP that looks like what they've drawn!!
+  - CODE: revision for the root node
+  - NOTE: There is no view in Win98 or XP that looks like what they've drawn!!
 - They seem to navigate the hierarchy as it is said
+  - CODE: mental model is a subset at a time, not the full set
+  - CODE: mental model consistent with drawing, but never full drawing
+  - CODE: mental model comes with interactions
 - Has high affinity for computers, grew up with them, was a lingist but now an
   IT administrator, and now a CS major
+  - CODE: relation to real life
+
+
 - 28yo CS major, always visualizes data due to their classes, sometimes as a
   hobby (is in computer organization, discrete structures, calc II, and web
 development --- no vis!)
 
 - CODE: Embellishment as they talk to the faciliator (circling folders)
+
 
 7. 
 Junk Drawer
@@ -42,32 +64,42 @@ https://osf.io/hsy7q/ (drawing)
 
 - As the dataset is read, tries to "visualize that drawer" and also tries to
   figure out what goes in what container in the drawer.
+  - CODE: consider physical image of the drawer
+  - CODE: organizing while dataset is read
 
 - They started drawing the big outline (rectangle/drawer) and then added stuff
   from left to write. It sounds like they draw in a hierarchical way...
 drawing the drawer, then the containers, then the contents.
   - They ran out of room to put the sharpies in the pouch so then they don't
-    put them in there. They note this as they do it.
+    put them in there. They note this as they do it. 
+    - CODE: run out of room while drawing
 - Has a lot of detail in explanation on how the drawer would work (where the
   knobs and edge  would be)
+  - CODE: added detail on encompassing drawer
 - Is concerned at how neatly things are stacked.
 - Makes logical associations between some of the items, like putting the
   stamps with the envelopes.
+  - CODE: grouping using containers by logical association
 - Notes they drew the pencils unsharpened -- extra state information
   - Note to self: CODE: more "filling in information that's not there"
 - They note the junk drawer is actually pretty clean all tings conisdered
+  - CODE: situating in reality
 
 - They note the contents seems reasonable for a stationary drawer.
+  - CODE: they note the bigger picture that these items do go together
 - They note when we said "data set" they expected something more structured,
   like a table or spreadsheet, since that'
   - CODE: Expectation that data is tabular
 - They note however that this is a valid dataset because it has objects and
   quantities for those objects (??)
+  - CODE: idea of data as having items and attributes (?) or quantities (?)
 - They however chose this depiction over a table because they have a similar
   drawer at home and were thinking about it.
+  - CODE: matche with real life
 - Their mental model maintained constant because they were thinking about
   their own drawer.
-  - CODE: Arrangement is highly personal (see also: sock drawer)
+  - CODE: Arrangement is highly personal (see also: sock drawer discussion)
+  - CODE: mental model did not change
 
 - 20yo CS/MIS major, has not used D3, but has used Power BI and Tableau, though
   not often, just for class... however, likes to visualize in their head while
@@ -79,23 +111,26 @@ they read it.
 
 
 8.
-Power plans
+Power plants
 
 https://osf.io/47sng/ (notes)
 https://osf.io/47sng/ (drawing)
 
 - As the dataset is read, they note it sounds like a maths problem
   - In their head, they think of the actual physical power plans and buildings
+    - CODE: visualize true phyiscal objects
+  - CODE: trying to assign task (math problem)
 
 - While drawing, comes up with icons for building types. Seems like power
   station is a cooling tower with a rectangle. Warehouse they say is a "big,
 giant, two or three story building" and raws a rectangular prism. Also draws
 houses in 3D.
   - Develop different iconography for different types of buildings
-    - CODE: Catagoriacl icongraphy very popular
+    - CODE: Catagorical icongraphy very popular
     - Note to self: circle back to the idea of data losing its connection to
       reality
 - Uses 3D at first but then switches to 2D
+  - CODE: abstraction as drawing continues
 - Apartment complex based off of one friends live in
   - CODE: Relating directly to personal
     - also notes that power plants based on those back home and in engineering
@@ -105,6 +140,7 @@ houses in 3D.
   drawing. Huh.
   - Interesting that they don't explain the drawing, but instead explains teh
     data.
+  - CODE: describe dataset, not drawing
   - Seems to be trying to immediately answer some questions about the data "So
     I guess D is proving the most power?"
     - CODE: Naturally seeking tasks
@@ -112,9 +148,12 @@ houses in 3D.
   - CODE: Naturally seeking extra data/information/attributes
 
 - Mental model remained the same but then they "got lazy" with the rendering
+  - CODE: mental model did not change
   - They were still imagining the same things but just drawing it more
     abstractly
-  - CODE: Uh... abstractions? mental model vs. depictions
+    - CODE: Uh... abstractions? mental model vs. depictions... depiction
+      changes but not mental model
+
 
 - 21yo CS/Math major, really likes looking at choropleth maps (thought didn't
   know teh term), always tries to visualize first when they hear of data but
@@ -134,6 +173,8 @@ https://osf.io/6n7pa/ (drawing)
 
 - On hearing the dataset: "obviously a folder structure" with nested
   information. Already discusses what they would show in termsof links
+  - CODE: nesting
+  - CODE: compound node-link daigram?
 
 
 - Draws each of the first two folders as big rectangles with small "txt" files
@@ -150,12 +191,14 @@ later while they were explaining what they drew.
 - They draw nested folders at the same level, but use a link from one icon to
   the folder to indicate the relationship.
 - They claim this is "pretty standardized for computers"
+  - CODE: claim this is how computers do it
 
 - They note they don't know the text file sizes so they drew them all the same
   size to represent that htey're ther.
   - CODE: Requesting extra attributes/info
   - CODE: Icon representations
 - They note they color them in because they're pretty
+  - CODE: color as aesthetic embellishment
 - They use the langauge "reference" to just say they're somewhere even if you
   don't know how big they are.
 
@@ -171,16 +214,24 @@ different from others.
 - They note they based their drawing on computers which they have been using
   since childhood and call their drawing "pretty standard"
   - Notes they could separate by type on different operating systems
+  - CODE: drawing bsed on what computers are
 - They say they've seen something like this before in organizing files for a
   website, but note they could be overassuming
+  - CODE: this matches smoething they have seen before
   - CODE: Try to guess the outer context, or something they know, and organize
     that way
 
+- they said their mental model did not change, though they considered adding
+  size but figured that owuld be a different dataset
+  - CODE: mental model did not change
+
 - When asked to draw with sizes, switches to a stacked bar chart organized by
   file type.
+  - CODE: stacked bar chart
   - Drawing reminds them of chocolate bar :)
   - On second promprt, said it reminds them of hard drive fragmentation
     visualization
+    - CODE: seen before
 
 - 24yo software developer & CS major w/previous neuroscience degree
   - does visualization w/database queries for reports
@@ -198,18 +249,23 @@ https://osf.io/kgv76/ (drawing)
 - Have two representation, the first is JSON-like and the second is a weighted
   node-link diagram (second was added in discussion)
   - JSON was key-value with the value being the number of items listed
-
+  - CODE: JSON for unk drawer tallying
 - Upon hearing the data description noted it was a lot of office supplies
+  - CODE: notice bigger context of all the items
 
 - in interview aftwerwards they confirmed that they related "data" to
   computers
   - CODE: "Data" is something computer-y
 - They noted the large number of items
+  - CODE: felt it was a lot of items
 - They noted they had seen this kind of organization in Python and their CS 2
   course. 
   - CODE: Familiarity from elsewhere with this kind of representation
 - They considerd what they call a "web format" which is the node-link diagram
   they then drew.
+  - CODE: node-link diagram to show relations
+  - CODE: inherent familiaritiy
+
 
 - 18yo CS major, sometimes visualizes data
 
