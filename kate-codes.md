@@ -1324,6 +1324,62 @@ end having files of the same type. (line 13)
   before further analysis
 
 
+28. 
+
+Junk Drawer
+
+https://osf.io/4u63n/ (notes)
+https://osf.io/davzy/ (drawing)
+
+- their gut reaction was that it looks unrelated "seems like a lot of random
+  data" but as the list went on, they began to sort into 4 groups
+  - CODE: junk drawer seems random
+  - CODE: categorization
+- on prompting about the groups, they describe "things that help you organized
+  tasks", "things for mail", "writing implements", and "holders"
+  - CODE: categorization by function!
+  - CODE: categorization in order the set is given
+    - Note: This is an interesting outcome of ordering
+
+- while drawing they started in the top-middle and divided the page with a
+  verticle line. They then write out the first two groups. Then they write the
+second two groups under, having divided in quads
+  - CODE: divide space evenly in fourths
+  - CODE: grouping by task-categorization
+- looking at the drawing, each item is listed with a number next to it
+  indicating how many except in the "holders" where the number is not listed.
+Also the small basket is missing
+  - CODE: missing small basket
+  - CODE: item type with quantity
+
+
+- when they explain the data, they call it a "two by two table"
+  - CODE: "Table"
+- they say the've grouped into four groups each, based on their functionality
+  - CODE: "group by functionality
+- They re-iterate their rationale from earlier.
+
+- when asked what sticks out, they note it's "just a list of office items with
+  numbers on their quantity and they're already sorted.
+  - CODE: sees big picture of "office items"
+  - CODE: believes they're already sorted
+
+- when asked how they came up with this idea, they said they've never done
+  this kind of study before. when further prompted in how they have organized
+things previously, they said "probably" but didn't come up with an example
+  - CODE: unclear what drawing was based on
+
+- when asked if their mental model change, they said no and they stuck with
+  that idea, re-reading only confirmed what they had in mind and the drawign
+matches that exactly
+  - CODE: mental model did not change
+
+- 19yo CS major who visualizes pretty often in the context of their
+  coursework, sounsd like things like state for computer organization as one
+example. They also note in their East Asian studies class there's a lot of
+terminology so they sort them in concepts with bubbles and arrows connecting
+them and annotations
+  - Note: sounds like they like to cluster/categorize
 
 
 
