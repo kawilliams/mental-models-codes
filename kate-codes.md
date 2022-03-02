@@ -1536,9 +1536,75 @@ it based on epople.
   - CODE: outlier wins
 
 
+30. 
 
+File System
 
+https://osf.io/9jxy3/ (notes)
+https://osf.io/2xvz4/ (drawing)
 
+- They note they were imagining the Windows file explorer until code files
+  were present but then they thought of git
+  - CODE: like Windows file explorer
+  - CODE: like git if there is code files
+
+- Draws manila folder icon with a line down adn then a text list of files.
+  - CODE: Icons
+  - CODE: top-down tree
+  - CODE: individual items
+- code files are ".js"
+  - CODE: added detail
+- nested folder is still a manilla folder, but part of the list
+
+- They explain with the word "icon" that they're using it to represeent a
+  folder. 
+  - CODE: icons
+- They say they use common strings (my word) for identifying text, images, and
+  for code they arbitrarily picked a language (javascript) as that's what htey
+used (line 2)
+  - CODE: personal (javascript)
+  - CODE: common well known tags
+
+- WHen asked what sticks out, they note ethat they would not have organized an
+  application the way in which this dataset did
+  - CODE: concerned with arrangement of file types
+  - CODE: what sticks out is what runs counter to their arrangement
+- (line 5) "But that's assuming this is more or less exhausitvely
+  representative of what's going on"
+  - CODE: bigger picture
+
+- When asked about the idea, they note they do programming and have had a lot
+  of exposure to the way Windows represents it, so "it's kind of been
+programmed into me"
+  - CODE: seen it before
+- They also describe the interactions to navigate the hierarchy
+  - CODE: interactions are part of this mental model
+
+- When asked if their mental model changed, they said it was in trying to
+  choose which "tokens" to reprsent the file type. They recognize that they
+have picked inconsistent tokens.
+  - CODE: tokens/text
+- They also note that if they were trying to map this out in a "normal
+  relationship", they would do it in terms of tables... sounds like database
+tables, but I'm not sure
+  - CODE: database tables
+- They draw this new type (https://osf.io/s7t2r/). It definitely looks like
+  normalized database tables
+  - CODE: data is normalized database!
+  - CODE: table
+- As they explain it, they ealso explain a schema for assigning IDs
+  - CODE: ID schema
+- When asked what it is, they call it an "entity relationship diagram"
+  - CODE: entity relationship diagram
+- When asked if they have experience with databases, they confirm
+  - CODE: seen it before
+
+- WHen asked about match to mental model, they say its close to the first
+  sketch
+  - CODE: matches mental model
+
+- 43yo data scientist/programmer who sometimes visualizes things for their job
+  in terms of statistica charts
 
 
 

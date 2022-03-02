@@ -2,7 +2,7 @@
 General
 
 Data & visualization expectations
-  - "data" means tables: J7, J19
+  - "data" means tables: J7, J19, F30
   - State that objects with quantities count as data: J7
   - "data" is something related to computers: J10
   - "data" depends on person's definition: F12
@@ -13,6 +13,7 @@ Data & visualization expectations
   - bar chart is "a graph" J22
   - thought dataset was what was in the files instead of the files themselves:
     F27
+  - "data" is database tables: F30
 
 - Desire to Reorganize
   - By type: F6, F12, P17, J19, P26
@@ -24,7 +25,7 @@ Data & visualization expectations
 - Reorganization as data is read: J7 
 
 - Items:
-  - Show all: F6, J7, F9, F12, J13, F15, F18, J19, P20, F21, P24
+  - Show all: F6, J7, F9, F12, J13, F15, F18, J19, P20, F21, P24, F30
   - Tally by type: J10, J16, J25, F27, J28
   - In between: P8, P11, P14, P17 (doesn't make as much sense for power stations), J22, P23, P26, P29
 
@@ -32,13 +33,14 @@ Data & visualization expectations
 
 - Suggests/requests more attributes/data: F9, F12, P14, J16, P17
 
-- Adding information not there: J7, F9, F18 (Ids, schema), F21 (schema), P29
+- Adding information not there: J7, F9, F18 (Ids, schema), F21 (schema), P29,
+  F30 (javascript file type)
 
 - Tried to assign task (purpose-seeking): P8, F9, P11, F12, J13, P14, J16,
   J19, J22, P29
 
 - Inferring source/big picture: J7, J10, J16, P17, J19, P20, F21, J22, P24,
-  J28
+  J28, F30
 - Inferring constraints: P24
 
 - Types as icons
@@ -46,6 +48,8 @@ Data & visualization expectations
   - Power plant: P8, P24
 - Types as orientation:
   - P24
+- Types as tokens:
+  - Filesytem: F30
 
 Abstraction:
   - Voiced abstraction from get-go: P14, P24
@@ -56,15 +60,16 @@ Abstraction:
 
 - Idea origin
   - Seen before: F6, F9, J10, P11, F12, J13, P14, J16, P20, F21, P24, J25,
-    P26, F27, P29
+    P26, F27, P29, F30
   - Not seen before: P17, J19, P23
   - Unclear: J28
-  - Related to something personal: F6, F9, F12, J13, J16, F18, J19, P20, F21
+  - Related to something personal: F6, F9, F12, J13, J16, F18, J19, P20, F21,
+    F30
   - Altered from mental model for communication: F21
 
 - Mental model:
   - Did not change: J7, P8, F9, P14, P17, F18, J19, F21, J22, P24, F27, J28,
-    P29
+    P29, F30
   - Revised during drawing, but mostly the same: F6, F15, P20, J25
   - Mental model becomes more detailed in drawing process: J25, P26
   - Changed: P23
@@ -106,20 +111,24 @@ File System Specific
 - Stated similarity to OS/computers: F6, F9, F12, F15
 Representation:
  - Node-link hierarchy: F6, F12
-    - top-bottom: F6, F27
+    - top-bottom: F6, F27, F30
     - left-right: F12, F15, F18, F21
     - orthogonal edges: F6
  - Nested hierarchy: F9, F18
  - Stacked bar: F9
- - Icons: F12
- - Text: F27
+ - Database tables: F30
+ - Contents:
+   - Icons: F6, F12, F15, F21
+   - Text: F9, F12, F18, F21, F27, F30
+   - Color: F9
  - Encode type with color: F15
 - Annotations for communicate: F21
 - Showing interactive state changes: F21
-- Rootless: F6, F27
-- Rooted F6
+Root:
+ - Rootless: F6, F9, F12, F15, F18, F21, F27, F30
+ - Rooted: F6, F21 (as enclosure rather than node-link though)
 - Mental model conceptualized as subset with interactions: F6
-- Mental model included interactions: F6, F12
+- Mental model included interactions: F6, F12, F30
 - Term "sets" is used: F18
 - Did not like mixing of file types: F27
 
