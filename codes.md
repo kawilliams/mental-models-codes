@@ -10,12 +10,6 @@ Codes
 =====
 ## Participants often want to add additional information, data that isn’t there
 
-  - Impose structure/hierarchy: for the junk drawer, some participants group items 
-    - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render))
-
-  - Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
-    - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
 
   - Add data attributes to each item: For the file system, a participant wanted to add the file sizes
       - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render) 
@@ -62,7 +56,7 @@ Codes
       - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render): the cooling towers 
 
     - Affordances: 
-      - [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape
+      - [Session 015](https://osf.io/zn6qj/): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape
 
 ## Participants tend to draw things in order of reading.
   - Often, but not always, this order reflects itself on the page
@@ -70,3 +64,19 @@ Codes
       - Session 26: intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
     - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
       - 016-B-bonus.jpg: this user came up with ways to arrange the data based on attributes that they added
+
+
+Still Developing
+================
+- The variety of the data abstractions that we saw
+  - for all 3 data sets
+    - FS: hierarchies (not not necessarily), database tables
+    - PS: node link 
+    - JD: 
+
+- Impose structure/hierarchy: for the junk drawer, some participants group items 
+  - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render))
+
+- Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
+  - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
