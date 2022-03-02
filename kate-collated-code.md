@@ -24,8 +24,9 @@ Data & visualization expectations
 - Reorganization as data is read: P7 
 
 - Items:
-  - Show all: P18, P19, P21
-  - Tally by type: P10, P25, P28
+  - Show all: P6, P7, P9, P12, P13, P15, P18, P19, P20, P21, P24
+  - Tally by type: P10, P16, P25, P27, P28
+  - In between: P8, P11, P14, P17 (doesn't make as much sense for power stations), P22, P23, P26, P29
 
 - Singleton sticks out: P13, P20, P22, P24, P25, P29
 
