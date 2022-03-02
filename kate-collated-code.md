@@ -25,19 +25,20 @@ Data & visualization expectations
 - Reorganization as data is read: J7 
 
 - Items:
-  - Show all: F6, J7, F9, F12, J13, F15, F18, J19, P20, F21, P24, F30
+  - Show all: F6, J7, F9, F12, J13, F15, F18, J19, P20, F21, P24, F30, J31
   - Tally by type: J10, J16, J25, F27, J28
   - In between: P8, P11, P14, P17 (doesn't make as much sense for power stations), J22, P23, P26, P29
 
 - Singleton sticks out: J13, P20, J22, P24, J25, P29
+- Items with detail stick out: J31
 
 - Suggests/requests more attributes/data: F9, F12, P14, J16, P17
 
 - Adding information not there: J7, F9, F18 (Ids, schema), F21 (schema), P29,
   F30 (javascript file type)
 
-- Tried to assign task (purpose-seeking): P8, F9, P11, F12, J13, P14, J16,
-  J19, J22, P29
+- Tried to assign/infer task (purpose-seeking): P8, F9, P11, F12, J13, P14, J16,
+  J19, J22, P29, J31
 
 - Inferring source/big picture: J7, J10, J16, P17, J19, P20, F21, J22, P24,
   J28, F30
@@ -57,11 +58,13 @@ Abstraction:
 
 - Describe dataset rather than drawing: P8, F27
 
+- Less visual/math literacy mentioned: P23/J31
+
 
 - Idea origin
   - Seen before: F6, F9, J10, P11, F12, J13, P14, J16, P20, F21, P24, J25,
     P26, F27, P29, F30
-  - Not seen before: P17, J19, P23
+  - Not seen before: P17, J19, P23, J31
   - Unclear: J28
   - Related to something personal: F6, F9, F12, J13, J16, F18, J19, P20, F21,
     F30
@@ -70,8 +73,8 @@ Abstraction:
 - Mental model:
   - Did not change: J7, P8, F9, P14, P17, F18, J19, F21, J22, P24, F27, J28,
     P29, F30
-  - Revised during drawing, but mostly the same: F6, F15, P20, J25
-  - Mental model becomes more detailed in drawing process: J25, P26
+  - Revised during drawing, but mostly the same: F6, F15, P20, J25, J31
+  - Mental model becomes more detailed in drawing process: J25, P26, J31
   - Changed: P23
   - Imagined physical objects: P8, F15
   - Drawing not good enough to match: F12, J19
@@ -139,11 +142,12 @@ Junk Drawer Specific
   - by logical association: J7, J13, J22, J25, J28
   - nesting: J19, J22
   - suggested but did not draw: J16
+  - no grouping: J31
 - Representation:
-  - physical representation: J7, J13, J19, J22
+  - physical representation: J7, J13, J19, J22, J31
   - JSON format: J10
   - node-link diagram: J10
-  - list order preserved: J16
+  - list order preserved: J16, J31
   - Text in a circle: J25
 - Inferred ordering:
   - By quantity: J16

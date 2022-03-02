@@ -1607,7 +1607,58 @@ tables, but I'm not sure
   in terms of statistica charts
 
 
+31.
 
+Junk Drawer
+
+https://osf.io/cy3s4/ (notes)
+https://osf.io/akfv4/ (drawing)
+
+- asked about intuition, they say they thought it was an algebra problem
+  because there were quantities to add or subtract
+  - CODE: quantities = math
+  - CODE: infer task
+
+- they draw a list of pictographs, one for each item, though maybe not all the
+  envelopes. When they run out of room in the column, they make a second
+column for the baskets
+  - CODE: no containment
+  - CODE: list
+  - CODE: physical representations
+
+- they explain they drew exactly what they saw except for the envelopes they
+  drew a box of envelopes that the there were inside
+  - CODE: added detail
+- they also note they draw the weave on one basket and not the other
+  - CODE: details
+
+- when asked what stook out they said the envelopes due to the detail and then
+  maybe the long basket and other basket because they had more details
+  - CODE: items with longer descriptions stick out
+
+- they say they haven't seen this before and since they're an MS in marketing,
+  they are not good at math
+  - CODE: have not seen it before
+  - CODE: math literacy an issue
+
+- when asked about their mental model, they said it changed a little bit in
+  taht they wondered if they needed to add more detail to each thing
+  - CODE: mental model changed regarding detail
+- when asked detail was artistic or to help clarify, they said it was to
+  clarify
+  - CODE: detail helps clarify mental model
+- they note it's hard to tell the difference between pens, pencils and the
+  sharpie the way they drew them, especially for someone else. They also
+suggest labeling would help
+  - CODE: communication requires more details
+
+- when asked if the drawing matches their mental model, they said "it would be
+  good enough for me" but others wouldn't know
+  - CODE: does match their mental model though
+
+- 36yo army wife, stay at home parent with MBA in marketing. They say they've
+  been told they have a telegraphic memory and it's better for them to write
+stuff down and then see it.
 
 
 
