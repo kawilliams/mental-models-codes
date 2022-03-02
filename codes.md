@@ -71,27 +71,36 @@ Codes
     - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
       - 016-B-bonus.jpg: this user came up with ways to arrange the data based on attributes that they added
 
-## Instances where participants indicated a bottom-up perspective, e.g. not needing to extrapolate the idea of local containment to its full abstraction implication that "this is a tree"
+## People drew visual encodings that the VIS community normally associates with a different abstraction
+
+### Instances where participants indicated a bottom-up perspective, e.g. not needing to extrapolate the idea of local containment to its full abstraction implication that "this is a tree"
 
 - [Session 006](https://mfr.osf.io/render?url=https://osf.io/pkqsm/?direct%26mode=render%26action=download%26mode=render) Envisioning one folder at time, what is inside a folder, doesn't explicitly mention "file system" until asked. "I only really consider one space at a time;" most of the structure is described from what they see from a location within the abstraction, rather than a bird's-eye view
 
-## Instances where participants drew something more like a node-link diagram, even though their description was more set-like
+### Instances where participants drew something more like a node-link diagram, even though their description was more set-like
 
 - [Session 006](https://mfr.osf.io/render?url=https://osf.io/pkqsm/?direct%26mode=render%26action=download%26mode=render)
 - possibly [Session 010](https://mfr.osf.io/render?url=https://osf.io/kedv9/?direct%26mode=render%26action=download%26mode=render)
 
-## Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
+### Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
 
 - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
 
-## Instances where participants drew a table, even though their description was very non-tabular
+### Instances where participants drew a table, even though their description was very non-tabular
 
 - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
   - Surprised by their answer about whether their mental model changed (answer: kind of yes and no); feels like it contradicts how VIS people (or at least Alex) would interpret the way they first drew a "mind map," and then a table
 
+## People drew visual encodings consistent with abstraction descriptions that the VIS community would expect
+
+### Instances where participants drew a node-link diagram, consistent with their description of a graph or tree
+- [Session 020]()
+
+### Instances where participants drew an Euler diagram, consistent with their description of set relationships
+- [Session 024]()
+
 ## Instances where participants primarily relied on text and labels, before, or in place of, visual encodings
 
-- [Session 010](https://mfr.osf.io/render?url=https://osf.io/kedv9/?direct%26mode=render%26action=download%26mode=render)
 - [Session 011](https://mfr.osf.io/render?url=https://osf.io/kaemj/?direct%26mode=render%26action=download%26mode=render)
 
 ## Instances where participants relied on concrete pictures or glyphs of real-world objects instead of more abstract visual representations
@@ -109,7 +118,13 @@ Codes
 - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
 - short lines in [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
 
-## Instances where participants used sketch marks to indicate uncertainty
+## Instances where participants used discrete aggregative marks in conjunction with concrete examples
 
 - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
   - "I marked it with a bunch of question marks to the right because I don't have any idea what [this folder] was for; it's just there"
+- [Session 030](https://mfr.osf.io/render?url=https://osf.io/9jxy3/?direct%26mode=render%26action=download%26mode=render)
+
+## Instances where participants used continuous aggregative marks, without concrete examples
+
+- [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
+- [Session 023](https://mfr.osf.io/render?url=https://osf.io/t45ry/?direct%26mode=render%26action=download%26mode=render)
