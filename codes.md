@@ -12,7 +12,7 @@ Codes
 
   - Impose structure/hierarchy: for the junk drawer, some participants group items 
     - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render))
+    - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render)
 
   - Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
     - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
