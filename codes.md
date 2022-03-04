@@ -9,12 +9,30 @@ Formatting conventions
 Codes
 =====
 ## Participants often want to add additional information, data that isn’t there
-  - Add data attributes to each item: For the file system, a participant wanted to add the file sizes
-      - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render) 
+  - Request data attributes to each item:
+    - File system
+      - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render) - file sizes 
+    - Power Stations
+      - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render) - power required per building
+      - [Session 017](https://osf.io/qmts9/) - number of people per house
+      - [Session 029](https://osf.io/bph2d/) - number of people per house
+        (possibly as average), geospatial coordinates of houses
+    - Junk Drawer
+      - [Session 016](https://osf.io/d4efp/) - item costs/price, durability
+        vs. expendable
 
-  - Add data attributes to each item: For the power plants, participants want to reduce down to the number of people or to the number of individual units 
-    - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
-  - Add data attributes to each item: Observation by KI - Participants want to add a 'richness' to the data in lots of dimensions. This isn't their data so they want to put it into the context of what they know.
+  - Add relationships between items:
+    - File system
+      - [Session 012](https://osf.io/4aphc/) - add relationships between files
+      - [Session 030](https://osf.io/9jxy3/) - database IDs, code file types
+
+  - Adding names, naming system, or schema:
+    - File System
+      - [Session 018](https://osf.io/ydnb9/) - folder names, file IDs and
+        naming schema
+      - 
+  
+  - Observation by KI - Participants want to add a 'richness' to the data in lots of dimensions. This isn't their data so they want to put it into the context of what they know. However, different people suggest different attributes. People may only want different parts of a wide dataset.
 
 ## Purpose-seeking
 
@@ -136,11 +154,71 @@ In these codes, participants infer a bigger picture or task.
 
 Kate
 ====
-## Adding interaction, especially to the file system data set
-  - Sessions 006, 012, 030
-  - data abstraction + interaction
-  - Session 021 had interactive state changes (interview notes, when asked how they would change their visualization for another person)
 
+## Affordances can be part of the mental model
+  - File System:
+      - [Session 006](https://osf.io/pkqsm/) - describes mental model as subset of
+	of given data as they navigate it, similar to Windows
+      - [Session 012](https://osf.io/xbw3h/) - drawing notes interaction,
+	discussion mentions the drawing cannot be interactive
+      - [Session 021](https://osf.io/v4nmf/) - participant describes drawing for
+	others as recreating idea of what interactions would be in place
+      - [Session 030](https://osf.io/9jxy3/) - when asked about idea, they talk
+	about the interactions to navigate the hierarchy
+  - Junk Drawer
+    - [Session 022](https://osf.io/psv9g/) - basket drawn for carrying
+
+
+## People used abstractions in the depiction
+  - Voiced the abstraction from the beginning:
+    - [Session 011](https://osf.io/qj2pm/) - drew boxes because drawing houses
+      would be too difficult
+    - [Session 014](https://osf.io/gzw56/) - sketches idea of table rather
+      than full table
+    - [Session 024](https://osf.io/742fb/ ) - geospatial would have been
+      difficult to draw, so they chose an abstracted version to draw
+  - Used abstraction as drawing continued:
+    - [Session 008](https://osf.io/47sng/) - buildings were in 3D at first but
+      then switched to 2D icons
+    - [Session 009](https://osf.io/es7w6/) - originally text files labeled
+      with "txt" but participant says they stop labeling because of laziness
+
+## Mental model fixed at high level, but becomes more detailed in drawing
+  - Revised during drawing:
+     - [Session 006](https://osf.io/pkqsm/) - root added during discussion
+     - [Session 015](https://osf.io/zn6qj/) - rearrangement needed during
+       drawing process
+     - [Session 025](https://osf.io/z7w25/) - while drawing, participant comes
+       up with new grouping for writing implements
+     - [Session 026](https://osf.io/wfrc5/) - revised consideration of
+       building types with more information
+  - Becomes more detailed in drawing:
+     - [Session 020](https://osf.io/5rsjc/) - considers how it would scale
+       to 100 buildings during process
+     - [Session 025](https://osf.io/z7w25/) - while drawing, participant comes
+       up with new grouping for writing implements
+     - [Session 031](https://osf.io/cy3s4/) - item details considered during
+       drawing to clarify depiction
+
+## Depiction changes for communication
+  - Same general abstraction
+      - [Session 006](https://osf.io/pkqsm/) - root added during discussion
+      - [Session 009](https://osf.io/es7w6/) - colors added when talking with
+	facilitator
+      - [Session 021](https://osf.io/v4nmf/) - tree drawn left-right to
+	communicate with others and attempt to add interaction indications
+      - [Session 031](https://osf.io/cy3s4/) - item details considered during
+	drawing to clarify depiction
+  - Different data abstraction
+      - [Session 026](https://osf.io/wfrc5/) - discusses various dataset
+	abstractions depending on audience "quantitative literacy"
+
+
+## Difficulty in mental model abstractions with less math literacy
+  - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
+    multidimensional aspect of power station data, drops the power station
+dimension
+  - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
 
 
 Alex 
