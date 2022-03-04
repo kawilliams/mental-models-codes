@@ -16,18 +16,47 @@ Codes
     - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
   - Add data attributes to each item: Observation by KI - Participants want to add a 'richness' to the data in lots of dimensions. This isn't their data so they want to put it into the context of what they know.
 
-## Participants want to uncover the purpose: “Why is the file system organized like this?,” “what are the power stations doing?”
+## Purpose-seeking
+
+In these codes, participants infer a bigger picture or task.
+
+### Participants want to uncover the purpose: “Why is the file system organized like this?,” “what are the power stations doing?”
   - Make a story/context for the file system: 
     - [Session 006](https://mfr.osf.io/render?url=https://osf.io/kj4nt/?direct%26mode=render%26action=download%26mode=render)
     - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
     - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
 
-## Participants want to discover ultima: For power plant, which one produces the most energy?   
+### Participants want to discover ultima: For power plant, which one produces the most energy?   
   - Supported by:
     - [Session 011](https://mfr.osf.io/render?url=https://osf.io/kaemj/?direct%26mode=render%26action=download%26mode=render)
     - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
   - Not Supported:
     - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render)
+
+### Participants suggest or assume other tasks
+  - Take inventory
+    - [Session 016](https://osf.io/d4efp/)
+  - Cleaning
+    - [Session 019](https://osf.io/z3j9f/) 
+  - Carrying
+    - [Session 022](https://osf.io/psv9g/) 
+  - Determine affected people and/or buildings
+    - [Session 029](https://osf.io/bph2d/)
+  - Math problem
+    - [Session 031](https://osf.io/cy3s4/)
+
+### Participants suggest source of data, such as all being part of a toolbox
+  - [Session 007](https://osf.io/kxze2/) - stationary drawer
+  - [Session 010](https://osf.io/kedv9/) - office supplies
+  - [Session 013](https://osf.io/bgeh9/) - toolbox, electrician's toolbox
+  - [Session 016](https://osf.io/d4efp/) - office supplies
+  - [Session 017](https://osf.io/qmts9/) - municipal or power company guide
+  - [Session 020](https://osf.io/5rsjc/) - comes from residential part of city
+  - [Session 021](https://osf.io/v4nmf/) - relation suggested but unknown
+  - [Session 022](https://osf.io/psv9g/) - office supplies
+  - [Session 024](https://osf.io/742fb/) - comes from residentail neighborhood
+  - [Session 028](https://osf.io/4u63n/) - office items, pre-sorted
+  - [Session 030](https://osf.io/9jxy3/) - organization of some program
 
 ## The idea that data relates to computers is prevalent: 
   - [Session 010](https://mfr.osf.io/render?url=https://osf.io/kgv76/?direct%26mode=render%26action=download%26mode=render) wrote a Python dictionary. 
@@ -54,7 +83,7 @@ Codes
       - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render): the cooling towers 
 
     - Affordances: 
-      - [Session 015](https://osf.io/zn6qj/): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape
+      - [Session 015](https://mfr.osf.io/render?url=https://osf.io/zn6qj/?direct%26mode=render%26action=download%26mode=render): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape: "Having a folder inside a folder, I guess. So that would - I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
 
 ## Participants tend to draw things in order of reading.
   - Often, but not always, this order reflects itself on the page
