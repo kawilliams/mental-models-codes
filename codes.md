@@ -10,13 +10,6 @@ Codes
 =====
 ## Participants often want to add additional information, data that isn’t there
 
-  - Impose structure/hierarchy: for the junk drawer, some participants group items 
-    - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render)
-
-  - Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
-    - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
-
   - Add data attributes to each item: For the file system, a participant wanted to add the file sizes
       - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render) 
 
@@ -143,3 +136,18 @@ In these codes, participants infer a bigger picture or task.
 
 ## People identify when the drawing alone wouldn't make sense to another person.
   - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
+
+Still Developing
+================
+- The variety of the data abstractions that we saw
+  - for all 3 data sets
+    - FS: hierarchies (not not necessarily), database tables
+    - PS: node link 
+    - JD: 
+
+- Impose structure/hierarchy: for the junk drawer, some participants group items 
+  - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render))
+
+- Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
+  - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
