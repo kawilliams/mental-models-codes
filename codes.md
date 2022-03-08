@@ -11,9 +11,9 @@ Codes
 ## Participants often want to add additional information, data that isn’t there
   - Request data attributes to each item:
     - File system
-      - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render) - file sizes 
+      - [Session 009](https://osf.io/6n7pa/) - file sizes 
     - Power Stations
-      - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render) - power required per building
+      - [Session 014](https://osf.io/dm3ak/) - power required per building
       - [Session 017](https://osf.io/qmts9/) - number of people per house
       - [Session 029](https://osf.io/bph2d/) - number of people per house
         (possibly as average), geospatial coordinates of houses
@@ -40,16 +40,16 @@ In these codes, participants infer a bigger picture or task.
 
 ### Participants want to uncover the purpose: “Why is the file system organized like this?,” “what are the power stations doing?”
   - Make a story/context for the file system: 
-    - [Session 006](https://mfr.osf.io/render?url=https://osf.io/kj4nt/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
+    - [Session 006](https://osf.io/kj4nt/)
+    - [Session 009](https://osf.io/6n7pa/)
+    - [Session 012](https://osf.io/4aphc/)
 
 ### Participants want to discover ultima: For power plant, which one produces the most energy?   
   - Supported by:
-    - [Session 011](https://mfr.osf.io/render?url=https://osf.io/kaemj/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 014](https://mfr.osf.io/render?url=https://osf.io/dm3ak/?direct%26mode=render%26action=download%26mode=render)
+    - [Session 011](https://osf.io/kaemj/)
+    - [Session 014](https://osf.io/dm3ak/)
   - Not Supported:
-    - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render)
+    - [Session 008](https://osf.io/47sng/)
 
 ### Participants suggest or assume other tasks
   - Take inventory
@@ -98,18 +98,18 @@ In these codes, participants infer a bigger picture or task.
   - Their organization (e.g. orientation, appearance, affordances) is based on the real world
 
     - Appearance: based on / tied to memories
-      - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render): the pencils, etc. 
-      - [Session 008](https://mfr.osf.io/render?url=https://osf.io/47sng/?direct%26mode=render%26action=download%26mode=render): the cooling towers 
+      - [Session 008](https://osf.io/47sng/): the cooling towers 
+      - [Session 013](https://osf.io/dgzrs/): the pencils, etc. 
 
     - Affordances: 
-      - [Session 015](https://mfr.osf.io/render?url=https://osf.io/zn6qj/?direct%26mode=render%26action=download%26mode=render): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape: "Having a folder inside a folder, I guess. So that would - I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
+      - [Session 015](https://osf.io/y487f/): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape: "Having a folder inside a folder, I guess. So that would - I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
 
 ## Participants tend to draw things in order of reading.
   - Often, but not always, this order reflects itself on the page
     - Support: File System and Power Station tend to be drawn in order of reading
-      - Session 26: intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
+      - [Session 26](https://osf.io/mpncx/): intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
     - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
-      - 016-B-bonus.jpg: this user came up with ways to arrange the data based on attributes that they added
+      - [Session 016 Bonus](https://osf.io/u5dge/): this user came up with ways to arrange the data based on attributes that they added
 
 ## People run into constraints with their existing sketch.
 
@@ -309,20 +309,13 @@ Items of interest
 
 
 
-
-
-
 Still Developing
 ================
-- The variety of the data abstractions that we saw
-  - for all 3 data sets
-    - FS: hierarchies (not not necessarily), database tables
-    - PS: node link 
-    - JD: 
 
 - Impose structure/hierarchy: for the junk drawer, some participants group items 
-  - [Session 013](https://mfr.osf.io/render?url=https://osf.io/dgzrs/?direct%26mode=render%26action=download%26mode=render)
-  - [Session 007](https://mfr.osf.io/render?url=https://osf.io/hsy7q/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 007](https://osf.io/hsy7q/)
+  - [Session 013](https://osf.io/dgzrs/)
+  
 
 - Impose structure/hierarchy: For the file system, a participant wanted to add names that reflected a folder hierarchy
-  - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
+  - [Session 012](https://osf.io/4aphc/)
