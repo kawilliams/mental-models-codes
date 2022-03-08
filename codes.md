@@ -78,11 +78,7 @@ In these codes, participants infer a bigger picture or task.
 
 ## The idea that data relates to computers is prevalent: 
   - [Session 010](https://mfr.osf.io/render?url=https://osf.io/kgv76/?direct%26mode=render%26action=download%26mode=render) wrote a Python dictionary. 
-  - Participants used file system icons that they cited as being from an operating system.
-    - [Session 006](https://mfr.osf.io/render?url=https://osf.io/kj4nt/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 009](https://mfr.osf.io/render?url=https://osf.io/6n7pa/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 012](https://mfr.osf.io/render?url=https://osf.io/4aphc/?direct%26mode=render%26action=download%26mode=render)
-    - [Session 015](https://mfr.osf.io/render?url=https://osf.io/y487f/?direct%26mode=render%26action=download%26mode=render)
+  
   - Reliance on tables: 
     - Session 007: 
       Me: "Did it surprise you that we called it a data set?" 
@@ -91,7 +87,12 @@ In these codes, participants infer a bigger picture or task.
     - Session 014: 
       N: "For instance, there was apartments, there was houses, there was homes, there were warehouses so the first thing I thought in my mind was how to arrange those in a table in order to get an idea of how much power each house or apartment would generate or require."
 
-
+## Explicitly-stated origins of data abstractions/mental models
+- Participants used file system icons that they cited as being from an operating system.
+  - [Session 006](https://osf.io/kj4nt/)
+  - [Session 009](https://osf.io/6n7pa/)
+  - [Session 012](https://osf.io/4aphc/)
+  - [Session 015](https://osf.io/y487f/)
 
 ## Physical objects can also be used to represent data
   - Their organization (e.g. orientation, appearance, affordances) is based on the real world
