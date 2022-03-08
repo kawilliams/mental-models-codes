@@ -221,6 +221,79 @@ dimension
   - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
 
 
+## There were a diversity of both typology-level data abstractions and idiom choices
+  - It is hard to completely disassociate the typology from the idiom, this is
+    best effort based on both the produced drawing and the way the participant
+spoke about the drawing and their mental model
+  - File System:
+    - Hierarchies:
+      - Node-link hierarchy
+        - [Session 006](https://osf.io/kj4nt/)
+        - [Session 012](https://osf.io/4aphc/)
+        - [Session 018](https://osf.io/mj84a/)
+        - [Session 021](https://osf.io/5hsua/)
+        - [Session 021](https://osf.io/wdr2y/) (second drawing)
+        - [Session 030](https://osf.io/2xvz4/)
+      - Nested hierarchy via enclosure
+        - [Session 018](https://osf.io/q4ybw/) (second drawing)
+        - [Session 033](https://osf.io/du6mw/) (interaction drawn)
+      - Hybrid:
+        - [Session 009](https://osf.io/6n7pa/)
+        - [Session 027](https://osf.io/mjen8/) (mostly node-link, but whole
+          dataset with containment)
+    - Physical:
+      - [Session 015](https://osf.io/y487f/)
+    - List:
+      - Stacked bar chart:
+        - [Session 009](https://osf.io/6n7pa/) (second drawing)
+    - Table: 
+      - Database tables:
+        - [Session 030](https://osf.io/s7t2r/) (second drawing)
+  - Power Stations:
+    - Tables:
+      - [Session 011](https://osf.io/kaemj/)
+      - [Session 017](https://osf.io/rqxab/)
+      - [Session 026](https://osf.io/mpncx/)
+      - [Session 029](https://osf.io/u7d5m/)
+    - Geospatial:
+      - [Session 024](https://osf.io/d8pke/) (second drawing, but also
+        discussed as abstracted from original)
+    - Bar chart:
+      - [Session 023](https://osf.io/prtw4/)
+      - [Session 032](https://osf.io/y8z4r/)
+    - Graph: 
+      - Node-link:
+        - [Session 008](https://osf.io/47sng/)
+        - [Session 020](https://osf.io/wrd6x/)
+    - Containment/sets:
+        - [Session 024](https://osf.io/8hsv9/) (though geospatial discussed)
+    - Hybrid:
+      - Table and Node-link
+        - [Session 014](https://osf.io/dm3ak/) 
+  - Junk Drawer:
+    - Physical:
+      - With nesting:
+        - [Session 007](https://osf.io/hsy7q/)
+        - [Session 013](https://osf.io/dgzrs/)
+        - [Session 022](https://osf.io/ty2k8/)
+      - No nesting:
+        - [Session 019](https://osf.io/d2wgk/)
+        - [Session 031](https://osf.io/akfv4/)
+    - Bar chart
+      - [Session 016](https://osf.io/4reuj/)
+    - List
+      - [Session 016](https://osf.io/u5dge/) (second drawing)
+    - Key-value, Data format:
+      - JSON: [Session 10](https://osf.io/kgv76/)
+    - Node-link: 
+      - [Session 10](https://osf.io/kgv76/) (second drawing)
+    - Sets:
+      - Venn diagram/text:
+        - [Session 025](https://osf.io/ejqnr/)
+      - Partitioned space:
+        - [Session 028](https://osf.io/davzy/)
+
+
 Alex 
 ====
 ## Aggregative marks and eliding details
