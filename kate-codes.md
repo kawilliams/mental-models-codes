@@ -1661,6 +1661,110 @@ suggest labeling would help
 stuff down and then see it.
 
 
+32.
+
+Power Stations
+
+https://osf.io/bka6e/ (notes)
+https://osf.io/y8z4r/ (drawing)
+
+- gut reaction: inconsistency in terms of how many residents are reported,
+  data is missing
+  - CODE: want residents per all building
+  - CODE: note missing data
+
+- while drawing, they announce they're going to make a bar graph. They
+  organize by power station for each bar and count of buildings (?) on the length axis. THey just label it as count
+  - CODE: bar chart
+  - CODE: aggregation by "count"
+- They run into issues with the mix of buildings and thus put different bars
+  for each type
+  - CODE: grouped bar chart
+  - CODE: building type encoded by bar line type (both thickness and fill)
+- While drawing they say they want to know what the wattage is
+  - CODE: desired data
+- While drawing they note power station D is low volume
+  - CODE: insight, inferred task
+- Then they state they're going to put it in a table instead as they don't
+  like the mix of data on the graph
+  - CODE: tables, stated but not drawn
+- They chage their midn and decide it can go in the same graph. This is where
+  they really get into the different types of bars for the aggregated bar
+graph.
+  - CODE: aggregated bar graph
+- They also draw a key/notes about how apartments have 100 residents and
+  legend for the bar types
+  - CODE: legend!!
+  - CODE: annotations
+- They state it is a bar graph and a legend
+  - CODE: bar graph, legend
+
+- While explaining, they say it's a representation of the six power stations
+  and the facilities they power
+  - CODE: high level summary
+- They note most power stations power homes
+  - CODE: high level summary
+- They note the missing data about how many people live in places
+  - CODE: missing label
+
+- When asked about their change in drawing goal during the drawing, they
+  explain since most have homes they started representing that but then they
+thought about scale differences when the other types of buildings came in and
+how that would end up looking.
+  - CODE: concerns with scale
+- They then note it's okay because in a research setting, they would use a
+  program like Excel or Tableau to "make it look pretty"
+  - CODE: aesthetics
+  - CODE: tools help with encoding/scale issues
+- They mention again how wattage isn't shown
+  - CODE: inferred task
+  - CODE: desired data
+
+- When asked about Excel and Tableau and why it would do a better job, the
+  participant suggests these programs have a better way to do the different
+scales and that they can draw it more neatly
+  - CODE: rely on program for encodings
+  - CODE: program draws better
+
+- When asked what sticks out, they again mention the data seems incomplete or
+  difficult to compare because the number of residents and power isn't
+available
+  - CODE: desire # people per building and wattage per building
+
+- When asked, participant first said it's teh simplest thing that came to mind
+  but guesses they've seen it before, but it's the simplest conclusion
+  - CODE: mental model is 'obvious', especially when seen before
+- when asked to clarify, they said the simplest thing is the counts of data
+  and comparing counts in them, so that leads to bar graph 
+  - CODE: inferred task influences model
+
+- When asked if their mental model changed, they said yes, because they were
+  searcing for a better way to represent everything
+  - CODE: mental model changed as search for best representation
+- They also noted that they might use a table in addition to bar graph to
+  communicate it to other people
+  - CODE: communication changes the representation
+- They again bring up missing data.
+  - CODE: really really want those attributes
+- They suggest "other figures" and "add captions" to help
+  - CODE: communication changes/adds to representation
+  - Note: Not sure this person understands what their mental model is
+
+- When asked how well this drawing matches their mental model, they said they
+  think this is their mental model and from a science publication point of
+view they would think about it like this including the figures, captions, and
+eent the text around it.
+  - CODE: Mental model is actually how it fits in a publication
+  - CODE: Mental model has a great deal of context
+  - CODE: Inferred task.
+- "I think rarely in data representation you have just one figure."
+  - CODE: need multiple images to show the same story
+
+
+- 26yo Med student with pediatric cardiology research background
+  - visualizes sometimes, reads papers for research and images from liberal
+    news outlets on Instagram
+
 
 
 
