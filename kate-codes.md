@@ -1705,7 +1705,7 @@ graph.
 - They note most power stations power homes
   - CODE: high level summary
 - They note the missing data about how many people live in places
-  - CODE: missing label
+  - CODE: missing data
 
 - When asked about their change in drawing goal during the drawing, they
   explain since most have homes they started representing that but then they
@@ -1766,6 +1766,67 @@ eent the text around it.
     news outlets on Instagram
 
 
+33.
 
+File System
+
+https://osf.io/uj34p/ (notes)
+https://osf.io/du6mw/ (drawing)
+
+- gut reaction is that there are different types of files and a nested folder
+  - CODE: noticed file types
+  - CODE: noted nesting
+
+- they describe drawing two big folders and then inside there are sqaures with
+  squiggly lines to show text and square with represent images that have a
+little camera in them
+  - CODE: nested hierarchy
+  - CODE: icons
+- they are not sure what to do to represent code so they draw the subfolder
+  first, and they draw an inset to show what's in that folder.
+  - CODE: inset
+  - CODE: how to represent code
+- They decide to draw reading glasses to represent code, but then they change
+  to an R asking "What are some types? R. R is a good one."
+  - CODE: icon choice
+
+- They explain their drawing. First ask about the Rs, they say they didn't
+  want to be complicated.
+  - CODE: simplification? abstraction?
+- They say "obviously the text files are the ones wiht the two squigglies"
+  - Note: is this a reference to what they said earlier or a shared knoweldge
+    space?
+- They are asked about the inset, whether it represents interaction. THey say
+  that that's the purpose of it
+  - CODE: mental model includes interaction
+
+- They say the nested folder and the code files stick out as the code files
+  were tricking
+  - CODE: hard-to-encode item sticks out
+
+- They say they they didn't have anything on the top of their mind that they
+  used to come up with this, it just seemed like the simplest way
+  - CODE: aim for simple
+- They note they've seen different ways of visualizing data sets, but they
+  weren't aiming for something similar that they had seen before. It was what
+came to mind first
+  - CODE: not based on anything in particular
+
+
+- They said the only thing in their mental model that changed was the file
+  type symbols but once they started thinking about it it was what it wrote
+down
+  - CODE: only slightly mental model change to add detials 
+
+- They said if they had better drawing abilities, the camera would have been
+  drawn better but otherwise it matches what they had in their mind
+  - CODE: mental model matches
+- They said the dataset was simple so they didn't think too hard
+  - CODE: didn't think too hard
+    - Note: is this a sign we're getting at what we wanted?
+
+- 27yo financial services consultiant, visualizes daily with
+  Excel/Office/Powerpoint. Mostly uses bar charts, pie charts, tables, and
+trend lines
 
 
