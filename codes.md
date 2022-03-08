@@ -236,6 +236,7 @@ spoke about the drawing and their mental model
         - [Session 030](https://osf.io/2xvz4/)
       - Nested hierarchy via enclosure
         - [Session 018](https://osf.io/q4ybw/) (second drawing)
+        - [Session 033](https://osf.io/du6mw/) (interaction drawn)
       - Hybrid:
         - [Session 009](https://osf.io/6n7pa/)
         - [Session 027](https://osf.io/mjen8/) (mostly node-link, but whole
@@ -259,6 +260,7 @@ spoke about the drawing and their mental model
         discussed as abstracted from original)
     - Bar chart:
       - [Session 023](https://osf.io/prtw4/)
+      - [Session 032](https://osf.io/y8z4r/)
     - Graph: 
       - Node-link:
         - [Session 008](https://osf.io/47sng/)
