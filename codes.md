@@ -76,16 +76,16 @@ In these codes, participants infer a bigger picture or task.
   - [Session 028](https://osf.io/4u63n/) - office items, pre-sorted
   - [Session 030](https://osf.io/9jxy3/) - organization of some program
 
-## The idea that data relates to computers is prevalent: 
-  - [Session 010](https://mfr.osf.io/render?url=https://osf.io/kgv76/?direct%26mode=render%26action=download%26mode=render) wrote a Python dictionary. 
-  
-  - Reliance on tables: 
-    - Session 007: 
-      Me: "Did it surprise you that we called it a data set?" 
+## The idea that data relates to tables is prevalent:   
 
-      S: I was expecting something more structured, maybe like a table or something. I guess I was expecting a table. Because that’s the most common form of storing data, like a spreadsheet or table, something like that. I guess this a valid data set, it’s got objects and quantities for those objects.  
-    - Session 014: 
-      N: "For instance, there was apartments, there was houses, there was homes, there were warehouses so the first thing I thought in my mind was how to arrange those in a table in order to get an idea of how much power each house or apartment would generate or require."
+  - [Session 007](https://osf.io/kxze2/): 
+    Me: "Did it surprise you that we called it a data set?" 
+
+    S: I was expecting something more structured, maybe like a table or something. I guess I was expecting a table. Because that’s the most common form of storing data, like a spreadsheet or table, something like that. I guess this a valid data set, it’s got objects and quantities for those objects.  
+  - [Session 014](https://osf.io/gzw56/): 
+    N: "For instance, there was apartments, there was houses, there was homes, there were warehouses so the first thing I thought in my mind was how to arrange those in a table in order to get an idea of how much power each house or apartment would generate or require."
+  - [Session 030](https://osf.io/9jxy3/): [bonus image](https://osf.io/s7t2r/) 
+    E: "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table..."
 
 ## Explicitly-stated origins of data abstractions/mental models
 - Participants used file system icons that they cited as being from an operating system.
