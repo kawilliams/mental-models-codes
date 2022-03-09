@@ -86,7 +86,7 @@ In these codes, participants infer a bigger picture or task.
     S: I was expecting something more structured, maybe like a table or something. I guess I was expecting a table. Because that’s the most common form of storing data, like a spreadsheet or table, something like that. I guess this a valid data set, it’s got objects and quantities for those objects.  
   - [Session 014](https://osf.io/gzw56/): 
     N: "For instance, there was apartments, there was houses, there was homes, there were warehouses so the first thing I thought in my mind was how to arrange those in a table in order to get an idea of how much power each house or apartment would generate or require."
-  - [Session 019](https://osf.io/z3j9f/): "I think of, like I didn’t work with Excel very much, so I don’t think of data sets, but when I heard the term data sets, I really thought about the analysts I worked within and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing. I refer to data sets and I was familiar with them but I never thought of stuff like this as a data set." (junk drawer data set)
+  - [Session 019](https://osf.io/z3j9f/): "I think of, like I didn’t work with Excel very much, so I don’t think of data sets, but when I heard the term data sets, I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing. I refer to data sets and I was familiar with them but I never thought of stuff like this as a data set." (junk drawer data set)
   - [Session 030](https://osf.io/9jxy3/): [bonus image](https://osf.io/s7t2r/) 
     E: "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table..."
 
@@ -101,7 +101,7 @@ In these codes, participants infer a bigger picture or task.
     regularly depends what counts as data
   - [Session 014](https://osf.io/gzw56/): Dataset and data within are
     different ideas: "like the emphasis should be on the data set, not the data containing in it, right?"
-  - [Session 019](https://osf.io/z3j9f/): Data analysis is grouping people by demographics: "I really thought about the analysts I worked within and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing."
+  - [Session 019](https://osf.io/z3j9f/): Data analysis is grouping people by demographics: "I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing."
 
 
 ## Explicitly-stated origins of data abstractions/mental models
@@ -326,7 +326,7 @@ objected to with the folders.
     - By category/type:
       - [Session 006](https://osf.io/pkqsm/) - expressed desire to re-organize
         folder contents to homogenize types
-      - [Session 012](https://osf.io/xbw3h/) - exprsesed desire to re-organize
+      - [Session 012](https://osf.io/xbw3h/) - expressed desire to re-organize
         folder contents to homogenize types
       - [Session 016](https://osf.io/d4efp/) - by desired category of
         "durability" based on personal experience
@@ -340,7 +340,7 @@ reasoning to the given organization that they cannot infer.
       - [Session 007](https://osf.io/kxze2/) - mental model/organization based
         on own "junk drawer"
       - [Session 019](https://osf.io/z3j9f/) - did not do this, but on
-        revision... " I would’ve put the pens and pencils and sharpies in the pencil pouch.The rubber bands and the tacks and the stamps in the small tray, and probably the envelopes in the big tray because I like to organize. " 
+        revision... "I would’ve put the pens and pencils and sharpies in the pencil pouch. The rubber bands and the tacks and the stamps in the small tray, and probably the envelopes in the big tray because I like to organize." 
   - Reasoning unclear:
     - By category/type:
       - [Session 017](https://osf.io/qmts9/) - by residential vs. commercial
