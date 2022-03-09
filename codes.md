@@ -355,6 +355,22 @@ reasoning to the given organization that they cannot infer.
 Alex 
 ====
 ## Aggregative marks and eliding details
+- Instances where participants used discrete aggregative marks in conjunction with concrete examples
+  - [Session 012](https://osf.io/4aphc/)
+    - "I marked it with a bunch of question marks to the right because I don't have any idea what [this folder] was for; it's just there"
+  - [Session 030](https://osf.io/9jxy3/)
+- Instances where participants used continuous aggregative marks, without concrete examples
+  - [Session 009](https://osf.io/6n7pa/)
+  - [Session 023](https://osf.io/t45ry/)
+
+## Drawn visualization techniques that the VIS community typically associates with a specific abstraction were sometimes inconsistent with other cues about how a participant thought about an abstraction
+- Instances where participants drew a table, even though their description was very non-tabular
+  - [Session 014](https://osf.io/dm3ak/)
+- Instances where participants drew something more like a node-link diagram, even though their description was more set-like
+  - [Session 006](https://osf.io/kj4nt/)
+  - [Session 010](https://osf.io/kedv9/)
+- Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
+  - [Session 009](https://osf.io/6n7pa/)
 
 
 Items of interest
