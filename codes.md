@@ -163,9 +163,10 @@ In these codes, participants infer a bigger picture or task.
   - TODO: Do we add instances of all representations of objects/things that were more complicated than simple shapes?
     - E.g. [Session 024](https://osf.io/742fb/) used squares for houses and long rectangles with 3-4 "little squares inside them" for windows to represent apartments. Is this an example of adding detail for clarity? The participant mentioned this distinction and that the squares were added as windows to the apartments.
 
-## No one drew a key (e.g. "(house symbol) = house"), but participants often explained symbols when they didn't match the physical appearance of the object
+## Few participants drew a key/legend (e.g. "(house symbol) = house"), but participants often explained symbols when they didn't match the physical appearance of the object
   - [Session 006](https://osf.io/pkqsm/): verbally explains the icons for the types of files.
   - [Session 024](https://osf.io/742fb/): verbally explained that small squares represent homes.
+  - [Session 032](https://osf.io/bka6e/): made a legend
 
 
 ## People identify when the drawing alone wouldn't make sense to another person.
