@@ -76,7 +76,9 @@ In these codes, participants infer a bigger picture or task.
   - [Session 028](https://osf.io/4u63n/) - office items, pre-sorted
   - [Session 030](https://osf.io/9jxy3/) - organization of some program
 
-## The idea that data relates to tables is prevalent:   
+## What is "Data"
+
+### The idea that data relates to tables is prevalent:   
 
   - [Session 007](https://osf.io/kxze2/): 
     Me: "Did it surprise you that we called it a data set?" 
@@ -84,8 +86,23 @@ In these codes, participants infer a bigger picture or task.
     S: I was expecting something more structured, maybe like a table or something. I guess I was expecting a table. Because that’s the most common form of storing data, like a spreadsheet or table, something like that. I guess this a valid data set, it’s got objects and quantities for those objects.  
   - [Session 014](https://osf.io/gzw56/): 
     N: "For instance, there was apartments, there was houses, there was homes, there were warehouses so the first thing I thought in my mind was how to arrange those in a table in order to get an idea of how much power each house or apartment would generate or require."
+  - [Session 019](https://osf.io/z3j9f/): "I think of, like I didn’t work with Excel very much, so I don’t think of data sets, but when I heard the term data sets, I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing. I refer to data sets and I was familiar with them but I never thought of stuff like this as a data set." (junk drawer data set)
   - [Session 030](https://osf.io/9jxy3/): [bonus image](https://osf.io/s7t2r/) 
     E: "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table..."
+
+### Other constraints on what counts as data:
+
+  - [Session 007](https://osf.io/kxze2/): Data sets have objects and quantities "I guess this is a valid data set, it's got objects and quantities for
+    those objects"
+    - In vis, we don't always assume there are attributes
+  - [Session 010](https://osf.io/kedv9/): Thinks of something related to
+    computers as associated with the word "data"
+  - [Session 012](https://osf.io/xbw3h/): Whether they visualize data
+    regularly depends what counts as data
+  - [Session 014](https://osf.io/gzw56/): Dataset and data within are
+    different ideas: "like the emphasis should be on the data set, not the data containing in it, right?"
+  - [Session 019](https://osf.io/z3j9f/): Data analysis is grouping people by demographics: "I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing."
+
 
 ## Explicitly-stated origins of data abstractions/mental models
 - Participants used file system icons that they cited as being from an operating system.
@@ -110,6 +127,8 @@ In these codes, participants infer a bigger picture or task.
       - [Session 26](https://osf.io/mpncx/): intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
     - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
       - [Session 016 Bonus](https://osf.io/u5dge/): this user came up with ways to arrange the data based on attributes that they added
+   - Temporal aspect of hypothesis forming on data reading seems interesting. I wonder how far
+     this has been pushed with respect to progressive visualizations.
 
 ## People run into constraints with their existing sketch.
 
@@ -293,6 +312,43 @@ spoke about the drawing and their mental model
         - [Session 025](https://osf.io/ejqnr/)
       - Partitioned space:
         - [Session 028](https://osf.io/davzy/)
+
+## Ordering is diverse and often personal
+  - We may want to group this one with the one about people drawing in the
+    order things are given.
+  - We may also want to group this one with the "request for added data" or
+    "inferred added data" one. While the folders have the relationships given,
+the junk drawers do not, so those are inferred. Similarly, ordering is
+imposed, and categorization may either be desired or inferred or in this case,
+objected to with the folders.
+  
+  - Expressed personal preference:
+    - By category/type:
+      - [Session 006](https://osf.io/pkqsm/) - expressed desire to re-organize
+        folder contents to homogenize types
+      - [Session 012](https://osf.io/xbw3h/) - expressed desire to re-organize
+        folder contents to homogenize types
+      - [Session 016](https://osf.io/d4efp/) - by desired category of
+        "durability" based on personal experience
+      - [Session 021](https://osf.io/v4nmf/) - expressed desire to re-organize
+        folders contents to homogenize types, but suggested there may be a
+reasoning to the given organization that they cannot infer.
+    - By quantitative attribute:
+      - [Session 016](https://osf.io/d4efp/) - by desired attribute of
+        "price" based on personal experience
+    - By logical association:
+      - [Session 007](https://osf.io/kxze2/) - mental model/organization based
+        on own "junk drawer"
+      - [Session 019](https://osf.io/z3j9f/) - did not do this, but on
+        revision... "I would’ve put the pens and pencils and sharpies in the pencil pouch. The rubber bands and the tacks and the stamps in the small tray, and probably the envelopes in the big tray because I like to organize." 
+  - Reasoning unclear:
+    - By category/type:
+      - [Session 017](https://osf.io/qmts9/) - by residential vs. commercial
+    - By size:
+      - [Session 019](https://osf.io/z3j9f/) - consider organizing by size,
+        but did not do that, might have on revision if communicating to others
+    - By function:
+      - [Session 028](https://osf.io/4u63n/) - junk drawer items by function
 
 
 Alex 
