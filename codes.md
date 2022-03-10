@@ -17,6 +17,7 @@ Codes
       - [Session 017](https://osf.io/qmts9/) - number of people per house
       - [Session 029](https://osf.io/bph2d/) - number of people per house
         (possibly as average), geospatial coordinates of houses
+      - [Session 032](https://osf.io/bka6e/) - number of people per house, wattage
     - Junk Drawer
       - [Session 016](https://osf.io/d4efp/) - item costs/price, durability
         vs. expendable
@@ -44,10 +45,11 @@ In these codes, participants infer a bigger picture or task.
     - [Session 009](https://osf.io/6n7pa/)
     - [Session 012](https://osf.io/4aphc/)
 
-### Participants want to discover ultima: For power plant, which one produces the most energy?   
+### Participants want to discover ultima: For power plant, which one produces the most/least energy?   
   - Supported by:
     - [Session 011](https://osf.io/kaemj/)
     - [Session 014](https://osf.io/dm3ak/)
+    - [Session 032](https://osf.io/bka6e/)
   - Not Supported:
     - [Session 008](https://osf.io/47sng/)
 
@@ -62,6 +64,8 @@ In these codes, participants infer a bigger picture or task.
     - [Session 029](https://osf.io/bph2d/)
   - Math problem
     - [Session 031](https://osf.io/cy3s4/)
+  - Present for scientific publication
+    - [Session 032](https://osf.io/bka6e/)
 
 ### Participants suggest source of data, such as all being part of a toolbox
   - [Session 007](https://osf.io/kxze2/) - stationary drawer
@@ -186,6 +190,8 @@ Kate
 	others as recreating idea of what interactions would be in place
       - [Session 030](https://osf.io/9jxy3/) - when asked about idea, they talk
 	about the interactions to navigate the hierarchy
+      - [Session 033](https://osf.io/uj34p/) - inset to show nested folder
+        confirmed to include interaction
   - Junk Drawer
     - [Session 022](https://osf.io/psv9g/) - basket drawn for carrying
 
@@ -220,6 +226,8 @@ Kate
        up with new grouping for writing implements
      - [Session 031](https://osf.io/cy3s4/) - item details considered during
        drawing to clarify depiction
+     - [Session 033](https://osf.io/uj34p/) - icon detail/symbole choices not
+       thought about until drawing
 
 ## Depiction changes for communication
   - Same general abstraction
@@ -233,6 +241,8 @@ Kate
   - Different data abstraction
       - [Session 026](https://osf.io/wfrc5/) - discusses various dataset
 	abstractions depending on audience "quantitative literacy"
+      - [Session 032](https://osf.io/bka6e/) - "better way" to represent,
+        possibly add table, other figures, captions
 
 
 ## Difficulty in mental model abstractions with less math literacy
@@ -280,8 +290,10 @@ spoke about the drawing and their mental model
       - [Session 024](https://osf.io/d8pke/) (second drawing, but also
         discussed as abstracted from original)
     - Bar chart:
-      - [Session 023](https://osf.io/prtw4/)
-      - [Session 032](https://osf.io/y8z4r/)
+      - Per station:
+        - [Session 023](https://osf.io/prtw4/)
+      - Per station, grouped by building type:
+        - [Session 032](https://osf.io/y8z4r/) (drawn)
     - Graph: 
       - Node-link:
         - [Session 008](https://osf.io/47sng/)
@@ -290,7 +302,9 @@ spoke about the drawing and their mental model
         - [Session 024](https://osf.io/8hsv9/) (though geospatial discussed)
     - Hybrid:
       - Table and Node-link
-        - [Session 014](https://osf.io/dm3ak/) 
+        - [Session 014](https://osf.io/dm3ak/)
+    - Journal paper context with multiple figures, captions, and text:
+      - [Session 032](https://osf.io/bka6e/) (spoken)
   - Junk Drawer:
     - Physical:
       - With nesting:
