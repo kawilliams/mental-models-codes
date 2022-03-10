@@ -366,6 +366,71 @@ reasoning to the given organization that they cannot infer.
       - [Session 028](https://osf.io/4u63n/) - junk drawer items by function
 
 
+## Mental model starts forming immediately
+  - Our first question asked about initial impressions/reactions. In this
+    question, people already expressed ideas, including facets we found such
+as ordering and purpose-speaking.
+    - Expressing ideas of what they would go on to draw:
+      - [Session 006](https://osf.io/pkqsm/)
+      - [Session 007](https://osf.io/kxze2/)
+      - [Session 008](https://osf.io/wb4r5/) 
+      - [Session 009](https://osf.io/es7w6/)
+      - [Session 015](https://osf.io/zn6qj/)
+      - [Session 018](https://osf.io/ydnb9/)
+      - [Session 021](https://osf.io/v4nmf/)
+      - [Session 024](https://osf.io/742fb/) - "My gut reaction was like an image of - I dunno if you know cell-free MIMO graphs..."
+      - [Session 025](https://osf.io/z7w25/)
+      - [Session 026](https://osf.io/wfrc5/)
+      - [Session 030](https://osf.io/9jxy3/)
+    - Expressing purpose-seeking:
+      - [Session 008](https://osf.io/wb4r5/)
+      - [Session 011](https://osf.io/qj2pm/)
+      - [Session 013](https://osf.io/bgeh9/) - "I'm pretty sure it's like a
+        handy tool box for a home..."
+      - [Session 014](https://osf.io/gzw56/)
+      - [Session 016](https://osf.io/d4efp/)
+      - [Session 017](https://osf.io/qmts9/)
+      - [Session 019](https://osf.io/z3j9f/)
+      - [Session 020](https://osf.io/5rsjc/)
+      - [Session 022](https://osf.io/psv9g/) - "So I have to. So it's usually used in an office space. So I think yeah, that’s it, not much of any intuition."
+        - Does this person think "intuition" is tied to problem solving? May
+          be a limitation.
+      - [Session 029](https://osf.io/bph2d/) 
+      - [Session 031](https://osf.io/cy3s4/) - "I thought it was going to be an algebra problem."
+    - Expressing organization/desire to organize:
+      - [Session 012](https://osf.io/xbw3h/) - "I don't think this is the most
+        efficient way to do this."
+      - [Session 014](https://osf.io/gzw56/) - "Ok, so like the data points, for example, number of homes, number of residents, that’s not important, it’s important how I organize it. Okay."
+      - [Session 023](https://osf.io/t45ry/) - "Well, um there’s a lot of different categories, I guess."
+      - [Session 026](https://osf.io/wfrc5/) - "I wanted to make it tidy."
+      - [Session 028](https://osf.io/4u63n/) - "But as I read through it, I began to sort of group them into 4 groups."
+  - When asked if the mental model changed, many said outright it did not.
+    - [Session 006](https://osf.io/pkqsm/)
+    - [Session 007](https://osf.io/kxze2/)
+    - [Session 008](https://osf.io/wb4r5/) - "I just stick to whatever I
+      thought at the beginning."
+    - [Session 014](https://osf.io/gzw56/)
+    - [Session 015](https://osf.io/zn6qj/)
+    - [Session 017](https://osf.io/qmts9/)
+    - [Session 018](https://osf.io/ydnb9/) - "No, I mean I kind of saw it for how I was gonna do it right away and stuck with that."
+    - [Session 019](https://osf.io/z3j9f/) - " Only in the sense that pens, sharpies, and pencils look alike, so I had to do something to distinguish them, but not really organizationally. "
+    - [Session 021](https://osf.io/v4nmf/) - "No it didn’t. From the time I first read it to when I drew it, it didn’t change."
+    - [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
+    - [Session 024](https://osf.io/742fb/)
+    - [Session 025](https://osf.io/z7w25/)
+    - [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
+    - [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
+    - [Session 028](https://osf.io/4u63n/)
+    - [Session 029](https://osf.io/bph2d/)
+    - Note for many of those not listed here, it's because the model became
+      more refined. See the related code.
+  - Several mentioned that aspects of their mental model were obvious
+    - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder
+      structure."
+    - [Session 016](https://osf.io/d4efp/) - "You know, obviously, as graphically, with the bars, but with the description, that just helped me in my brain categorizing it better"
+    - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
+    - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
+
 Alex 
 ====
 ## Aggregative marks and eliding details
