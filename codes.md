@@ -229,7 +229,7 @@ Kate
        up with new grouping for writing implements
      - [Session 031](https://osf.io/cy3s4/) - item details considered during
        drawing to clarify depiction
-     - [Session 033](https://osf.io/uj34p/) - icon detail/symbole choices not
+     - [Session 033](https://osf.io/uj34p/) - icon detail/symbol choices not
        thought about until drawing
 
 ## Depiction changes for communication
@@ -293,9 +293,9 @@ spoke about the drawing and their mental model
       - [Session 024](https://osf.io/d8pke/) (second drawing, but also
         discussed as abstracted from original)
     - Bar chart:
-      - Per station:
+      - Per building type:
         - [Session 023](https://osf.io/prtw4/)
-      - Per station, grouped by building type:
+      - Per station, faceted by building type:
         - [Session 032](https://osf.io/y8z4r/) (drawn)
     - Graph: 
       - Node-link:
@@ -426,7 +426,7 @@ as ordering and purpose-speaking.
     - [Session 028](https://osf.io/4u63n/)
     - [Session 029](https://osf.io/bph2d/)
     - Note for many of those not listed here, it's because the model became
-      more refined. See the related code.
+      more refined. See the related code: `Mental model fixed at high level, but becomes more detailed in drawing`
   - Several mentioned that aspects of their mental model were obvious
     - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder
       structure."
@@ -447,7 +447,7 @@ has relations in general.
 	  "level", draws node-link tree
 	  - "Under that I kind of, in my head, picture text files just on an upper level, as being a little square with some writing on it or something."
 	  - "So I’m mentally, in that first sentence (draws upper level), considering the most upper-level folder, and my brain is just picturing a window with these two in them. "
-    - Hierarchy as Indented Tree/List or Database Tables or "entity
+    - Hierarchy evolves into Network as Indented Tree/List or Database Tables or "entity
       relationship diagram":
       - [Session 030](https://osf.io/9jxy3/) - uses "hierarchy" and "levels"
         for first drawing then starts talking about "normal relationship", "properties"," ownership" and
@@ -456,7 +456,7 @@ has relations in general.
         - "youspend a good bit of time kind of clicking from one folder to another, going up,going down, the hierarchy ladder of the stuff."
         - "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table that has the property that tells what type of fileit is, and then I have an ownership or membership table that says, “this is inside that, and that, like that” (gesturing in space with flat hands)."
         - "I might call that an entity relationship diagram."
-          - This might be a network at this point KATY/ALEX take second look
+          - This has now evolved into a network
     - Tree/Graph as Node-Link:
         - [Session 012](https://osf.io/xbw3h/) - uses the word "branches", draws
           node-link tree but then adds relations between leaves
@@ -510,14 +510,14 @@ second uses language like 'hierarchy', 'contains' and 'includes'
        - [Session 009](https://osf.io/es7w6/) - uses "inside"/"outside" to describe,
          draws nesting. Claims this is a "folder structure" repeatedly. Never
 says "tree"
-    - ?? as containment/enclosure: KATY/ALEX
+    - Abstraction unclear as containment/enclosure:
       - [Session 033](https://osf.io/uj34p/) - uses "folder" and "subfolder",
         draws containment
          - "there’s one nested folder"
          - "And for the folder that is inthe other folder, for the little like -- I don’t know how to describe that, I guess I have a little blow-up image of what is in the sub-folder."
     - Sets and Geospatial Areas as Enclosure:
       - [Session 024](https://osf.io/742fb/) - talks of concentric circles,
-        not sure this is truly "sets" - ALEX/KATY?
+        eventually overlapping with the geospatial version
         - "My gut reaction was like an image of - I dunno if you know cell-free MIMO graphs, but in this case, not-cell free MIMO, basically concentric circles of each power station."
         - " Each letter has a bubble that can contain squares, rectangles er horizontal rectangles or vertical with little squares inside them."
     - Relations & Network & Hierarchy & Map as Node-Link:
