@@ -444,6 +444,16 @@ has relations in general.
 	  "level", draws node-link tree
 	  - "Under that I kind of, in my head, picture text files just on an upper level, as being a little square with some writing on it or something."
 	  - "So I’m mentally, in that first sentence (draws upper level), considering the most upper-level folder, and my brain is just picturing a window with these two in them. "
+    - Hierarchy as Indented Tree/List or Database Tables or "entity
+      relationship diagram":
+      - [Session 030](https://osf.io/9jxy3/) - uses "hierarchy" and "levels"
+        for first drawing then starts talking about "normal relationship", "properties"," ownership" and
+"membership" for the database tables
+        - "I wouldn’t design, for example, if this is for an application and I had top-level code, I wouldn’t have a parallel folder that didn’t have code in it. This would be somewhere under this hierarchy (pointing to the right folder and subfolder) and referenced by whatever program was in here"
+        - "youspend a good bit of time kind of clicking from one folder to another, going up,going down, the hierarchy ladder of the stuff."
+        - "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table that has the property that tells what type of fileit is, and then I have an ownership or membership table that says, “this is inside that, and that, like that” (gesturing in space with flat hands)."
+        - "I might call that an entity relationship diagram."
+          - This might be a network at this point KATY/ALEX take second look
     - Tree/Graph as Node-Link:
         - [Session 012](https://osf.io/xbw3h/) - uses the word "branches", draws
           node-link tree but then adds relations between leaves
@@ -497,6 +507,11 @@ second uses language like 'hierarchy', 'contains' and 'includes'
        - [Session 009](https://osf.io/es7w6/) - uses "inside"/"outside" to describe,
          draws nesting. Claims this is a "folder structure" repeatedly. Never
 says "tree"
+    - ?? as containment/enclosure: KATY/ALEX
+      - [Session 033](https://osf.io/uj34p/) - uses "folder" and "subfolder",
+        draws containment
+         - "there’s one nested folder"
+         - "And for the folder that is inthe other folder, for the little like -- I don’t know how to describe that, I guess I have a little blow-up image of what is in the sub-folder."
     - Sets and Geospatial Areas as Enclosure:
       - [Session 024](https://osf.io/742fb/) - talks of concentric circles,
         not sure this is truly "sets" - ALEX/KATY?
