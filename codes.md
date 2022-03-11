@@ -431,6 +431,110 @@ as ordering and purpose-speaking.
     - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
     - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
 
+## Ambiguity between trees & hierarchies & sets and their common visual idioms
+  - It was difficult to determine if the participant's mental model was what
+    common dataset typologies would categorize as a tree versus a hierarchy
+versus a set. This may suggest a continuum. It may also suggest extra care be taken
+when dealing with any of these. This might suggest something about data that
+has relations in general.
+  - We are trying best-effort categorization, but the difficulty in doing this
+    supports the code:
+    - Hierarchy as Node-Link:
+	- [Session 006](https://osf.io/pkqsm/) - describes folders using the word
+	  "level", draws node-link tree
+	  - "Under that I kind of, in my head, picture text files just on an upper level, as being a little square with some writing on it or something."
+	  - "So I’m mentally, in that first sentence (draws upper level), considering the most upper-level folder, and my brain is just picturing a window with these two in them. "
+    - Tree/Graph as Node-Link:
+        - [Session 012](https://osf.io/xbw3h/) - uses the word "branches", draws
+          node-link tree but then adds relations between leaves
+          - "Text files and code are on their separate branches and branches after that to represent how much they have, four and two respectively."
+          - "nd then the other folder, there’s another folder symbol which leads to another text file and image branch, with one line each."
+    - Tree & Hierarchy as Node-Link:
+	- [Session 027](https://osf.io/q9cn5/)
+          - "Um, I think it’s just whenever we speak of hierarchy in any terms, a tree is what comes to mind so that’s where my head first went, to show the hierarchy out."
+    - Sets as Nesting and Proximity Association:
+        - [Session 007](https://osf.io/kxze2/) - uses word "associations",
+          draws physical with some items nested in others
+          - " And a roll of stamps next to the envelope because... I guess that’s like logically associated with each other to put them in the same, like a postage basket."
+        - [Session 013](https://osf.io/bgeh9/) - talks about pairing things
+          (sometimes more than 2) and draws physical with some items nested in
+others
+           - "you can pair rubber bands and tacks, you can pair envelopes and stamps, you can even pair pencils, pens, sharpener, pencil pouch, and a long basket to keep everything in it"
+        - [Session 025](https://osf.io/z7w25/) - talks about enclosing circle
+          and writing similar things near each other
+          - " I thought it was going to be more similar objects, similar in size, similar in type. And then I drew a circle in my head around all of them."
+          - "Pens, pencils, sharpies kind of, not in a group, but close to each other, because my mind unconsciously grouped them, maybe, possibly."
+          - "so I just saw pens and then under it, I wrote “pencils” and “sharpies” because I was like, hey they’re close, so I made them a bit closer."
+          - "You know, throughout my life, you just come across these diagrams, Venn diagrams."
+    - Sets or Hierarchies as Node-Link or Nested
+      - [Session 018](https://osf.io/ydnb9/) - users terms "set" but also
+        "level" and "nesting" draws a node-link initially but said they
+conisdered a nested drawing (bonus)
+        - "I have two outer sets that - so I decided to call them A and B."
+        - "F1 -- that’s where I had to make a decision. It’s at a different level so should it be FC?"
+        - "That the nesting matters so if I refer to something,"
+        - "Yeah... so I do code during the day for my job, but I do front end stuff, so if I for example, have a json data file, if I want to refer to something a layer deeper a layer deeper, then I “.rate.mortgage” dot-whatever, so that’s kind of the way I thought about this."
+        - (while drawing nested bonus image) "Yeah I think... I mean I think it would’ve probably just been the same thing, well I dunno how same it is but we’ll see... (drawing) So that would’ve been like my first. (Holds up paper with a rectangle representing a folder and smaller labeled, rectangles inside)."
+      - [Session 021](https://osf.io/v4nmf/) - uses "buckets" and
+        "underneath", draws indented tree first, node-link second.. with the
+second uses language like 'hierarchy', 'contains' and 'includes'
+        - "When you said I had two folders, I basically created two buckets withthese boxes. Underneath each box I listed what was included in those folders."
+        - "To me they’re buckets. I kind of think of a folder as “oh here, here’s a bucket and here’s what’s in the bucket."
+        - (second drawing) "So I did label the folders and explicitly labeled here's the first folder, and here's the second folder, and here's what isincluded in this folder and I grouped them together, with arrows to say this folder contains this group of things, and these things are text or image files, and then this folder includes this set of things, which also includes another folder, and that folder includes this set of things, so I kind of wanted to show visually that Folder 1 is kind of like a container that included, you know five things, whereas Folder 2 was a container that contains seven things with one of them actually containing two more things, so I was kind of showing that hierarchy, a little bit and and trying to help visualize these things as being together in a group, by boxing them around."
+    - Network as Node-Link / Physical:
+       - [Session 008](https://osf.io/wb4r5/) - uses word "connections" but
+         also "wires", draws network
+         - "Initially I was just picturing in my mind an actual power station that is connected to another building, or something. "
+         - "These represent wires."
+    - Network as Node-Link:
+       - [Session 020](https://osf.io/5rsjc/) - uses "node", "connect",
+         "graph" and  draws node-link
+         - " I made each power station a separate node and then connected the nodes because I’m presuming they can connect the power stations."
+         - "And then off each power station node, if it was residential I indicated that by an arrow that would indicate the number of residential spots."
+         - "A graph basically."
+         - "No, I haven’t seen a data set like that before, but this kind of graphing is kind of the way we think about problems and what we do at work.It tends to be kind of the default model I use for mathematical problems. I’ll always make it a graph problem, or frequently will. "
+    - "Folder Structure" as Enclosure/Nesting with Links (Hybrid):
+       - [Session 009](https://osf.io/es7w6/) - uses "inside"/"outside" to describe,
+         draws nesting. Claims this is a "folder structure" repeatedly. Never
+says "tree"
+    - Sets and Geospatial Areas as Enclosure:
+      - [Session 024](https://osf.io/742fb/) - talks of concentric circles,
+        not sure this is truly "sets" - ALEX/KATY?
+        - "My gut reaction was like an image of - I dunno if you know cell-free MIMO graphs, but in this case, not-cell free MIMO, basically concentric circles of each power station."
+        - " Each letter has a bubble that can contain squares, rectangles er horizontal rectangles or vertical with little squares inside them."
+    - Relations & Network & Hierarchy & Map as Node-Link:
+      - [Session 014](https://osf.io/gzw56/) - at a high level, participant
+        talks about how elements of the data are related and draws a node link
+diagram, but no direct language is used. Uses this as "basis" to show
+connections next to a table. Later uses "endpoint" language for the power --
+more network like. Even later uses "layers" like a hierarchy. Let the "mind
+map" comes up as the impetus, so this may be all "map" with terms like
+concept and sub-concept (hierarchy) and "links"
+        - "And then we have warehouses, homes, and apartments (gestures to each respective node in the graph), so this is kind of the basis (gestures to entire graph)."
+        - "what I would initially start with is the number of endpoints, like for instance, here warehouses and homes are endpoints because we are consideringthat as one unit. Whereas if we consider apartments, apartments will have number of residents, each resident will be an endpoint."
+	- "Particularly the layers it has, for instance now, as I said, there are multiple parameters. There were three parameters for each warehouse (EDIT: I think he means power plant), which were its customers, and then there were sublayers to that as well. For example,apartments and how each each apartment housed a certain number of residents. So the layers of the data... the layers each data type has is what intrigued me"
+        - "I’m also used to using the mind map techniques, so first laying out everything on paper and then seeing theproblem statement and connecting different parts of the problem."
+        - "Breaking down a particular problem or a particular concept into its sub-concepts and representing it on papers. And representing in such a way that it’s easier to link back onto to the main concepts."
+    - Physical nesting:
+      - It's unclear from these that the relations were considered explicit.
+        This is anti-examples where something we could consider a hierarchy or
+set was shown but language was not used to indicate it other than describing
+the physical depiction with "in"
+      - [Session 015](https://osf.io/zn6qj/) - drew nested manila folders,
+        used nesting language
+        - This person has familiarity with trees and digraphs from school, but
+          did not seem to associate this prompt with either
+      - [Session 022](https://osf.io/psv9g/) 
+        - "First I’ve taken the long plastic basket and I’ve tried to incorporate all the items into the basket as well as 4 pens and 2 pencils in a pencil pouch and keep all the things into the long basket. So it’s organized in a way and you can carry it around. "
+
+    - Sets as Proximity, no nesting: 
+       - [Session 016](https://osf.io/d4efp/) - discusses 'categories' but
+         mostly talks of item types rahter than higher level grouping, in
+second drawing uses proximity to divide durable from expendable
+       - [Session 028](https://osf.io/4u63n/) - drew 2 x 2 lists of items that
+         they believed grouped together
+
+
 Alex 
 ====
 ## Aggregative marks and eliding details
