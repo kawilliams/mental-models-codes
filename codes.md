@@ -76,6 +76,33 @@ In these codes, participants infer a bigger picture or task.
   - [Session 028](https://osf.io/4u63n/) - office items, pre-sorted
   - [Session 030](https://osf.io/9jxy3/) - organization of some program
 
+## Relation between "Including Extrinsic Information" (E3)/"Statements with Analytic Potential" (F) and the representation continuum
+  - This code relates to [Walny et. al's](http://research.jagoda.ca/assets/pubs/Walny2015-EuroVis.pdf) finding that "in our sample, the participants who submitted the most abstract sketches were among the participants whose data reports tended to be in categories E3 (including extrinsic information) and F (statements with analytic potential)."
+  - I decided to not look for E3 statements because our question "How did you come up with this idea?" asks for participants to connect their sketch or the data to their own lives, thus asks tem to include extrinsic information
+  - [Session 006](https://osf.io/pkqsm/): 
+    - F "[the files]could have some correlation between them [to explain their placement]"
+  - [Session 007](https://osf.io/kxze2/): 
+    - F "This is a drawer and I visualized this was probably in some 
+  sort of cabinet, so this would be the edge of the cabinet if the door was closed", "it’s something that someone will probably have in their drawer"
+  - [Session 008](https://osf.io/wb4r5/):
+    - F "I mean I don't know what their fuels are, I’m assuming they’re maybe coal-powered power plants."
+  - [Session 009](https://osf.io/es7w6/):
+    - F "I don’t know how big it is, at the end of the day, right, so the text file could be bigger...could be super big, could be smaller". Type F and not type D because they hypothesize about an attribute (file size) that is not included in the data set.
+  - [Session 010](https://osf.io/kedv9/):
+    - None, could be due to limitation of interview (muted, no talking, text only)
+  - [Session 011](https://osf.io/qj2pm/):
+    - D "Power station C might be one of the bigger ones, either that or B, even though they had smaller numbers almost"  
+  - [Session 012](https://osf.io/xbw3h/): 
+    - E "I don’t think is the most efficient way to do this...What I find a little odd is that there’s a folder next to the coding files."
+    - F "And next to that, next to both of them, I put “likely related” because when you put a text file and an image together like that, typically they’re related in some capacity."
+  - Session 013:
+    - F "I’m pretty sure it’s like a handy tool box... maybe an electrician’s tool box." 
+  - Session 014:
+    - D < a whole discussion on their mind map and how they would reduce down to a base unit of consumption to estimate the total amount of power produced by each power station >
+  - Session 015: 
+    - 
+
+
 ## What is "Data"
 
 ### The idea that data relates to tables is prevalent:   
