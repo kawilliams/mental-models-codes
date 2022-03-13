@@ -79,7 +79,24 @@ In these codes, participants infer a bigger picture or task.
 ## Comparison to Findings in Walny et. al ["An Exploratory Study of Data Sketching for Visual Representation"](http://research.jagoda.ca/selected-work/data-sketches)
 
 ### Placing our sketches on the continuum
-![The numeracy-to-abstractness continuum of Walny et. al](./rep-continuum-4-RED.png)
+
+![The numeracy-to-abstractness continuum of Walny et. al](./images/rep-continuum-4-RED.png)
+
+## All 3 Datasets (28 sketches)
+
+![The numeracy-to-abstractness continuum of all three datasets](./images/alldatasets-continuum.png)
+
+## File System Sketches (9 sketches)
+
+![The numeracy-to-abstractness continuum of the file system datasets. All of the file system sketches were Node Link or more abstract.](./images/filesystem-continuum.png)
+
+## Power Station Datasets (11 sketches)
+
+![The numeracy-to-abstractness continuum of the power station datasets. Sketches seem to be split: about 6 of them fall toward the Numeric side, while about 4 of them fall on Node Link or Sets](./images/powerstation-continuum.png)
+
+## Junk Drawer Datasets (9 sketches)
+
+![The numeracy-to-abstractness continuum of the junk drawer datasets. Nearly all the sketches were on the abstract end of the continuum, with two exceptions: one Bar Chart and one Table](./images/junkdrawer-continuum.png)
 
 
 ### Relation between "Including Extrinsic Information" (E3)/"Statements with Analytic Potential" (F) and the representation continuum
