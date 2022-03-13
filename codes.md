@@ -100,7 +100,18 @@ In these codes, participants infer a bigger picture or task.
   - Session 014:
     - D < a whole discussion on their mind map and how they would reduce down to a base unit of consumption to estimate the total amount of power produced by each power station >
   - Session 015: 
-    - 
+    - Possibly E "I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
+  - Session 016:
+    - F "maybe there’s a better way to accurately display - because it sounds like this is someone inventorying the items in a desk or an office - andit’s “ok, we can make a count of six rubber bands,” but this isn’t showing the dollar value, essentially, or how someone might quantify the dollar value."
+  - Session 017: 
+    - F "I dunno, it's a power station, it’s probably a municipal guide or a power company’s guide to how to distribute power."
+  - Session 018:
+    - D4/E2 "F1 -- that’s where I had to make a decision. It’s at a different level so should it be FC? I decided “no.” So I decided on F1 to stick with the program of that level."
+  - Session 019: 
+    - E2 "It seems like when I cleaned out my desk when I retired. Where are 
+paperclips? (Laughing)"
+  - Session 020:
+    - F "Gut reaction huh? Hmm. It seems to mostly be a residential area. I see many homes listed, I only see a warehouse, so I would guess this is kind of a residential part of a town or a city."
 
 
 ## What is "Data"
