@@ -76,7 +76,13 @@ In these codes, participants infer a bigger picture or task.
   - [Session 028](https://osf.io/4u63n/) - office items, pre-sorted
   - [Session 030](https://osf.io/9jxy3/) - organization of some program
 
-## Relation between "Including Extrinsic Information" (E3)/"Statements with Analytic Potential" (F) and the representation continuum
+## Comparison to Findings in Walny et. al ["An Exploratory Study of Data Sketching for Visual Representation"](http://research.jagoda.ca/selected-work/data-sketches)
+
+### Placing our sketches on the continuum
+![The numeracy-to-abstractness continuum of Walny et. al](./rep-continuum-4-RED.png)
+
+
+### Relation between "Including Extrinsic Information" (E3)/"Statements with Analytic Potential" (F) and the representation continuum
   - This code relates to [Walny et. al's](http://research.jagoda.ca/assets/pubs/Walny2015-EuroVis.pdf) finding that "in our sample, the participants who submitted the most abstract sketches were among the participants whose data reports tended to be in categories E3 (including extrinsic information) and F (statements with analytic potential)."
   - I decided to not look for E3 statements because our question "How did you come up with this idea?" asks for participants to connect their sketch or the data to their own lives, thus asks tem to include extrinsic information
   - [Session 006](https://osf.io/pkqsm/): 
