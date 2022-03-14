@@ -80,6 +80,67 @@ In these codes, participants infer a bigger picture or task.
   - [Session 028](https://osf.io/4u63n/) - office items, pre-sorted
   - [Session 030](https://osf.io/9jxy3/) - organization of some program
 
+## Comparison to Findings in Walny et. al ["An Exploratory Study of Data Sketching for Visual Representation"](http://research.jagoda.ca/selected-work/data-sketches)
+
+### Placing our sketches on the continuum
+
+![The numeracy-to-abstractness continuum of Walny et. al](./images/rep-continuum-4-RED.png)
+
+## All 3 Datasets (28 sketches)
+
+![The numeracy-to-abstractness continuum of all three datasets](./images/alldatasets-continuum.png)
+
+## File System Sketches (9 sketches)
+
+![The numeracy-to-abstractness continuum of the file system datasets. All of the file system sketches were Node Link or more abstract.](./images/filesystem-continuum.png)
+
+## Power Station Datasets (11 sketches)
+
+![The numeracy-to-abstractness continuum of the power station datasets. Sketches seem to be split: about 6 of them fall toward the Numeric side, while about 4 of them fall on Node Link or Sets](./images/powerstation-continuum.png)
+
+## Junk Drawer Datasets (9 sketches)
+
+![The numeracy-to-abstractness continuum of the junk drawer datasets. Nearly all the sketches were on the abstract end of the continuum, with two exceptions: one Bar Chart and one Table](./images/junkdrawer-continuum.png)
+
+
+### Relation between "Including Extrinsic Information" (E3)/"Statements with Analytic Potential" (F) and the representation continuum
+  - This code relates to [Walny et. al's](http://research.jagoda.ca/assets/pubs/Walny2015-EuroVis.pdf) finding that "in our sample, the participants who submitted the most abstract sketches were among the participants whose data reports tended to be in categories E3 (including extrinsic information) and F (statements with analytic potential)."
+  - I decided to not look for E3 statements because our question "How did you come up with this idea?" asks for participants to connect their sketch or the data to their own lives, thus asks tem to include extrinsic information
+  - [Session 006](https://osf.io/pkqsm/): 
+    - F "[the files]could have some correlation between them [to explain their placement]"
+  - [Session 007](https://osf.io/kxze2/): 
+    - F "This is a drawer and I visualized this was probably in some 
+  sort of cabinet, so this would be the edge of the cabinet if the door was closed", "it’s something that someone will probably have in their drawer"
+  - [Session 008](https://osf.io/wb4r5/):
+    - F "I mean I don't know what their fuels are, I’m assuming they’re maybe coal-powered power plants."
+  - [Session 009](https://osf.io/es7w6/):
+    - F "I don’t know how big it is, at the end of the day, right, so the text file could be bigger...could be super big, could be smaller". Type F and not type D because they hypothesize about an attribute (file size) that is not included in the data set.
+  - [Session 010](https://osf.io/kedv9/):
+    - None, could be due to limitation of interview (muted, no talking, text only)
+  - [Session 011](https://osf.io/qj2pm/):
+    - D "Power station C might be one of the bigger ones, either that or B, even though they had smaller numbers almost"  
+  - [Session 012](https://osf.io/xbw3h/): 
+    - E "I don’t think is the most efficient way to do this...What I find a little odd is that there’s a folder next to the coding files."
+    - F "And next to that, next to both of them, I put “likely related” because when you put a text file and an image together like that, typically they’re related in some capacity."
+  - Session 013:
+    - F "I’m pretty sure it’s like a handy tool box... maybe an electrician’s tool box." 
+  - Session 014:
+    - D < a whole discussion on their mind map and how they would reduce down to a base unit of consumption to estimate the total amount of power produced by each power station >
+  - Session 015: 
+    - Possibly E "I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
+  - Session 016:
+    - F "maybe there’s a better way to accurately display - because it sounds like this is someone inventorying the items in a desk or an office - andit’s “ok, we can make a count of six rubber bands,” but this isn’t showing the dollar value, essentially, or how someone might quantify the dollar value."
+  - Session 017: 
+    - F "I dunno, it's a power station, it’s probably a municipal guide or a power company’s guide to how to distribute power."
+  - Session 018:
+    - D4/E2 "F1 -- that’s where I had to make a decision. It’s at a different level so should it be FC? I decided “no.” So I decided on F1 to stick with the program of that level."
+  - Session 019: 
+    - E2 "It seems like when I cleaned out my desk when I retired. Where are 
+paperclips? (Laughing)"
+  - Session 020:
+    - F "Gut reaction huh? Hmm. It seems to mostly be a residential area. I see many homes listed, I only see a warehouse, so I would guess this is kind of a residential part of a town or a city."
+
+
 ## What is "Data"
 
 ### The idea that data relates to tables is prevalent:   
