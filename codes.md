@@ -602,7 +602,6 @@ KATY/ALEX: Is this a sub-code of depiction?
   - [Session 008](https://osf.io/wb4r5/) stated "I would probably explain it like the data set that you just gave me. There are 6 power plants (reads the data set for A and B)." Provided explanation of icons upon request.  
   - [Session 014](https://osf.io/gzw56/): described (participant-selected) purpose and content for the dataset, but did not list data items or aspects of their drawing until they pointed to the table, saying "this is how I would represent the data."
   - [Session 018](https://osf.io/ydnb9/): reads off all of the labels of the files
-  - [Session 019](https://osf.io/z3j9f/): read off most of the data, started to discuss grouping options when they got to the containers (like the pencil pouch)
   - [Session 027](https://osf.io/q9cn5/): reads file names (sentence structure very nearly matches the provided dataset)
   - [Session 032](https://osf.io/bka6e/): did not describe the drawing or the data, simply said, "this is a representation of 6 power stations and each of the facilities they power... you can see what they all do in the legend." (The participant narrated extensively as they drew so it's possible they felt they didn't need to explain again)
 
@@ -614,7 +613,7 @@ KATY/ALEX: Is this a sub-code of depiction?
 
   - Only gave a visual description (usually of the icons or marks used): 6, 7, 10, 11, 12, 13, 15, 19, 21, 22, 24, 25, 30, 31, 33
 
-  - Did not describe the drawing: 8, 14, 18, 27, 32
+  - Did not describe the drawing (restated the dataset): 8, 14, 18, 27, 32
 
   - This could have implications for accessibility -- when writing alt text for graphs or when presenting to visually impaired audiences.
 
