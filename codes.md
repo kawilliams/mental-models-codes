@@ -346,30 +346,6 @@ the main one.
   - [Session 015](https://osf.io/y487f/)
 
 
-  - Added annotations when communicating with the facilitator:
-    - [Session 006](https://osf.io/kj4nt/): added encompassing circles/squares around the top-level folders and around the contents of folder 1 (the children).
-    - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
-    - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
-
-## "Describe your sketch" and Communication
-
-### "Describe your sketch" sometimes yielded a recitation of the dataset (instead of a visual description of the paper)
-
-  - [Session 008](https://osf.io/wb4r5/) stated "I would probably explain it like the data set that you just gave me. There are 6 power plants (reads the data set for A and B)." Provided explanation of icons upon request.  
-  - [Session 014](https://osf.io/gzw56/): described (participant-selected) purpose and content for the dataset, but did not list data items or aspects of their drawing until they pointed to the table, saying "this is how I would represent the data."
-  - [Session 018](https://osf.io/ydnb9/): reads off all of the labels of the files
-  - [Session 019](https://osf.io/z3j9f/): read off most of the data, started to discuss grouping options when they got to the containers (like the pencil pouch)
-  - [Session 027](https://osf.io/q9cn5/): reads file names (sentence structure very nearly matches the provided dataset)
-  - [Session 032](https://osf.io/bka6e/): did not describe the drawing or the data, simply said, "this is a representation of 6 power stations and each of the facilities they power... you can see what they all do in the legend." (The participant narrated extensively as they drew so it's possible they felt they didn't need to explain again)
-
-### The remaining 23 sessions included some sort of verbal description of what they drew
-  - Named a data abstraction or idiom: 9, 16, 17, 20, 23, 26, 28, 29
-    - NOTE: they did not always correctly name the abstraction or idiom that they useds
-  - Only gave a visual description (usually of the icons or marks used): 6, 7, 10, 11, 12, 13, 15, 19, 21, 22, 24, 25, 30, 31, 33
-  - Did not describe the drawing: 8, 14, 18, 27, 32
-  - This could have implications for accessibility -- when writing alt text for graphs or when presenting to visually impaired audiences.
-
-
 ### Difficulty in mental model abstractions with less math literacy
   - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
     multidimensional aspect of power station data, drops the power station
@@ -618,9 +594,7 @@ KATY/ALEX: Is this a sub-code of depiction?
 - Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
   - [Session 009](https://osf.io/6n7pa/)
 
-## "Describe your sketch" and Communication
-
-### "Describe your sketch" sometimes yielded a recitation of the dataset (instead of a visual description of the paper)
+### The "Describe your sketch" prompt sometimes yielded a recitation of the dataset (instead of a visual description of the paper)
 
   - [Session 008](https://osf.io/wb4r5/) stated "I would probably explain it like the data set that you just gave me. There are 6 power plants (reads the data set for A and B)." Provided explanation of icons upon request.  
   - [Session 014](https://osf.io/gzw56/): described (participant-selected) purpose and content for the dataset, but did not list data items or aspects of their drawing until they pointed to the table, saying "this is how I would represent the data."
@@ -628,7 +602,7 @@ KATY/ALEX: Is this a sub-code of depiction?
   - [Session 027](https://osf.io/q9cn5/): reads file names (sentence structure very nearly matches the provided dataset)
   - [Session 032](https://osf.io/bka6e/): did not describe the drawing or the data, simply said, "this is a representation of 6 power stations and each of the facilities they power... you can see what they all do in the legend." (The participant narrated extensively as they drew so it's possible they felt they didn't need to explain again)
 
-### The remaining 23 sessions included some sort of verbal description of what they drew
+### The remaining 23 sessions included some sort of verbal description of what they drew (in response to the "Describe your sketch" prompt)
 
   - Named a data abstraction or idiom: 9, 16, 17, 20, 23, 26, 28, 29
 
