@@ -345,10 +345,6 @@ the main one.
   - [Session 012](https://osf.io/4aphc/)
   - [Session 015](https://osf.io/y487f/)
 
-  - Added annotations when communicating with the facilitator:
-    - [Session 006](https://osf.io/kj4nt/): added encompassing circles/squares around the top-level folders and around the contents of folder 1 (the children).
-    - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
-    - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
 
 
 ### Difficulty in mental model abstractions with less math literacy
@@ -582,6 +578,11 @@ KATY/ALEX: Is this a sub-code of depiction?
       - [Session 032](https://osf.io/bka6e/) - "better way" to represent,
         possibly add table, other figures, captions
 
+  - Added annotations when communicating with the facilitator:
+      - [Session 006](https://osf.io/kj4nt/): added encompassing circles/squares around the top-level folders and around the contents of folder 1 (the children).
+      - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
+      - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
+
 ### People identify when the drawing alone wouldn't make sense to another person.
   - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
 
@@ -614,7 +615,7 @@ KATY/ALEX: Is this a sub-code of depiction?
   - Only gave a visual description (usually of the icons or marks used): 6, 7, 10, 11, 12, 13, 15, 19, 21, 22, 24, 25, 30, 31, 33
 
   - Did not describe the drawing: 8, 14, 18, 27, 32
-  
+
   - This could have implications for accessibility -- when writing alt text for graphs or when presenting to visually impaired audiences.
 
 
