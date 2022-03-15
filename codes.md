@@ -263,10 +263,10 @@ more network like. Even later uses "layers" like a hierarchy. Let the "mind
 map" comes up as the impetus, so this may be all "map" with terms like
 concept and sub-concept (hierarchy) and "links"
         - "And then we have warehouses, homes, and apartments (gestures to each respective node in the graph), so this is kind of the basis (gestures to entire graph)."
-        - "what I would initially start with is the number of endpoints, like for instance, here warehouses and homes are endpoints because we are consideringthat as one unit. Whereas if we consider apartments, apartments will have number of residents, each resident will be an endpoint."
-	- "Particularly the layers it has, for instance now, as I said, there are multiple parameters. There were three parameters for each warehouse (EDIT: I think he means power plant), which were its customers, and then there were sublayers to that as well. For example,apartments and how each each apartment housed a certain number of residents. So the layers of the data... the layers each data type has is what intrigued me"
-        - "I’m also used to using the mind map techniques, so first laying out everything on paper and then seeing theproblem statement and connecting different parts of the problem."
-        - "Breaking down a particular problem or a particular concept into its sub-concepts and representing it on papers. And representing in such a way that it’s easier to link back onto to the main concepts."
+        - "what I would initially start with is the number of endpoints, like for instance, here warehouses and homes are endpoints because we are considering that as one unit. Whereas if we consider apartments, apartments will have number of residents, each resident will be an endpoint."
+		- "Particularly the layers it has, for instance now, as I said, there are multiple parameters. There were three parameters for each warehouse (EDIT: I think he means power plant), which were its customers, and then there were sublayers to that as well. For example, apartments and how each each apartment housed a certain number of residents. So the layers of the data... the layers each data type has is what intrigued me"
+        	- "I’m also used to using the mind map techniques, so first laying out everything on paper and then seeing theproblem statement and connecting different parts of the problem."
+       		- "Breaking down a particular problem or a particular concept into its sub-concepts and representing it on papers. And representing in such a way that it’s easier to link back onto to the main concepts."
     - Physical nesting:
       - It's unclear from these that the relations were considered explicit.
         This is anti-examples where something we could consider a hierarchy or
