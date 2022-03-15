@@ -345,6 +345,11 @@ the main one.
   - [Session 012](https://osf.io/4aphc/)
   - [Session 015](https://osf.io/y487f/)
 
+  - Added annotations when communicating with the facilitator:
+    - [Session 006](https://osf.io/kj4nt/): added encompassing circles/squares around the top-level folders and around the contents of folder 1 (the children).
+    - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
+    - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
+
 ## "Describe your sketch" and Communication
 
 ### "Describe your sketch" sometimes yielded a recitation of the dataset (instead of a visual description of the paper)
