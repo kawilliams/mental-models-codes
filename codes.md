@@ -106,7 +106,7 @@ spoke about the drawing and their mental model
     - Envelopes + stamps + in long plastic basket
     - Rubber bands + tacks + in small basket
     - Pens + pencils + in pencil pouch
-    - Sharpies (ran out of space in pencil pouch)
+    - Sharpies (participant said they ran out of space in pencil pouch)
   - [Session 010](https://osf.io/kgv76/):
     - Rubber bands + tacks + envelopes + roll of stamps + pencils + sharpies + small basket + pencil pouch + long plastic basket
     - Bonus drawing: Bin + rubber bands + pencils
