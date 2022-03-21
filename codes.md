@@ -6,6 +6,43 @@ OUTSTANDING TODOs
 grouped by a code regarding mental model changes.
 - What are the different "obvious" groupings people used for the junk drawer?
   - This suggests a grouping code under mental models, speaking of diversity
+    - [Session 007](https://osf.io/hsy7q/):
+      - Envelopes + stamps + in long plastic basket
+      - Rubber bands + tacks + in small basket
+      - Pens + pencils + in pencil pouch
+      - Sharpies (ran out of space in pencil pouch)
+    - [Session 010](https://osf.io/kgv76/):
+      - Rubber bands + tacks + envelopes + roll of stamps + pencils + sharpies + small basket + pencil pouch + long plastic basket
+      - Bonus drawing: Bin + rubber bands + pencils
+    - [Session 013](https://osf.io/dgzrs/):
+      - Envelopes + stamps 
+      - Rubber bands + tacks
+      - Sharpies + pencils + small basket
+      - Pens + in pencil pouch
+      - Long plastic basket
+    - [Session 016](https://osf.io/4reuj/):
+      - List order (wrapping around at "small plastic basket")
+      - Participant observed, "The way the description was presented, it looks like it’s generally going from the items that you have the most of to the least of...I define categories of anything larger than 1." 
+      - [Bonus](https://osf.io/4reuj/) (not all items): rubber bands + tacks (both are expendable), long plastic basket + basket (both are durable)
+    - [Session 019](https://osf.io/d2wgk/):
+      - items drawn separately
+      - Participant stated, "If I thought of it more I would've put [the pens, pencils, sharpies] _in_ the pencil pouch."
+    - [Session 022](https://osf.io/ty2k8/):
+      - Pens + pencils + in pencil pouch
+      - Participant said, "The sharpies I've kept separate, because not usually in a pencil pouch, and three envelopes also separate."
+      - All of the items are in the long plastic basket (looks like a bucket)
+    - [Session 025](https://osf.io/ejqnr/):
+      - Pens + pencils + sharpies
+      - Otherwise, somewhat list order, left to right
+    - [Session 028](https://osf.io/davzy/):
+      - Rubber bands + tacks
+      - Envelopes + stamps + ~~pens~~
+      - Pens + pencils + sharpies
+      - Pencil pouch + long plastic basket
+      - Participant said, "I grouped them based on if they have similar functionality." 
+    - [Session 031](https://osf.io/akfv4/):
+      - items drawn separately
+
 - Count the number of people who add annotations when talking (connects to Future Work)
   - this is done to some respect under Communication theme
 - People naturally try to find groups, the outlier sticks out (but the definition of "outlier" is loose) 
