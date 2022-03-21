@@ -4,10 +4,7 @@ OUTSTANDING TODOs
   - There's a code for refining mental models while drawing, but not for those
     that did or did not change in a major way. We probably need them, possibly
 grouped by a code regarding mental model changes.
-- What are the different "obvious" groupings people used for the junk drawer?
-  - This suggests a grouping code under mental models, speaking of diversity
-- Count the number of people who add annotations when talking (connects to Future Work)
-  - this is done to some respect under Communication theme
+
 - People naturally try to find groups, the outlier sticks out (but the definition of "outlier" is loose) 
   - This also suggests a grouping code under mental model
 
@@ -29,8 +26,7 @@ These codes describe observations about mental models and their formation.
 
 ### There were a diversity of both typology-level data abstractions and idiom choices
   - It is hard to completely disassociate the typology from the idiom, this is
-    best effort based on both the produced drawing and the way the participant
-spoke about the drawing and their mental model
+    best effort based on both the produced drawing and the way the participant spoke about the drawing and their mental model
   - File System:
     - Hierarchies:
       - Node-link hierarchy
@@ -103,10 +99,59 @@ spoke about the drawing and their mental model
       - Partitioned space:
         - [Session 028](https://osf.io/davzy/)
 
+### There was a diversity of groupings that people used for the junk drawer.
+
+  - We saw grouping by functionality (2), grouping by a participant-selected category (2), grouping only writing implements (2), list order (no grouping) (4)
+
+  - Grouped by Functionality:
+    - [Session 007](https://osf.io/hsy7q/): grouped by functionality, used containers
+      - Envelopes + stamps + in long plastic basket
+      - Rubber bands + tacks + in small basket
+      - Pens + pencils + in pencil pouch
+      - Sharpies (participant said they ran out of space in pencil pouch)
+    - [Session 028](https://osf.io/davzy/): grouped by functionality
+      - Rubber bands + tacks
+      - Envelopes + stamps + ~~pens~~
+      - Pens + pencils + sharpies
+      - Pencil pouch + long plastic basket
+      - Participant said, "I grouped them based on if they have similar functionality." 
+  
+  - Grouped by Participant-Selected Category:
+    - [Session 013](https://osf.io/dgzrs/): grouped by personal history
+      - Envelopes + stamps 
+      - Rubber bands + tacks
+      - Sharpies + pencils + in small basket
+      - Pens + in pencil pouch
+      - Long plastic basket
+    - [Session 016-Bonus](https://osf.io/4reuj/):grouped by durability (not all items)
+      - Rubber bands + tacks (both are expendable), long plastic basket + basket (both are durable)
+
+  - Grouped Only Writing Implements:
+    - [Session 022](https://osf.io/ty2k8/): grouped writing implements* (* = explicitly not sharpies)
+      - Pens + pencils + in pencil pouch
+      - Participant said, "The sharpies I've kept separate, because not usually in a pencil pouch, and three envelopes also separate."
+      - All of the items are in the long plastic basket (looks like a bucket)
+    - [Session 025](https://osf.io/ejqnr/): grouped writing implements
+      - Pens + pencils + sharpies
+      - Otherwise, somewhat list order, left to right
+      
+  - List Order (No Grouping):
+    - [Session 010](https://osf.io/kgv76/): list order
+      - Rubber bands + tacks + envelopes + roll of stamps + pencils + sharpies + small basket + pencil pouch + long plastic basket
+      - Bonus drawing: Bin + rubber bands + pencils
+    - [Session 016](https://osf.io/4reuj/): list order
+      - List order (wrapping around at "small plastic basket")
+      - Participant observed, "The way the description was presented, it looks like it’s generally going from the items that you have the most of to the least of...I define categories of anything larger than 1." 
+    - [Session 019](https://osf.io/d2wgk/): list order
+      - items drawn separately
+      - Participant stated, "If I thought of it more I would've put [the pens, pencils, sharpies] _in_ the pencil pouch."
+    - [Session 031](https://osf.io/akfv4/): list order
+      - items drawn separately
+
+
 ### Mental model starts forming immediately
   - Our first question asked about initial impressions/reactions. In this
-    question, people already expressed ideas, including facets we found such
-as ordering and purpose-speaking.
+    question, people already expressed ideas, including facets we found such as ordering and purpose-speaking.
     - Expressing ideas of what they would go on to draw:
       - [Session 006](https://osf.io/pkqsm/)
       - [Session 007](https://osf.io/kxze2/)
@@ -170,12 +215,8 @@ as ordering and purpose-speaking.
 
 ### Ambiguity between trees & hierarchies & sets and their common visual idioms
   - It was difficult to determine if the participant's mental model was what
-    common dataset typologies would categorize as a tree versus a hierarchy
-versus a set. This may suggest a continuum. It may also suggest extra care be taken
-when dealing with any of these. This might suggest something about data that
-has relations in general.
-  - We are trying best-effort categorization, but the difficulty in doing this
-    supports the code:
+    common dataset typologies would categorize as a tree versus a hierarchy versus a set. This may suggest a continuum. It may also suggest extra care be taken when dealing with any of these. This might suggest something about data that has relations in general.
+  - We are trying best-effort categorization, but the difficulty in doing this supports the code:
     - Hierarchy as Node-Link:
 	- [Session 006](https://osf.io/pkqsm/) - describes folders using the word
 	  "level", draws node-link tree
@@ -184,8 +225,7 @@ has relations in general.
     - Hierarchy evolves into Network as Indented Tree/List or Database Tables or "entity
       relationship diagram":
       - [Session 030](https://osf.io/9jxy3/) - uses "hierarchy" and "levels"
-        for first drawing then starts talking about "normal relationship", "properties"," ownership" and
-"membership" for the database tables
+        for first drawing then starts talking about "normal relationship", "properties"," ownership" and "membership" for the database tables
         - "I wouldn’t design, for example, if this is for an application and I had top-level code, I wouldn’t have a parallel folder that didn’t have code in it. This would be somewhere under this hierarchy (pointing to the right folder and subfolder) and referenced by whatever program was in here"
         - "youspend a good bit of time kind of clicking from one folder to another, going up,going down, the hierarchy ladder of the stuff."
         - "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table that has the property that tells what type of fileit is, and then I have an ownership or membership table that says, “this is inside that, and that, like that” (gesturing in space with flat hands)."
@@ -204,8 +244,7 @@ has relations in general.
           draws physical with some items nested in others
           - " And a roll of stamps next to the envelope because... I guess that’s like logically associated with each other to put them in the same, like a postage basket."
         - [Session 013](https://osf.io/bgeh9/) - talks about pairing things
-          (sometimes more than 2) and draws physical with some items nested in
-others
+          (sometimes more than 2) and draws physical with some items nested in others
            - "you can pair rubber bands and tacks, you can pair envelopes and stamps, you can even pair pencils, pens, sharpener, pencil pouch, and a long basket to keep everything in it"
         - [Session 025](https://osf.io/z7w25/) - talks about enclosing circle
           and writing similar things near each other
@@ -215,16 +254,14 @@ others
           - "You know, throughout my life, you just come across these diagrams, Venn diagrams."
     - Sets or Hierarchies as Node-Link or Nested
       - [Session 018](https://osf.io/ydnb9/) - users terms "set" but also
-        "level" and "nesting" draws a node-link initially but said they
-conisdered a nested drawing (bonus)
+        "level" and "nesting" draws a node-link initially but said they considered a nested drawing (bonus)
         - "I have two outer sets that - so I decided to call them A and B."
         - "F1 -- that’s where I had to make a decision. It’s at a different level so should it be FC?"
         - "That the nesting matters so if I refer to something,"
         - "Yeah... so I do code during the day for my job, but I do front end stuff, so if I for example, have a json data file, if I want to refer to something a layer deeper a layer deeper, then I “.rate.mortgage” dot-whatever, so that’s kind of the way I thought about this."
         - (while drawing nested bonus image) "Yeah I think... I mean I think it would’ve probably just been the same thing, well I dunno how same it is but we’ll see... (drawing) So that would’ve been like my first. (Holds up paper with a rectangle representing a folder and smaller labeled, rectangles inside)."
       - [Session 021](https://osf.io/v4nmf/) - uses "buckets" and
-        "underneath", draws indented tree first, node-link second.. with the
-second uses language like 'hierarchy', 'contains' and 'includes'
+        "underneath", draws indented tree first, node-link second.. with the second, participant uses language like 'hierarchy', 'contains' and 'includes'
         - "When you said I had two folders, I basically created two buckets withthese boxes. Underneath each box I listed what was included in those folders."
         - "To me they’re buckets. I kind of think of a folder as “oh here, here’s a bucket and here’s what’s in the bucket."
         - (second drawing) "So I did label the folders and explicitly labeled here's the first folder, and here's the second folder, and here's what isincluded in this folder and I grouped them together, with arrows to say this folder contains this group of things, and these things are text or image files, and then this folder includes this set of things, which also includes another folder, and that folder includes this set of things, so I kind of wanted to show visually that Folder 1 is kind of like a container that included, you know five things, whereas Folder 2 was a container that contains seven things with one of them actually containing two more things, so I was kind of showing that hierarchy, a little bit and and trying to help visualize these things as being together in a group, by boxing them around."
@@ -242,8 +279,7 @@ second uses language like 'hierarchy', 'contains' and 'includes'
          - "No, I haven’t seen a data set like that before, but this kind of graphing is kind of the way we think about problems and what we do at work.It tends to be kind of the default model I use for mathematical problems. I’ll always make it a graph problem, or frequently will. "
     - "Folder Structure" as Enclosure/Nesting with Links (Hybrid):
        - [Session 009](https://osf.io/es7w6/) - uses "inside"/"outside" to describe,
-         draws nesting. Claims this is a "folder structure" repeatedly. Never
-says "tree"
+         draws nesting. Claims this is a "folder structure" repeatedly. Never says "tree"
     - Abstraction unclear as containment/enclosure:
       - [Session 033](https://osf.io/uj34p/) - uses "folder" and "subfolder",
         draws containment
@@ -256,12 +292,7 @@ says "tree"
         - " Each letter has a bubble that can contain squares, rectangles er horizontal rectangles or vertical with little squares inside them."
     - Relations & Network & Hierarchy & Map as Node-Link:
       - [Session 014](https://osf.io/gzw56/) - at a high level, participant
-        talks about how elements of the data are related and draws a node link
-diagram, but no direct language is used. Uses this as "basis" to show
-connections next to a table. Later uses "endpoint" language for the power --
-more network like. Even later uses "layers" like a hierarchy. Let the "mind
-map" comes up as the impetus, so this may be all "map" with terms like
-concept and sub-concept (hierarchy) and "links"
+        talks about how elements of the data are related and draws a node link diagram, but no direct language is used. Uses this as "basis" to show connections next to a table. Later uses "endpoint" language for the power -- more network like. Even later uses "layers" like a hierarchy. Let the "mind map" comes up as the impetus, so this may be all "map" with terms like concept and sub-concept (hierarchy) and "links"
         - "And then we have warehouses, homes, and apartments (gestures to each respective node in the graph), so this is kind of the basis (gestures to entire graph)."
         - "what I would initially start with is the number of endpoints, like for instance, here warehouses and homes are endpoints because we are considering that as one unit. Whereas if we consider apartments, apartments will have number of residents, each resident will be an endpoint."
 		- "Particularly the layers it has, for instance now, as I said, there are multiple parameters. There were three parameters for each warehouse (EDIT: I think he means power plant), which were its customers, and then there were sublayers to that as well. For example, apartments and how each each apartment housed a certain number of residents. So the layers of the data... the layers each data type has is what intrigued me"
@@ -269,9 +300,7 @@ concept and sub-concept (hierarchy) and "links"
        		- "Breaking down a particular problem or a particular concept into its sub-concepts and representing it on papers. And representing in such a way that it’s easier to link back onto to the main concepts."
     - Physical nesting:
       - It's unclear from these that the relations were considered explicit.
-        This is anti-examples where something we could consider a hierarchy or
-set was shown but language was not used to indicate it other than describing
-the physical depiction with "in"
+        This is anti-examples where something we could consider a hierarchy or set was shown but language was not used to indicate it other than describing the physical depiction with "in"
       - [Session 015](https://osf.io/zn6qj/) - drew nested manila folders,
         used nesting language
         - This person has familiarity with trees and digraphs from school, but
@@ -281,8 +310,7 @@ the physical depiction with "in"
 
     - Sets as Proximity, no nesting: 
        - [Session 016](https://osf.io/d4efp/) - discusses 'categories' but
-         mostly talks of item types rahter than higher level grouping, in
-second drawing uses proximity to divide durable from expendable
+         mostly talks of item types rahter than higher level grouping, in second drawing uses proximity to divide durable from expendable
        - [Session 028](https://osf.io/4u63n/) - drew 2 x 2 lists of items that
          they believed grouped together
 
@@ -325,8 +353,7 @@ second drawing uses proximity to divide durable from expendable
 
 ### Physical objects can also be used to represent data
   - This code cross-references mental models, depictions, AND what-is-data,
-    but as these were what the participant thought of, we placed it here as
-the main one.
+    but as these were what the participant thought of, we placed it here as the main one.
   - Their organization (e.g. orientation, appearance, affordances) is based on the real world
 
     - Appearance: based on / tied to memories
@@ -338,18 +365,18 @@ the main one.
 
 
 ### Explicitly-stated origins of data abstractions/mental models
-- TODO: There is more evidence for this code, e.g., MIMO graphs
-- Participants used file system icons that they cited as being from an operating system.
-  - [Session 006](https://osf.io/kj4nt/)
-  - [Session 009](https://osf.io/6n7pa/)
-  - [Session 012](https://osf.io/4aphc/)
-  - [Session 015](https://osf.io/y487f/)
+
+  - TODO: There is more evidence for this code, e.g., MIMO graphs
+  - Participants used file system icons that they cited as being from an operating system.
+    - [Session 006](https://osf.io/kj4nt/)
+    - [Session 009](https://osf.io/6n7pa/)
+    - [Session 012](https://osf.io/4aphc/)
+    - [Session 015](https://osf.io/y487f/)
 
 
 ### Difficulty in mental model abstractions with less math literacy
   - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
-    multidimensional aspect of power station data, drops the power station
-dimension
+    multidimensional aspect of power station data, drops the power station dimension
   - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
 
 
@@ -362,10 +389,7 @@ These codes suggest how ordering arises in the mental model
   - We may want to group this one with the one about people drawing in the
     order things are given.
   - We may also want to group this one with the "request for added data" or
-    "inferred added data" one. While the folders have the relationships given,
-the junk drawers do not, so those are inferred. Similarly, ordering is
-imposed, and categorization may either be desired or inferred or in this case,
-objected to with the folders. 
+    "inferred added data" one. While the folders have the relationships given, the junk drawers do not, so those are inferred. Similarly, ordering is imposed, and categorization may either be desired or inferred or in this case, objected to with the folders. 
     - TODO: Evidence under purpose-seeking for inferred links (mostly already
       there)
   - Expressed personal preference:
@@ -377,8 +401,7 @@ objected to with the folders.
       - [Session 016](https://osf.io/d4efp/) - by desired category of
         "durability" based on personal experience
       - [Session 021](https://osf.io/v4nmf/) - expressed desire to re-organize
-        folders contents to homogenize types, but suggested there may be a
-reasoning to the given organization that they cannot infer.
+        folders contents to homogenize types, but suggested there may be a reasoning to the given organization that they cannot infer.
     - By quantitative attribute:
       - [Session 016](https://osf.io/d4efp/) - by desired attribute of
         "price" based on personal experience
@@ -536,6 +559,7 @@ further embellishment.
   - [Session 031](https://osf.io/cy3s4/): wishes they added detail to help clarify what items were
   - TODO: Do we add instances of all representations of objects/things that were more complicated than simple shapes?
     - E.g. [Session 024](https://osf.io/742fb/) used squares for houses and long rectangles with 3-4 "little squares inside them" for windows to represent apartments. Is this an example of adding detail for clarity? The participant mentioned this distinction and that the squares were added as windows to the apartments.
+    - Verdict: No. This seems to be more related to drawing ability and desired look of the icons, rather than clarity for communication.
 
 
 ### Few participants drew a key/legend (e.g. "(house symbol) = house"), but participants often explained symbols when they didn't match the physical appearance of the object
@@ -544,13 +568,13 @@ further embellishment.
   - [Session 032](https://osf.io/bka6e/): made a legend
 
 ### Aggregative marks and eliding details
-- Instances where participants used discrete aggregative marks in conjunction with concrete examples
-  - [Session 012](https://osf.io/4aphc/)
-    - "I marked it with a bunch of question marks to the right because I don't have any idea what [this folder] was for; it's just there"
-  - [Session 030](https://osf.io/9jxy3/)
-- Instances where participants used continuous aggregative marks, without concrete examples
-  - [Session 009](https://osf.io/6n7pa/)
-  - [Session 023](https://osf.io/t45ry/)
+  - Instances where participants used discrete aggregative marks in conjunction with concrete examples
+    - [Session 012](https://osf.io/4aphc/)
+      - "I marked it with a bunch of question marks to the right because I don't have any idea what [this folder] was for; it's just there"
+    - [Session 030](https://osf.io/9jxy3/)
+  - Instances where participants used continuous aggregative marks, without concrete examples
+    - [Session 009](https://osf.io/6n7pa/)
+    - [Session 023](https://osf.io/t45ry/)
 
 
 
@@ -583,16 +607,18 @@ KATY/ALEX: Is this a sub-code of depiction?
       - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
 
 ### People identify when the drawing alone wouldn't make sense to another person.
+
   - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
 
 ### Terminology used by participant in conflict with vis community language of dataset abstractions
-- Instances where participants drew a table, even though their description was very non-tabular
-  - [Session 014](https://osf.io/dm3ak/)
-- Instances where participants drew something more like a node-link diagram, even though their description was more set-like
-  - [Session 006](https://osf.io/kj4nt/)
-  - [Session 010](https://osf.io/kedv9/)
-- Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
-  - [Session 009](https://osf.io/6n7pa/)
+
+  - Instances where participants drew a table, even though their description was very non-tabular
+    - [Session 014](https://osf.io/dm3ak/)
+  - Instances where participants drew something more like a node-link diagram, even though their description was more set-like
+    - [Session 006](https://osf.io/kj4nt/)
+    - [Session 010](https://osf.io/kedv9/)
+  - Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
+    - [Session 009](https://osf.io/6n7pa/)
 
 ### The "Describe your sketch" prompt yielded a range in the level of description detail
 
@@ -651,8 +677,7 @@ and data analysis.
     different ideas: "like the emphasis should be on the data set, not the data containing in it, right?"
   - [Session 019](https://osf.io/z3j9f/): Data analysis is grouping people by demographics: "I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing."
   - [Session 027](https://osf.io/q9cn5/): Participante didn't think of
-    folders/files given as data, but assumed data was what was contained
-inside those files
+    folders/files given as data, but assumed data was what was contained inside those files
 
 
 
