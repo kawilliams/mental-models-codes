@@ -24,7 +24,7 @@ Themes & Codes
 
 These codes describe observations about mental models and their formation.
 
-### There were a diversity of both typology-level data abstractions and idiom choices
+### MM-1. There was a diversity of both typology-level data abstractions and idiom choices
   - It is hard to completely disassociate the typology from the idiom, this is
     best effort based on both the produced drawing and the way the participant spoke about the drawing and their mental model
   - File System:
@@ -99,57 +99,8 @@ These codes describe observations about mental models and their formation.
       - Partitioned space:
         - [Session 028](https://osf.io/davzy/)
 
-### There was a diversity of groupings that people used for the junk drawer.
 
-  - We saw grouping by functionality (2), grouping by a participant-selected category (2), grouping only writing implements (2), list order (no grouping) (4)
-
-  - Grouped by Functionality:
-    - [Session 007](https://osf.io/hsy7q/): grouped by functionality, used containers
-      - Envelopes + stamps + in long plastic basket
-      - Rubber bands + tacks + in small basket
-      - Pens + pencils + in pencil pouch
-      - Sharpies (participant said they ran out of space in pencil pouch)
-    - [Session 028](https://osf.io/davzy/): grouped by functionality
-      - Rubber bands + tacks
-      - Envelopes + stamps + ~~pens~~
-      - Pens + pencils + sharpies
-      - Pencil pouch + long plastic basket
-      - Participant said, "I grouped them based on if they have similar functionality." 
-  
-  - Grouped by Participant-Selected Category:
-    - [Session 013](https://osf.io/dgzrs/): grouped by personal history
-      - Envelopes + stamps 
-      - Rubber bands + tacks
-      - Sharpies + pencils + in small basket
-      - Pens + in pencil pouch
-      - Long plastic basket
-    - [Session 016-Bonus](https://osf.io/4reuj/):grouped by durability (not all items)
-      - Rubber bands + tacks (both are expendable), long plastic basket + basket (both are durable)
-
-  - Grouped Only Writing Implements:
-    - [Session 022](https://osf.io/ty2k8/): grouped writing implements* (* = explicitly not sharpies)
-      - Pens + pencils + in pencil pouch
-      - Participant said, "The sharpies I've kept separate, because not usually in a pencil pouch, and three envelopes also separate."
-      - All of the items are in the long plastic basket (looks like a bucket)
-    - [Session 025](https://osf.io/ejqnr/): grouped writing implements
-      - Pens + pencils + sharpies
-      - Otherwise, somewhat list order, left to right
-      
-  - List Order (No Grouping):
-    - [Session 010](https://osf.io/kgv76/): list order
-      - Rubber bands + tacks + envelopes + roll of stamps + pencils + sharpies + small basket + pencil pouch + long plastic basket
-      - Bonus drawing: Bin + rubber bands + pencils
-    - [Session 016](https://osf.io/4reuj/): list order
-      - List order (wrapping around at "small plastic basket")
-      - Participant observed, "The way the description was presented, it looks like it’s generally going from the items that you have the most of to the least of...I define categories of anything larger than 1." 
-    - [Session 019](https://osf.io/d2wgk/): list order
-      - items drawn separately
-      - Participant stated, "If I thought of it more I would've put [the pens, pencils, sharpies] _in_ the pencil pouch."
-    - [Session 031](https://osf.io/akfv4/): list order
-      - items drawn separately
-
-
-### Mental model starts forming immediately
+### MM-2. Mental model starts forming immediately
   - Our first question asked about initial impressions/reactions. In this
     question, people already expressed ideas, including facets we found such as ordering and purpose-speaking.
     - Expressing ideas of what they would go on to draw:
@@ -213,7 +164,7 @@ These codes describe observations about mental models and their formation.
     - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
     - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
 
-### Ambiguity between trees & hierarchies & sets and their common visual idioms
+### MM-3. Ambiguity between trees & hierarchies & sets and their common visual idioms
   - It was difficult to determine if the participant's mental model was what
     common dataset typologies would categorize as a tree versus a hierarchy versus a set. This may suggest a continuum. It may also suggest extra care be taken when dealing with any of these. This might suggest something about data that has relations in general.
   - We are trying best-effort categorization, but the difficulty in doing this supports the code:
@@ -315,7 +266,7 @@ These codes describe observations about mental models and their formation.
          they believed grouped together
 
 
-### Mental model fixed at high level, but becomes more detailed in drawing
+### MM-4. Mental model fixed at high level, but becomes more detailed in drawing
   - This code cross-references with the depiction theme
   - Revised during drawing:
      - [Session 006](https://osf.io/pkqsm/) - root added during discussion
@@ -335,7 +286,7 @@ These codes describe observations about mental models and their formation.
      - [Session 033](https://osf.io/uj34p/) - icon detail/symbol choices not
        thought about until drawing
 
-### Affordances can be part of the mental model
+### MM-5. Affordances can be part of the mental model
   - File System:
       - [Session 006](https://osf.io/pkqsm/) - describes mental model as subset of
 	of given data as they navigate it, similar to Windows
@@ -351,7 +302,7 @@ These codes describe observations about mental models and their formation.
     - [Session 022](https://osf.io/psv9g/) - basket drawn for carrying
 
 
-### Physical objects can also be used to represent data
+### MM-6. Physical objects can also be used to represent data
   - This code cross-references mental models, depictions, AND what-is-data,
     but as these were what the participant thought of, we placed it here as the main one.
   - Their organization (e.g. orientation, appearance, affordances) is based on the real world
@@ -364,32 +315,49 @@ These codes describe observations about mental models and their formation.
       - [Session 015](https://osf.io/y487f/): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape: "Having a folder inside a folder, I guess. So that would - I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
 
 
-### Explicitly-stated origins of data abstractions/mental models
+### MM-7. Explicitly-stated origins of data abstractions/mental models
 
-  - TODO: There is more evidence for this code, e.g., MIMO graphs
-  - Participants used file system icons that they cited as being from an operating system.
+  - Participants used file system icons or structures that they cited as being from an operating system/software
     - [Session 006](https://osf.io/kj4nt/)
     - [Session 009](https://osf.io/6n7pa/)
     - [Session 012](https://osf.io/4aphc/)
     - [Session 015](https://osf.io/y487f/)
+    - [Session 021](https://osf.io/v4nmf/)
+    - [Session 026](https://osf.io/wfrc5/)
+    - [Session 029](https://osf.io/bph2d/)
+    - [Session 030](https://osf.io/9jxy3/)
+    
+  - Participants cited a real-life example (e.g. a drawer they've seen, power plants, cell-free MIMO)
+    - [Session 007](https://osf.io/kxze2/)
+    - [Session 008](https://osf.io/wb4r5/)
+    - [Session 013](https://osf.io/kxze2/)
+    - [Session 019](https://osf.io/z3j9f/)
+    - [Session 024](https://osf.io/742fb/)
+    - [Session 025](https://osf.io/z7w25/)
+
+  - Participant cited their work as the reason for the choice of data abstraction.
+    - [Session 016](https://osf.io/d4efp/)
+    - [Session 020](https://osf.io/5rsjc/)
+    - [Session 029](https://osf.io/bph2d/)
+    - [Session 032](https://osf.io/bka6e/)
 
 
-### Difficulty in mental model abstractions with less math literacy
+
+### MM-8. Difficulty in mental model abstractions with less math literacy
   - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
     multidimensional aspect of power station data, drops the power station dimension
   - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
 
 
 
-### Ordering
+### Ordering & Grouping
 
 These codes suggest how ordering arises in the mental model
 
-#### Ordering is diverse and often personal
+#### MM-OG-1. Ordering is diverse and often personal
   - We may want to group this one with the one about people drawing in the
     order things are given.
-  - We may also want to group this one with the "request for added data" or
-    "inferred added data" one. While the folders have the relationships given, the junk drawers do not, so those are inferred. Similarly, ordering is imposed, and categorization may either be desired or inferred or in this case, objected to with the folders. 
+  - We may also want to group this one with the "request for added data" or "inferred added data" one. While the folders have the relationships given, the junk drawers do not, so those are inferred. Similarly, ordering is imposed, and categorization may either be desired or inferred or in this case, objected to with the folders. 
     - TODO: Evidence under purpose-seeking for inferred links (mostly already
       there)
   - Expressed personal preference:
@@ -419,7 +387,7 @@ These codes suggest how ordering arises in the mental model
     - By function:
       - [Session 028](https://osf.io/4u63n/) - junk drawer items by function
 
-#### Participants tend to draw things in order of reading.
+#### MM-OG-2. Participants tend to draw things in order of reading.
   - Often, but not always, this order reflects itself on the page
     - Support: File System and Power Station tend to be drawn in order of reading
       - [Session 26](https://osf.io/mpncx/): intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
@@ -428,13 +396,61 @@ These codes suggest how ordering arises in the mental model
    - Temporal aspect of hypothesis forming on data reading seems interesting. I wonder how far
      this has been pushed with respect to progressive visualizations.
 
+### MM-OG-3. There was a diversity of groupings that people used for the junk drawer.
+  - We saw grouping by functionality (2), grouping by a participant-selected category (2), grouping only writing implements (2), list order (no grouping) (4)
+
+  - Grouped by Functionality:
+    - [Session 007](https://osf.io/hsy7q/): grouped by functionality, used containers
+      - Envelopes + stamps + in long plastic basket
+      - Rubber bands + tacks + in small basket
+      - Pens + pencils + in pencil pouch
+      - Sharpies (participant said they ran out of space in pencil pouch)
+    - [Session 028](https://osf.io/davzy/): grouped by functionality
+      - Rubber bands + tacks
+      - Envelopes + stamps + ~~pens~~
+      - Pens + pencils + sharpies
+      - Pencil pouch + long plastic basket
+      - Participant said, "I grouped them based on if they have similar functionality." 
+  
+  - Grouped by Participant-Selected Category:
+    - [Session 013](https://osf.io/dgzrs/): grouped by personal history
+      - Envelopes + stamps 
+      - Rubber bands + tacks
+      - Sharpies + pencils + in small basket
+      - Pens + in pencil pouch
+      - Long plastic basket
+    - [Session 016-Bonus](https://osf.io/4reuj/):grouped by durability (not all items)
+      - Rubber bands + tacks (both are expendable), long plastic basket + basket (both are durable)
+
+  - Grouped Only Writing Implements:
+    - [Session 022](https://osf.io/ty2k8/): grouped writing implements* (* = explicitly not sharpies)
+      - Pens + pencils + in pencil pouch
+      - Participant said, "The sharpies I've kept separate, because not usually in a pencil pouch, and three envelopes also separate."
+      - All of the items are in the long plastic basket (looks like a bucket)
+    - [Session 025](https://osf.io/ejqnr/): grouped writing implements
+      - Pens + pencils + sharpies
+      - Otherwise, somewhat list order, left to right
+      
+  - List Order (No Grouping):
+    - [Session 010](https://osf.io/kgv76/): list order
+      - Rubber bands + tacks + envelopes + roll of stamps + pencils + sharpies + small basket + pencil pouch + long plastic basket
+      - Bonus drawing: Bin + rubber bands + pencils
+    - [Session 016](https://osf.io/4reuj/): list order
+      - List order (wrapping around at "small plastic basket")
+      - Participant observed, "The way the description was presented, it looks like it’s generally going from the items that you have the most of to the least of...I define categories of anything larger than 1." 
+    - [Session 019](https://osf.io/d2wgk/): list order
+      - items drawn separately
+      - Participant stated, "If I thought of it more I would've put [the pens, pencils, sharpies] _in_ the pencil pouch."
+    - [Session 031](https://osf.io/akfv4/): list order
+      - items drawn separately
+
 
 
 ## Purpose-Seeking
 
 In these codes, participants infer a bigger picture or task.
 
-### Participants often want to add additional information, data that isn’t there
+### PS-1.Participants often want to add additional information, data that isn’t there
   - Request data attributes to each item:
     - File system
       - [Session 009](https://osf.io/6n7pa/) - file sizes 
@@ -463,14 +479,14 @@ In these codes, participants infer a bigger picture or task.
   
   - Observation by KI - Participants want to add a 'richness' to the data in lots of dimensions. This isn't their data so they want to put it into the context of what they know. However, different people suggest different attributes. People may only want different parts of a wide dataset.
 
-### Participants want to uncover the purpose: “Why is the file system organized like this?,” “what are the power stations doing?”
+### PS-2. Participants want to uncover the purpose: “Why is the file system organized like this?,” “what are the power stations doing?”
   - Make a story/context for the file system: 
     - [Session 006](https://osf.io/kj4nt/)
     - [Session 009](https://osf.io/6n7pa/)
     - [Session 012](https://osf.io/4aphc/)
 
 
-### Participants suggest or assume tasks:
+### PS-3. Participants suggest or assume tasks:
   - Participants want to discover ultima: For power plant, which one produces the most/least energy?   
       - Supported by:
 	- [Session 011](https://osf.io/kaemj/)
@@ -491,7 +507,7 @@ In these codes, participants infer a bigger picture or task.
   - Present for scientific publication
     - [Session 032](https://osf.io/bka6e/)
 
-### Participants suggest source of data, such as all being part of a toolbox
+### PS-4. Participants suggest source of data, such as all being part of a toolbox
   - [Session 007](https://osf.io/kxze2/) - stationary drawer
   - [Session 010](https://osf.io/kedv9/) - office supplies
   - [Session 013](https://osf.io/bgeh9/) - toolbox, electrician's toolbox
@@ -511,7 +527,7 @@ In these codes, participants infer a bigger picture or task.
 These codes collect observations about the drawing of the mental model and
 further embellishment.
 
-### People used abstractions in the depiction
+### D-1. People used abstractions in the depiction
   - Voiced the abstraction from the beginning:
     - [Session 011](https://osf.io/qj2pm/) - drew boxes because drawing houses
       would be too difficult
@@ -525,7 +541,7 @@ further embellishment.
     - [Session 009](https://osf.io/es7w6/) - originally text files labeled
       with "txt" but participant says they stop labeling because of laziness
 
-### People run into constraints with their existing sketch.
+### D-2. People run into constraints with their existing sketch.
 
   - People run out of space when drawing.
 
@@ -538,7 +554,7 @@ further embellishment.
     - [Session 022](https://osf.io/psv9g/): would have "made the basket a little bigger."
 
 
-### People use text for clarity and understanding.
+### D-3. People use text for clarity and understanding.
   - *Note: use of text was only noted if the participant noted that they used text.*
   - [Session 009](https://osf.io/es7w6/): calls the files ".java" so that "we can be more explicit."
   - [Session 016](https://osf.io/d4efp/): participant "modified some of the descriptions" to help "me process a bit better." Switched to "noun, adjective."
@@ -549,7 +565,7 @@ further embellishment.
   - [Session 029](https://osf.io/bph2d/): asterisk footnote for residents per apartment
 
 
-### People add details for clarity and understanding.
+### D-4. People add details for clarity and understanding.
   - *Note: use of detail was only noted if the participant noted that they added detail on purpose.*
   - [Session 012](https://osf.io/xbw3h/): added labels and arrows to suggest hypotheses about the nature of the files and their relations.
   - [Session 015](https://osf.io/zn6qj/): added shading for clarity.
@@ -557,17 +573,17 @@ further embellishment.
   - [Session 020](https://osf.io/5rsjc/):suggests adding weights to directed arrows, "it would be an improvement."
   - [Session 023](https://osf.io/t45ry/): added a scale. In a revised version they would "include power station letters somehow."
   - [Session 031](https://osf.io/cy3s4/): wishes they added detail to help clarify what items were
-  - TODO: Do we add instances of all representations of objects/things that were more complicated than simple shapes?
+  - Question: Do we add instances of all representations of objects/things that were more complicated than simple shapes?
     - E.g. [Session 024](https://osf.io/742fb/) used squares for houses and long rectangles with 3-4 "little squares inside them" for windows to represent apartments. Is this an example of adding detail for clarity? The participant mentioned this distinction and that the squares were added as windows to the apartments.
     - Verdict: No. This seems to be more related to drawing ability and desired look of the icons, rather than clarity for communication.
 
 
-### Few participants drew a key/legend (e.g. "(house symbol) = house"), but participants often explained symbols when they didn't match the physical appearance of the object
+### D-5. Few participants drew a key/legend (e.g. "(house symbol) = house"), but participants often explained symbols when they didn't match the physical appearance of the object
   - [Session 006](https://osf.io/pkqsm/): verbally explains the icons for the types of files.
   - [Session 024](https://osf.io/742fb/): verbally explained that small squares represent homes.
   - [Session 032](https://osf.io/bka6e/): made a legend
 
-### Aggregative marks and eliding details
+### D-6. Aggregative marks and eliding details
   - Instances where participants used discrete aggregative marks in conjunction with concrete examples
     - [Session 012](https://osf.io/4aphc/)
       - "I marked it with a bunch of question marks to the right because I don't have any idea what [this folder] was for; it's just there"
@@ -585,7 +601,7 @@ mental model or depictions.
 
 KATY/ALEX: Is this a sub-code of depiction?
 
-### Depiction changes for communication
+### C-1. Depiction changes for communication
   - This code cross-references with depiction
   - Same general abstraction
       - [Session 006](https://osf.io/pkqsm/) - root added during discussion
@@ -606,11 +622,11 @@ KATY/ALEX: Is this a sub-code of depiction?
       - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
       - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
 
-### People identify when the drawing alone wouldn't make sense to another person.
+### C-2. People identify when the drawing alone wouldn't make sense to another person.
 
   - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
 
-### Terminology used by participant in conflict with vis community language of dataset abstractions
+### C-3. Terminology used by participant in conflict with vis community language of dataset abstractions
 
   - Instances where participants drew a table, even though their description was very non-tabular
     - [Session 014](https://osf.io/dm3ak/)
@@ -620,7 +636,7 @@ KATY/ALEX: Is this a sub-code of depiction?
   - Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
     - [Session 009](https://osf.io/6n7pa/)
 
-### The "Describe your sketch" prompt yielded a range in the level of description detail
+### C-4. The "Describe your sketch" prompt yielded a range in the level of description detail
 
   - The range of verbal description provided: individual data points --> individual icons --> relations of icons / positions of icons --> data abstraction
 
@@ -649,10 +665,9 @@ KATY/ALEX: Is this a sub-code of depiction?
 
 ## Beliefs about Data
 
-These codes gather pre-conceptions participants had about the concepts of data
-and data analysis.
+These codes gather pre-conceptions participants had about the concepts of data and data analysis.
 
-### The idea that data relates to tables is prevalent:   
+### BD-1. The idea that data relates to tables is prevalent:   
 
   - [Session 007](https://osf.io/kxze2/): 
     Me: "Did it surprise you that we called it a data set?" 
@@ -664,7 +679,7 @@ and data analysis.
   - [Session 030](https://osf.io/9jxy3/): [bonus image](https://osf.io/s7t2r/) 
     E: "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table..."
 
-### Other hesitation regarding whether we had given them data:
+### BD-2. Other hesitation regarding whether we had given them data:
 
   - [Session 007](https://osf.io/kxze2/): Data sets have objects and quantities "I guess this is a valid data set, it's got objects and quantities for
     those objects"
@@ -676,7 +691,7 @@ and data analysis.
   - [Session 014](https://osf.io/gzw56/): Dataset and data within are
     different ideas: "like the emphasis should be on the data set, not the data containing in it, right?"
   - [Session 019](https://osf.io/z3j9f/): Data analysis is grouping people by demographics: "I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing."
-  - [Session 027](https://osf.io/q9cn5/): Participante didn't think of
+  - [Session 027](https://osf.io/q9cn5/): Participant didn't think of
     folders/files given as data, but assumed data was what was contained inside those files
 
 
