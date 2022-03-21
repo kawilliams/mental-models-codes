@@ -5,8 +5,6 @@ OUTSTANDING TODOs
     that did or did not change in a major way. We probably need them, possibly
 grouped by a code regarding mental model changes.
 
-- Count the number of people who add annotations when talking (connects to Future Work)
-  - this is done to some respect under Communication theme
 - People naturally try to find groups, the outlier sticks out (but the definition of "outlier" is loose) 
   - This also suggests a grouping code under mental model
 
@@ -574,6 +572,7 @@ further embellishment.
   - [Session 031](https://osf.io/cy3s4/): wishes they added detail to help clarify what items were
   - TODO: Do we add instances of all representations of objects/things that were more complicated than simple shapes?
     - E.g. [Session 024](https://osf.io/742fb/) used squares for houses and long rectangles with 3-4 "little squares inside them" for windows to represent apartments. Is this an example of adding detail for clarity? The participant mentioned this distinction and that the squares were added as windows to the apartments.
+    - Verdict: No. This seems to be more related to drawing ability and desired look of the icons, rather than clarity for communication.
 
 
 ### Few participants drew a key/legend (e.g. "(house symbol) = house"), but participants often explained symbols when they didn't match the physical appearance of the object
