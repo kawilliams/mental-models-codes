@@ -357,8 +357,7 @@ These codes suggest how ordering arises in the mental model
 #### MM-OG-1. Ordering is diverse and often personal
   - We may want to group this one with the one about people drawing in the
     order things are given.
-  - We may also want to group this one with the "request for added data" or
-    "inferred added data" one. While the folders have the relationships given, the junk drawers do not, so those are inferred. Similarly, ordering is imposed, and categorization may either be desired or inferred or in this case, objected to with the folders. 
+  - We may also want to group this one with the "request for added data" or "inferred added data" one. While the folders have the relationships given, the junk drawers do not, so those are inferred. Similarly, ordering is imposed, and categorization may either be desired or inferred or in this case, objected to with the folders. 
     - TODO: Evidence under purpose-seeking for inferred links (mostly already
       there)
   - Expressed personal preference:
@@ -574,7 +573,7 @@ further embellishment.
   - [Session 020](https://osf.io/5rsjc/):suggests adding weights to directed arrows, "it would be an improvement."
   - [Session 023](https://osf.io/t45ry/): added a scale. In a revised version they would "include power station letters somehow."
   - [Session 031](https://osf.io/cy3s4/): wishes they added detail to help clarify what items were
-  - TODO: Do we add instances of all representations of objects/things that were more complicated than simple shapes?
+  - Question: Do we add instances of all representations of objects/things that were more complicated than simple shapes?
     - E.g. [Session 024](https://osf.io/742fb/) used squares for houses and long rectangles with 3-4 "little squares inside them" for windows to represent apartments. Is this an example of adding detail for clarity? The participant mentioned this distinction and that the squares were added as windows to the apartments.
     - Verdict: No. This seems to be more related to drawing ability and desired look of the icons, rather than clarity for communication.
 
