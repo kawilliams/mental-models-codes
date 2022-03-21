@@ -24,7 +24,7 @@ Themes & Codes
 
 These codes describe observations about mental models and their formation.
 
-### There were a diversity of both typology-level data abstractions and idiom choices
+### MM-1. There was a diversity of both typology-level data abstractions and idiom choices
   - It is hard to completely disassociate the typology from the idiom, this is
     best effort based on both the produced drawing and the way the participant spoke about the drawing and their mental model
   - File System:
@@ -99,7 +99,7 @@ These codes describe observations about mental models and their formation.
       - Partitioned space:
         - [Session 028](https://osf.io/davzy/)
 
-### There was a diversity of groupings that people used for the junk drawer.
+### MM-2. There was a diversity of groupings that people used for the junk drawer.
   - We saw grouping by functionality (2), grouping by a participant-selected category (2), grouping only writing implements (2), list order (no grouping) (4)
   - [Session 007](https://osf.io/hsy7q/): grouped by functionality, used containers
     - Envelopes + stamps + in long plastic basket
@@ -139,7 +139,7 @@ These codes describe observations about mental models and their formation.
     - items drawn separately
 
 
-### Mental model starts forming immediately
+### MM-3. Mental model starts forming immediately
   - Our first question asked about initial impressions/reactions. In this
     question, people already expressed ideas, including facets we found such as ordering and purpose-speaking.
     - Expressing ideas of what they would go on to draw:
@@ -203,7 +203,7 @@ These codes describe observations about mental models and their formation.
     - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
     - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
 
-### Ambiguity between trees & hierarchies & sets and their common visual idioms
+### MM-4. Ambiguity between trees & hierarchies & sets and their common visual idioms
   - It was difficult to determine if the participant's mental model was what
     common dataset typologies would categorize as a tree versus a hierarchy versus a set. This may suggest a continuum. It may also suggest extra care be taken when dealing with any of these. This might suggest something about data that has relations in general.
   - We are trying best-effort categorization, but the difficulty in doing this supports the code:
@@ -305,7 +305,7 @@ These codes describe observations about mental models and their formation.
          they believed grouped together
 
 
-### Mental model fixed at high level, but becomes more detailed in drawing
+### MM-5. Mental model fixed at high level, but becomes more detailed in drawing
   - This code cross-references with the depiction theme
   - Revised during drawing:
      - [Session 006](https://osf.io/pkqsm/) - root added during discussion
@@ -325,7 +325,7 @@ These codes describe observations about mental models and their formation.
      - [Session 033](https://osf.io/uj34p/) - icon detail/symbol choices not
        thought about until drawing
 
-### Affordances can be part of the mental model
+### MM-6. Affordances can be part of the mental model
   - File System:
       - [Session 006](https://osf.io/pkqsm/) - describes mental model as subset of
 	of given data as they navigate it, similar to Windows
@@ -341,7 +341,7 @@ These codes describe observations about mental models and their formation.
     - [Session 022](https://osf.io/psv9g/) - basket drawn for carrying
 
 
-### Physical objects can also be used to represent data
+### MM-7. Physical objects can also be used to represent data
   - This code cross-references mental models, depictions, AND what-is-data,
     but as these were what the participant thought of, we placed it here as the main one.
   - Their organization (e.g. orientation, appearance, affordances) is based on the real world
@@ -354,7 +354,7 @@ These codes describe observations about mental models and their formation.
       - [Session 015](https://osf.io/y487f/): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape: "Having a folder inside a folder, I guess. So that would - I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
 
 
-### Explicitly-stated origins of data abstractions/mental models
+### MM-8. Explicitly-stated origins of data abstractions/mental models
 
   - TODO: There is more evidence for this code, e.g., MIMO graphs
   - Participants used file system icons that they cited as being from an operating system.
@@ -364,7 +364,7 @@ These codes describe observations about mental models and their formation.
     - [Session 015](https://osf.io/y487f/)
 
 
-### Difficulty in mental model abstractions with less math literacy
+### MM-9. Difficulty in mental model abstractions with less math literacy
   - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
     multidimensional aspect of power station data, drops the power station dimension
   - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
@@ -639,8 +639,7 @@ KATY/ALEX: Is this a sub-code of depiction?
 
 ## Beliefs about Data
 
-These codes gather pre-conceptions participants had about the concepts of data
-and data analysis.
+These codes gather pre-conceptions participants had about the concepts of data and data analysis.
 
 ### The idea that data relates to tables is prevalent:   
 
@@ -666,7 +665,7 @@ and data analysis.
   - [Session 014](https://osf.io/gzw56/): Dataset and data within are
     different ideas: "like the emphasis should be on the data set, not the data containing in it, right?"
   - [Session 019](https://osf.io/z3j9f/): Data analysis is grouping people by demographics: "I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing."
-  - [Session 027](https://osf.io/q9cn5/): Participante didn't think of
+  - [Session 027](https://osf.io/q9cn5/): Participant didn't think of
     folders/files given as data, but assumed data was what was contained inside those files
 
 
