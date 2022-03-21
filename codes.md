@@ -1,12 +1,8 @@
 OUTSTANDING TODOs
 =================
-- See whose mental model changed (i.e. they say "yes, it changed by drawing" or if they used differing terms/visualizations/abstrations from the "gut reaction" question to the "did you mental model change by drawing" question)
-  - There's a code for refining mental models while drawing, but not for those
-    that did or did not change in a major way. We probably need them, possibly
-grouped by a code regarding mental model changes.
-
 - People naturally try to find groups, the outlier sticks out (but the definition of "outlier" is loose) 
   - This also suggests a grouping code under mental model
+- See new TODO about where to put Communication codes 
 
 Formatting conventions
 ======================
@@ -187,31 +183,41 @@ These codes describe observations about mental models and their formation.
       - [Session 026](https://osf.io/wfrc5/) - "I wanted to make it tidy."
       - [Session 028](https://osf.io/4u63n/) - "But as I read through it, I began to sort of group them into 4 groups."
   - When asked if the mental model changed, many said outright it did not.
-    - [Session 006](https://osf.io/pkqsm/)
-    - [Session 007](https://osf.io/kxze2/)
-    - [Session 008](https://osf.io/wb4r5/) - "I just stick to whatever I
-      thought at the beginning."
-    - [Session 014](https://osf.io/gzw56/)
-    - [Session 015](https://osf.io/zn6qj/)
-    - [Session 017](https://osf.io/qmts9/)
-    - [Session 018](https://osf.io/ydnb9/) - "No, I mean I kind of saw it for how I was gonna do it right away and stuck with that."
-    - [Session 019](https://osf.io/z3j9f/) - " Only in the sense that pens, sharpies, and pencils look alike, so I had to do something to distinguish them, but not really organizationally. "
-    - [Session 021](https://osf.io/v4nmf/) - "No it didn’t. From the time I first read it to when I drew it, it didn’t change."
-    - [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
-    - [Session 024](https://osf.io/742fb/)
-    - [Session 025](https://osf.io/z7w25/)
-    - [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
-    - [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
-    - [Session 028](https://osf.io/4u63n/)
-    - [Session 029](https://osf.io/bph2d/)
-    - Note for many of those not listed here, it's because the model became
-      more refined. See the related code: `Mental model fixed at high level, but becomes more detailed in drawing`
+    - Did not change: 
+	- [Session 006](https://osf.io/pkqsm/)
+	- [Session 007](https://osf.io/kxze2/)
+	- [Session 008](https://osf.io/wb4r5/) - "I just stick to whatever I thought at the beginning."
+        - [Session 009](https://osf.io/es7w6/) - Not really, I was pretty comfortable with this. I considered the fact of the size, but in my opinion that would be a different model and not necessarily the one that was initially asked for. So I’m staying pretty comfortable with this."
+	- [Session 014](https://osf.io/gzw56/)
+	- [Session 015](https://osf.io/zn6qj/)
+	- [Session 017](https://osf.io/qmts9/)
+	- [Session 018](https://osf.io/ydnb9/) - "No, I mean I kind of saw it for how I was gonna do it right away and stuck with that."
+	- [Session 019](https://osf.io/z3j9f/) - " Only in the sense that pens, sharpies, and pencils look alike, so I had to do something to distinguish them, but not really organizationally. "
+	- [Session 021](https://osf.io/v4nmf/) - "No it didn’t. From the time I first read it to when I drew it, it didn’t change."
+	- [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
+	- [Session 024](https://osf.io/742fb/)
+	- [Session 025](https://osf.io/z7w25/)
+	- [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
+	- [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
+	- [Session 028](https://osf.io/4u63n/)
+	- [Session 029](https://osf.io/bph2d/)
+    - Became more refined in drawing, see: `Mental model fixed at high level, but becomes more detailed in drawing
+    - Small change while talking:
+        - [Session 012](https://osf.io/xbw3h/) - "During the conversation it’s been adjusting a little bit and what might be more proper for it, but overall it basically stayed the same idea."`
   - Several mentioned that aspects of their mental model were obvious
-    - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder
-      structure."
+    - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder structure."
     - [Session 016](https://osf.io/d4efp/) - "You know, obviously, as graphically, with the bars, but with the description, that just helped me in my brain categorizing it better"
     - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
     - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
+    
+### Significant mental model changes happened when participants sought a better Representation
+    - [Session 010](https://osf.io/kgv76/) - Participant considers "web format" after initial JSON format
+       - This session had microphone issues, so it's unclear at what point the model changed and/or if this was prompted by the question wording
+    - [Session 016](https://osf.io/d4efp/) - Participant considers better ways to display during task
+    - [Session 023](https://osf.io/t45ry/) - "I think so because when I read it, it made a lot of sense, but then I was trying to find the best way to express that data. Because I didn’t really know how to express it concisely where it makes a lot of sense. Because I felt like I just had a lot going on."
+       - Note, this is one of the people with less data/vis familiarity
+    - [Session 032](https://osf.io/bka6e/) - "Yeah I think it did change. I couldn’t think of a better way to represent it, given everything"
+       - Note, this participant drew a bar graph but described a multi-reprensentation in a journal paper
 
 ### Ambiguity between trees & hierarchies & sets and their common visual idioms
   - It was difficult to determine if the participant's mental model was what
@@ -319,6 +325,7 @@ These codes describe observations about mental models and their formation.
   - This code cross-references with the depiction theme
   - Revised during drawing:
      - [Session 006](https://osf.io/pkqsm/) - root added during discussion
+     - [Session 011](https://osf.io/qj2pm/) _ participant considers what each building means in more detail
      - [Session 015](https://osf.io/zn6qj/) - rearrangement needed during
        drawing process
      - [Session 025](https://osf.io/z7w25/) - while drawing, participant comes
@@ -326,10 +333,12 @@ These codes describe observations about mental models and their formation.
      - [Session 026](https://osf.io/wfrc5/) - revised consideration of
        building types with more information
   - Becomes more detailed in drawing:
+     - [Session 013](https://osf.io/bgeh9/) - "In the beginning I was just thinking about the basket and thenI started to remember how things were more clearly, so I started drawing slightly more elaborately and really thinking about what I wanted to draw."
      - [Session 020](https://osf.io/5rsjc/) - considers how it would scale
        to 100 buildings during process
      - [Session 025](https://osf.io/z7w25/) - while drawing, participant comes
        up with new grouping for writing implements
+     - [Session 030](https://osf.io/9jxy3/) - "The minor hiccup was, obviously, trying to choose tokens to represent the category of files: text, image, code."
      - [Session 031](https://osf.io/cy3s4/) - item details considered during
        drawing to clarify depiction
      - [Session 033](https://osf.io/uj34p/) - icon detail/symbol choices not
@@ -583,7 +592,7 @@ further embellishment.
 These codes gather observations about the effect of communication on the
 mental model or depictions.
 
-KATY/ALEX: Is this a sub-code of depiction?
+TODO: KATY/ALEX: Is this a sub-code of depiction?
 
 ### Depiction changes for communication
   - This code cross-references with depiction
