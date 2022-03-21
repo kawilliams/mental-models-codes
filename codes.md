@@ -101,8 +101,8 @@ spoke about the drawing and their mental model
         - [Session 025](https://osf.io/ejqnr/)
       - Partitioned space:
         - [Session 028](https://osf.io/davzy/)
-### There was a diversity of "obvious" groupings that people used for the junk drawer.
-  - We saw grouping by functionality, grouping by a participant-selected category (1), no grouping (list order)
+### There was a diversity of groupings that people used for the junk drawer.
+  - We saw grouping by functionality (2), grouping by a participant-selected category (2), grouping only writing implements (2), list order (no grouping) (4)
   - [Session 007](https://osf.io/hsy7q/): grouped by functionality, used containers
     - Envelopes + stamps + in long plastic basket
     - Rubber bands + tacks + in small basket
