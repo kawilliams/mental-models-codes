@@ -102,41 +102,42 @@ spoke about the drawing and their mental model
       - Partitioned space:
         - [Session 028](https://osf.io/davzy/)
 ### There was a diversity of "obvious" groupings that people used for the junk drawer.
-  - [Session 007](https://osf.io/hsy7q/):
+  - We saw grouping by functionality, grouping by a participant-selected category (1), no grouping (list order)
+  - [Session 007](https://osf.io/hsy7q/): grouped by functionality, used containers
     - Envelopes + stamps + in long plastic basket
     - Rubber bands + tacks + in small basket
     - Pens + pencils + in pencil pouch
     - Sharpies (participant said they ran out of space in pencil pouch)
-  - [Session 010](https://osf.io/kgv76/):
+  - [Session 010](https://osf.io/kgv76/): list order
     - Rubber bands + tacks + envelopes + roll of stamps + pencils + sharpies + small basket + pencil pouch + long plastic basket
     - Bonus drawing: Bin + rubber bands + pencils
-  - [Session 013](https://osf.io/dgzrs/):
+  - [Session 013](https://osf.io/dgzrs/): grouped by personal history
     - Envelopes + stamps 
     - Rubber bands + tacks
-    - Sharpies + pencils + small basket
+    - Sharpies + pencils + in small basket
     - Pens + in pencil pouch
     - Long plastic basket
-  - [Session 016](https://osf.io/4reuj/):
+  - [Session 016](https://osf.io/4reuj/): list order, bonus: grouped by durability
     - List order (wrapping around at "small plastic basket")
     - Participant observed, "The way the description was presented, it looks like it’s generally going from the items that you have the most of to the least of...I define categories of anything larger than 1." 
     - [Bonus](https://osf.io/4reuj/) (not all items): rubber bands + tacks (both are expendable), long plastic basket + basket (both are durable)
-  - [Session 019](https://osf.io/d2wgk/):
+  - [Session 019](https://osf.io/d2wgk/): list order
     - items drawn separately
     - Participant stated, "If I thought of it more I would've put [the pens, pencils, sharpies] _in_ the pencil pouch."
-  - [Session 022](https://osf.io/ty2k8/):
+  - [Session 022](https://osf.io/ty2k8/): grouped writing implements* (* = explicitly not sharpies)
     - Pens + pencils + in pencil pouch
     - Participant said, "The sharpies I've kept separate, because not usually in a pencil pouch, and three envelopes also separate."
     - All of the items are in the long plastic basket (looks like a bucket)
-  - [Session 025](https://osf.io/ejqnr/):
+  - [Session 025](https://osf.io/ejqnr/): grouped writing implements
     - Pens + pencils + sharpies
     - Otherwise, somewhat list order, left to right
-  - [Session 028](https://osf.io/davzy/):
+  - [Session 028](https://osf.io/davzy/): grouped by functionality
     - Rubber bands + tacks
     - Envelopes + stamps + ~~pens~~
     - Pens + pencils + sharpies
     - Pencil pouch + long plastic basket
     - Participant said, "I grouped them based on if they have similar functionality." 
-  - [Session 031](https://osf.io/akfv4/):
+  - [Session 031](https://osf.io/akfv4/): list order
     - items drawn separately
 
 
