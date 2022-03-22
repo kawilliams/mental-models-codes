@@ -609,6 +609,7 @@ These codes gather observations about the effect of communication on the
 mental model or depictions.
 
 TODO: KATY/ALEX: Is this a sub-code of depiction?
+ - Decided to leave as its own code for now
 
 ### C-1. Depiction changes for communication
   - This code cross-references with depiction
@@ -757,7 +758,7 @@ Comparison to Related Work
   - Session 015: 
     - Possibly E "I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
   - Session 016:
-    - F "maybe there’s a better way to accurately display - because it sounds like this is someone inventorying the items in a desk or an office - andit’s “ok, we can make a count of six rubber bands,” but this isn’t showing the dollar value, essentially, or how someone might quantify the dollar value."
+    - F "maybe there’s a better way to accurately display - because it sounds like this is someone inventorying the items in a desk or an office - and it’s “ok, we can make a count of six rubber bands,” but this isn’t showing the dollar value, essentially, or how someone might quantify the dollar value."
   - Session 017: 
     - F "I dunno, it's a power station, it’s probably a municipal guide or a power company’s guide to how to distribute power."
   - Session 018:
