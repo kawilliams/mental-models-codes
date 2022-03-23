@@ -146,22 +146,21 @@ These codes describe observations about mental models and their formation.
 	  - [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
 	  - [Session 028](https://osf.io/4u63n/)
 	  - [Session 029](https://osf.io/bph2d/)
-      - Became more refined in drawing, see: `Mental model fixed at high level, but becomes more detailed in drawing
+      - Became more refined in drawing, see: `MM-4: Mental model fixed at high level, but becomes more detailed in drawing`
       - Small change while talking:
-        - [Session 012](https://osf.io/xbw3h/) - "During the conversation it’s been adjusting a little bit and what might be more proper for it, but overall it basically stayed the same idea."`
+          - [Session 012](https://osf.io/xbw3h/) - "During the conversation it’s been adjusting a little bit and what might be more proper for it, but overall it basically stayed the same idea."`
   - Several mentioned that aspects of their mental model were obvious
       - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder structure."
       - [Session 016](https://osf.io/d4efp/) - "You know, obviously, as graphically, with the bars, but with the description, that just helped me in my brain categorizing it better"
       - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
       - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
-    
-### Significant mental model changes happened when participants sought a better Representation
-    - [Session 010](https://osf.io/kgv76/) - Participant considers "web format" after initial JSON format
+  - Significant mental model changes happened when participants sought a better Representation
+     - [Session 010](https://osf.io/kgv76/) - Participant considers "web format" after initial JSON format
        - This session had microphone issues, so it's unclear at what point the model changed and/or if this was prompted by the question wording
-    - [Session 016](https://osf.io/d4efp/) - Participant considers better ways to display during task
-    - [Session 023](https://osf.io/t45ry/) - "I think so because when I read it, it made a lot of sense, but then I was trying to find the best way to express that data. Because I didn’t really know how to express it concisely where it makes a lot of sense. Because I felt like I just had a lot going on."
+     - [Session 016](https://osf.io/d4efp/) - Participant considers better ways to display during task
+     - [Session 023](https://osf.io/t45ry/) - "I think so because when I read it, it made a lot of sense, but then I was trying to find the best way to express that data. Because I didn’t really know how to express it concisely where it makes a lot of sense. Because I felt like I just had a lot going on."
        - Note, this is one of the people with less data/vis familiarity
-    - [Session 032](https://osf.io/bka6e/) - "Yeah I think it did change. I couldn’t think of a better way to represent it, given everything"
+     - [Session 032](https://osf.io/bka6e/) - "Yeah I think it did change. I couldn’t think of a better way to represent it, given everything"
        - Note, this participant drew a bar graph but described a multi-reprensentation in a journal paper
 
 ### MM3. Ambiguity between trees & hierarchies & sets and their common visual idioms
