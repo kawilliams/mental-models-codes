@@ -345,7 +345,7 @@ These codes describe observations about mental models and their formation.
 
 
 
-### MM8. People with less math literacy had difficulty with their mental model.
+### MM8. Participants with less math literacy had difficulty with their mental model.
   - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
     multidimensional aspect of power station data, drops the power station dimension
   - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
@@ -393,7 +393,7 @@ These codes suggest how ordering arises in the mental model
    - Temporal aspect of hypothesis forming on data reading seems interesting. I wonder how far
      this has been pushed with respect to progressive visualizations.
 
-### OG3. There was a diversity of groupings that people used for the junk drawer.
+### OG3. There was a diversity of groupings that participants used for the junk drawer.
   - We saw grouping by functionality (2), grouping by a participant-selected category (2), grouping only writing implements (2), list order (no grouping) (4)
 
   - Grouped by Functionality:
@@ -440,12 +440,6 @@ These codes suggest how ordering arises in the mental model
       - Participant stated, "If I thought of it more I would've put [the pens, pencils, sharpies] _in_ the pencil pouch."
     - [Session 031](https://osf.io/akfv4/): list order
       - items drawn separately
-
-
-### OG4. Participants noted items that were not in a group.
-  - [Session 013]
-  - [Session 020]
-  - [Session 022]   
 
 
 ## Purpose-Seeking
@@ -527,7 +521,7 @@ In these codes, participants infer a bigger picture or task.
 These codes collect observations about the drawing of the mental model and
 further embellishment.
 
-### D1. People used abstractions in the depiction.
+### D1. Participants used abstractions in the depiction.
   - Voiced the abstraction from the beginning:
     - [Session 011](https://osf.io/qj2pm/) - drew boxes because drawing houses
       would be too difficult
@@ -541,7 +535,7 @@ further embellishment.
     - [Session 009](https://osf.io/es7w6/) - originally text files labeled
       with "txt" but participant says they stop labeling because of laziness
 
-### D2. People run into constraints with their existing sketch.
+### D2. Participants ran into constraints with their existing sketch.
 
   - People run out of space when drawing.
 
@@ -554,7 +548,7 @@ further embellishment.
     - [Session 022](https://osf.io/psv9g/): would have "made the basket a little bigger."
 
 
-### D3. People use text for clarity and understanding.
+### D3. Participants used text for clarity and understanding.
   - *Note: use of text was only noted if the participant noted that they used text.*
   - [Session 009](https://osf.io/es7w6/): calls the files ".java" so that "we can be more explicit."
   - [Session 016](https://osf.io/d4efp/): participant "modified some of the descriptions" to help "me process a bit better." Switched to "noun, adjective."
@@ -565,7 +559,7 @@ further embellishment.
   - [Session 029](https://osf.io/bph2d/): asterisk footnote for residents per apartment
 
 
-### D4. People add details for clarity and understanding.
+### D4. Participants added details for clarity and understanding.
   - *Note: use of detail was only noted if the participant noted that they added detail on purpose.*
   - [Session 012](https://osf.io/xbw3h/): added labels and arrows to suggest hypotheses about the nature of the files and their relations.
   - [Session 015](https://osf.io/zn6qj/): added shading for clarity.
@@ -620,11 +614,11 @@ mental model or depictions.
       - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
       - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
 
-### C2. People identify when the drawing alone wouldn't make sense to another person.
+### C2. Participants identified when the drawing alone wouldn't make sense to another person.
 
   - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
 
-### C3. People used terminology in conflict with visualization community concepts for data abstractions.
+### C3. Participants used terminology in conflict with visualization community concepts for data abstractions.
 
   - Instances where participants drew a table, even though their description was very non-tabular
     - [Session 014](https://osf.io/dm3ak/)
