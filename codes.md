@@ -1,9 +1,3 @@
-OUTSTANDING TODOs
-=================
-- People naturally try to find groups, the outlier sticks out (but the definition of "outlier" is loose) 
-  - This also suggests a grouping code under mental model
-- See new TODO about where to put Communication codes 
-
 Formatting conventions
 ======================
 
@@ -364,11 +358,6 @@ These codes describe observations about mental models and their formation.
 These codes suggest how ordering arises in the mental model
 
 #### OG1. Ordering is diverse and often personal
-  - We may want to group this one with the one about people drawing in the
-    order things are given.
-  - We may also want to group this one with the "request for added data" or "inferred added data" one. While the folders have the relationships given, the junk drawers do not, so those are inferred. Similarly, ordering is imposed, and categorization may either be desired or inferred or in this case, objected to with the folders. 
-    - TODO: Evidence under purpose-seeking for inferred links (mostly already
-      there)
   - Expressed personal preference:
     - By category/type:
       - [Session 006](https://osf.io/pkqsm/) - expressed desire to re-organize
@@ -607,9 +596,6 @@ further embellishment.
 
 These codes gather observations about the effect of communication on the
 mental model or depictions.
-
-TODO: KATY/ALEX: Is this a sub-code of depiction?
- - Decided to leave as its own code for now
 
 ### C1. Depiction changes for communication
   - This code cross-references with depiction
