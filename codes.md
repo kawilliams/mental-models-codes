@@ -128,32 +128,32 @@ These codes describe observations about mental models and their formation.
       - [Session 026](https://osf.io/wfrc5/) - "I wanted to make it tidy."
       - [Session 028](https://osf.io/4u63n/) - "But as I read through it, I began to sort of group them into 4 groups."
   - When asked if the mental model changed, many said outright it did not.
-    - Did not change: 
-	- [Session 006](https://osf.io/pkqsm/)
-	- [Session 007](https://osf.io/kxze2/)
-	- [Session 008](https://osf.io/wb4r5/) - "I just stick to whatever I thought at the beginning."
-        - [Session 009](https://osf.io/es7w6/) - Not really, I was pretty comfortable with this. I considered the fact of the size, but in my opinion that would be a different model and not necessarily the one that was initially asked for. So I’m staying pretty comfortable with this."
-	- [Session 014](https://osf.io/gzw56/)
-	- [Session 015](https://osf.io/zn6qj/)
-	- [Session 017](https://osf.io/qmts9/)
-	- [Session 018](https://osf.io/ydnb9/) - "No, I mean I kind of saw it for how I was gonna do it right away and stuck with that."
-	- [Session 019](https://osf.io/z3j9f/) - " Only in the sense that pens, sharpies, and pencils look alike, so I had to do something to distinguish them, but not really organizationally. "
-	- [Session 021](https://osf.io/v4nmf/) - "No it didn’t. From the time I first read it to when I drew it, it didn’t change."
-	- [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
-	- [Session 024](https://osf.io/742fb/)
-	- [Session 025](https://osf.io/z7w25/)
-	- [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
-	- [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
-	- [Session 028](https://osf.io/4u63n/)
-	- [Session 029](https://osf.io/bph2d/)
-    - Became more refined in drawing, see: `Mental model fixed at high level, but becomes more detailed in drawing
-    - Small change while talking:
+      - Did not change: 
+   	  - [Session 006](https://osf.io/pkqsm/)
+	  - [Session 007](https://osf.io/kxze2/)
+	  - [Session 008](https://osf.io/wb4r5/) - "I just stick to whatever I thought at the beginning."
+          - [Session 009](https://osf.io/es7w6/) - Not really, I was pretty comfortable with this. I considered the fact of the size, but in my opinion that would be a different model and not necessarily the one that was initially asked for. So I’m staying pretty comfortable with this."
+	  - [Session 014](https://osf.io/gzw56/)
+	  - [Session 015](https://osf.io/zn6qj/)
+	  - [Session 017](https://osf.io/qmts9/)
+	  - [Session 018](https://osf.io/ydnb9/) - "No, I mean I kind of saw it for how I was gonna do it right away and stuck with that."
+	  - [Session 019](https://osf.io/z3j9f/) - " Only in the sense that pens, sharpies, and pencils look alike, so I had to do something to distinguish them, but not really organizationally. "
+	  - [Session 021](https://osf.io/v4nmf/) - "No it didn’t. From the time I first read it to when I drew it, it didn’t change."
+	  - [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
+	  - [Session 024](https://osf.io/742fb/)
+	  - [Session 025](https://osf.io/z7w25/)
+	  - [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
+	  - [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
+	  - [Session 028](https://osf.io/4u63n/)
+	  - [Session 029](https://osf.io/bph2d/)
+      - Became more refined in drawing, see: `Mental model fixed at high level, but becomes more detailed in drawing
+      - Small change while talking:
         - [Session 012](https://osf.io/xbw3h/) - "During the conversation it’s been adjusting a little bit and what might be more proper for it, but overall it basically stayed the same idea."`
   - Several mentioned that aspects of their mental model were obvious
-    - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder structure."
-    - [Session 016](https://osf.io/d4efp/) - "You know, obviously, as graphically, with the bars, but with the description, that just helped me in my brain categorizing it better"
-    - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
-    - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
+      - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder structure."
+      - [Session 016](https://osf.io/d4efp/) - "You know, obviously, as graphically, with the bars, but with the description, that just helped me in my brain categorizing it better"
+      - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
+      - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
     
 ### Significant mental model changes happened when participants sought a better Representation
     - [Session 010](https://osf.io/kgv76/) - Participant considers "web format" after initial JSON format
