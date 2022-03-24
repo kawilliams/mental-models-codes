@@ -1,9 +1,3 @@
-OUTSTANDING TODOs
-=================
-- People naturally try to find groups, the outlier sticks out (but the definition of "outlier" is loose) 
-  - This also suggests a grouping code under mental model
-- See new TODO about where to put Communication codes 
-
 Formatting conventions
 ======================
 
@@ -20,7 +14,7 @@ Themes & Codes
 
 These codes describe observations about mental models and their formation.
 
-### MM1. There was a diversity of both typology-level data abstractions and idiom choices
+### MM1. There was a diversity of both typology-level data abstractions and idiom choices.
   - It is hard to completely disassociate the typology from the idiom, this is
     best effort based on both the produced drawing and the way the participant spoke about the drawing and their mental model
   - File System:
@@ -96,7 +90,7 @@ These codes describe observations about mental models and their formation.
         - [Session 028](https://osf.io/davzy/)
 
 
-### MM2. Mental model starts forming immediately
+### MM2. Mental models started forming immediately.
   - Our first question asked about initial impressions/reactions. In this
     question, people already expressed ideas, including facets we found such as ordering and purpose-speaking.
     - Expressing ideas of what they would go on to draw:
@@ -134,43 +128,42 @@ These codes describe observations about mental models and their formation.
       - [Session 026](https://osf.io/wfrc5/) - "I wanted to make it tidy."
       - [Session 028](https://osf.io/4u63n/) - "But as I read through it, I began to sort of group them into 4 groups."
   - When asked if the mental model changed, many said outright it did not.
-    - Did not change: 
-	- [Session 006](https://osf.io/pkqsm/)
-	- [Session 007](https://osf.io/kxze2/)
-	- [Session 008](https://osf.io/wb4r5/) - "I just stick to whatever I thought at the beginning."
-        - [Session 009](https://osf.io/es7w6/) - Not really, I was pretty comfortable with this. I considered the fact of the size, but in my opinion that would be a different model and not necessarily the one that was initially asked for. So I’m staying pretty comfortable with this."
-	- [Session 014](https://osf.io/gzw56/)
-	- [Session 015](https://osf.io/zn6qj/)
-	- [Session 017](https://osf.io/qmts9/)
-	- [Session 018](https://osf.io/ydnb9/) - "No, I mean I kind of saw it for how I was gonna do it right away and stuck with that."
-	- [Session 019](https://osf.io/z3j9f/) - " Only in the sense that pens, sharpies, and pencils look alike, so I had to do something to distinguish them, but not really organizationally. "
-	- [Session 021](https://osf.io/v4nmf/) - "No it didn’t. From the time I first read it to when I drew it, it didn’t change."
-	- [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
-	- [Session 024](https://osf.io/742fb/)
-	- [Session 025](https://osf.io/z7w25/)
-	- [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
-	- [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
-	- [Session 028](https://osf.io/4u63n/)
-	- [Session 029](https://osf.io/bph2d/)
-    - Became more refined in drawing, see: `Mental model fixed at high level, but becomes more detailed in drawing
-    - Small change while talking:
-        - [Session 012](https://osf.io/xbw3h/) - "During the conversation it’s been adjusting a little bit and what might be more proper for it, but overall it basically stayed the same idea."`
+      - Did not change: 
+   	  - [Session 006](https://osf.io/pkqsm/)
+	  - [Session 007](https://osf.io/kxze2/)
+	  - [Session 008](https://osf.io/wb4r5/) - "I just stick to whatever I thought at the beginning."
+          - [Session 009](https://osf.io/es7w6/) - Not really, I was pretty comfortable with this. I considered the fact of the size, but in my opinion that would be a different model and not necessarily the one that was initially asked for. So I’m staying pretty comfortable with this."
+	  - [Session 014](https://osf.io/gzw56/)
+	  - [Session 015](https://osf.io/zn6qj/)
+	  - [Session 017](https://osf.io/qmts9/)
+	  - [Session 018](https://osf.io/ydnb9/) - "No, I mean I kind of saw it for how I was gonna do it right away and stuck with that."
+	  - [Session 019](https://osf.io/z3j9f/) - " Only in the sense that pens, sharpies, and pencils look alike, so I had to do something to distinguish them, but not really organizationally. "
+	  - [Session 021](https://osf.io/v4nmf/) - "No it didn’t. From the time I first read it to when I drew it, it didn’t change."
+	  - [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
+	  - [Session 024](https://osf.io/742fb/)
+	  - [Session 025](https://osf.io/z7w25/)
+	  - [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
+	  - [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
+	  - [Session 028](https://osf.io/4u63n/)
+	  - [Session 029](https://osf.io/bph2d/)
+      - Became more refined in drawing, see: `MM-4: Mental model fixed at high level, but becomes more detailed in drawing`
+      - Small change while talking:
+          - [Session 012](https://osf.io/xbw3h/) - "During the conversation it’s been adjusting a little bit and what might be more proper for it, but overall it basically stayed the same idea."`
   - Several mentioned that aspects of their mental model were obvious
-    - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder structure."
-    - [Session 016](https://osf.io/d4efp/) - "You know, obviously, as graphically, with the bars, but with the description, that just helped me in my brain categorizing it better"
-    - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
-    - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
-    
-### Significant mental model changes happened when participants sought a better Representation
-    - [Session 010](https://osf.io/kgv76/) - Participant considers "web format" after initial JSON format
+      - [Session 009](https://osf.io/es7w6/) - "It's obviously a folder structure."
+      - [Session 016](https://osf.io/d4efp/) - "You know, obviously, as graphically, with the bars, but with the description, that just helped me in my brain categorizing it better"
+      - [Session 032](https://osf.io/bka6e/) - "But I feel like in my head it’s the simplest conclusion."
+      - [Session 033](https://osf.io/uj34p/) - "Yeah so obviously the text files are the ones with the two squigglys."
+  - Significant mental model changes happened when participants sought a better Representation
+     - [Session 010](https://osf.io/kgv76/) - Participant considers "web format" after initial JSON format
        - This session had microphone issues, so it's unclear at what point the model changed and/or if this was prompted by the question wording
-    - [Session 016](https://osf.io/d4efp/) - Participant considers better ways to display during task
-    - [Session 023](https://osf.io/t45ry/) - "I think so because when I read it, it made a lot of sense, but then I was trying to find the best way to express that data. Because I didn’t really know how to express it concisely where it makes a lot of sense. Because I felt like I just had a lot going on."
+     - [Session 016](https://osf.io/d4efp/) - Participant considers better ways to display during task
+     - [Session 023](https://osf.io/t45ry/) - "I think so because when I read it, it made a lot of sense, but then I was trying to find the best way to express that data. Because I didn’t really know how to express it concisely where it makes a lot of sense. Because I felt like I just had a lot going on."
        - Note, this is one of the people with less data/vis familiarity
-    - [Session 032](https://osf.io/bka6e/) - "Yeah I think it did change. I couldn’t think of a better way to represent it, given everything"
+     - [Session 032](https://osf.io/bka6e/) - "Yeah I think it did change. I couldn’t think of a better way to represent it, given everything"
        - Note, this participant drew a bar graph but described a multi-reprensentation in a journal paper
 
-### MM3. Ambiguity between trees & hierarchies & sets and their common visual idioms
+### MM3. There is ambiguity among trees, hierarchies, sets, and their common visual idioms.
   - It was difficult to determine if the participant's mental model was what
     common dataset typologies would categorize as a tree versus a hierarchy versus a set. This may suggest a continuum. It may also suggest extra care be taken when dealing with any of these. This might suggest something about data that has relations in general.
   - We are trying best-effort categorization, but the difficulty in doing this supports the code:
@@ -272,8 +265,8 @@ These codes describe observations about mental models and their formation.
          they believed grouped together
 
 
-### MM4. Mental model fixed at high level, but becomes more detailed in drawing
-  - This code cross-references with the depiction theme
+### MM4. Mental models could become more detailed in drawing.
+  - This code cross-references with MM2.
   - Revised during drawing:
      - [Session 006](https://osf.io/pkqsm/) - root added during discussion
      - [Session 011](https://osf.io/qj2pm/) _ participant considers what each building means in more detail
@@ -295,7 +288,7 @@ These codes describe observations about mental models and their formation.
      - [Session 033](https://osf.io/uj34p/) - icon detail/symbol choices not
        thought about until drawing
 
-### MM5. Affordances can be part of the mental model
+### MM5. Affordances can be part of the mental model.
   - File System:
       - [Session 006](https://osf.io/pkqsm/) - describes mental model as subset of
 	of given data as they navigate it, similar to Windows
@@ -311,7 +304,7 @@ These codes describe observations about mental models and their formation.
     - [Session 022](https://osf.io/psv9g/) - basket drawn for carrying
 
 
-### MM6. Physical objects can also be used to represent data
+### MM6. Physical objects can be used to represent data.
   - This code cross-references mental models, depictions, AND what-is-data,
     but as these were what the participant thought of, we placed it here as the main one.
   - Their organization (e.g. orientation, appearance, affordances) is based on the real world
@@ -324,7 +317,7 @@ These codes describe observations about mental models and their formation.
       - [Session 015](https://osf.io/y487f/): “physical” folder, issue of running out of space, words about putting things into the folder and it becoming out of shape: "Having a folder inside a folder, I guess. So that would - I guess since I’m imagining it physically, it would be cumbersome to have a folder inside a folder."
 
 
-### MM7. Explicitly-stated origins of data abstractions/mental models
+### MM7. Many participants could explicitly-state origins of their mental models.
 
   - Participants used file system icons or structures that they cited as being from an operating system/software
     - [Session 006](https://osf.io/kj4nt/)
@@ -352,7 +345,7 @@ These codes describe observations about mental models and their formation.
 
 
 
-### MM8. Difficulty in mental model abstractions with less math literacy
+### MM8. Participants with less math literacy had difficulty with their mental model.
   - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
     multidimensional aspect of power station data, drops the power station dimension
   - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
@@ -363,12 +356,7 @@ These codes describe observations about mental models and their formation.
 
 These codes suggest how ordering arises in the mental model
 
-#### OG1. Ordering is diverse and often personal
-  - We may want to group this one with the one about people drawing in the
-    order things are given.
-  - We may also want to group this one with the "request for added data" or "inferred added data" one. While the folders have the relationships given, the junk drawers do not, so those are inferred. Similarly, ordering is imposed, and categorization may either be desired or inferred or in this case, objected to with the folders. 
-    - TODO: Evidence under purpose-seeking for inferred links (mostly already
-      there)
+#### OG1. Ordering is diverse and often personal.
   - Expressed personal preference:
     - By category/type:
       - [Session 006](https://osf.io/pkqsm/) - expressed desire to re-organize
@@ -405,7 +393,7 @@ These codes suggest how ordering arises in the mental model
    - Temporal aspect of hypothesis forming on data reading seems interesting. I wonder how far
      this has been pushed with respect to progressive visualizations.
 
-### OG3. There was a diversity of groupings that people used for the junk drawer.
+### OG3. There was a diversity of groupings that participants used for the junk drawer.
   - We saw grouping by functionality (2), grouping by a participant-selected category (2), grouping only writing implements (2), list order (no grouping) (4)
 
   - Grouped by Functionality:
@@ -454,12 +442,11 @@ These codes suggest how ordering arises in the mental model
       - items drawn separately
 
 
-
 ## Purpose-Seeking
 
 In these codes, participants infer a bigger picture or task.
 
-### PS1.Participants often want to add additional information, data that isn’t there
+### PS1. Participants often wanted to add additional data or information.
   - Request data attributes to each item:
     - File system
       - [Session 009](https://osf.io/6n7pa/) - file sizes 
@@ -488,14 +475,8 @@ In these codes, participants infer a bigger picture or task.
   
   - Observation by KI - Participants want to add a 'richness' to the data in lots of dimensions. This isn't their data so they want to put it into the context of what they know. However, different people suggest different attributes. People may only want different parts of a wide dataset.
 
-### PS2. Participants want to uncover the purpose: “Why is the file system organized like this?,” “what are the power stations doing?”
-  - Make a story/context for the file system: 
-    - [Session 006](https://osf.io/kj4nt/)
-    - [Session 009](https://osf.io/6n7pa/)
-    - [Session 012](https://osf.io/4aphc/)
 
-
-### PS3. Participants suggest or assume tasks:
+### PS2. Participants suggest or assume tasks.
   - Participants want to discover ultima: For power plant, which one produces the most/least energy?   
       - Supported by:
 	- [Session 011](https://osf.io/kaemj/)
@@ -516,7 +497,7 @@ In these codes, participants infer a bigger picture or task.
   - Present for scientific publication
     - [Session 032](https://osf.io/bka6e/)
 
-### PS4. Participants suggest source of data, such as all being part of a toolbox
+### PS4. Participants suggest a source that could have created the data.
   - [Session 007](https://osf.io/kxze2/) - stationary drawer
   - [Session 010](https://osf.io/kedv9/) - office supplies
   - [Session 013](https://osf.io/bgeh9/) - toolbox, electrician's toolbox
@@ -528,6 +509,10 @@ In these codes, participants infer a bigger picture or task.
   - [Session 024](https://osf.io/742fb/) - comes from residentail neighborhood
   - [Session 028](https://osf.io/4u63n/) - office items, pre-sorted
   - [Session 030](https://osf.io/9jxy3/) - organization of some program
+  - Make a story/context for the file system: 
+    - [Session 006](https://osf.io/kj4nt/)
+    - [Session 009](https://osf.io/6n7pa/)
+    - [Session 012](https://osf.io/4aphc/)
 
 
 
@@ -536,7 +521,7 @@ In these codes, participants infer a bigger picture or task.
 These codes collect observations about the drawing of the mental model and
 further embellishment.
 
-### D1. People used abstractions in the depiction
+### D1. Participants used abstractions in the depiction.
   - Voiced the abstraction from the beginning:
     - [Session 011](https://osf.io/qj2pm/) - drew boxes because drawing houses
       would be too difficult
@@ -550,7 +535,7 @@ further embellishment.
     - [Session 009](https://osf.io/es7w6/) - originally text files labeled
       with "txt" but participant says they stop labeling because of laziness
 
-### D2. People run into constraints with their existing sketch.
+### D2. Participants ran into constraints with their existing sketch.
 
   - People run out of space when drawing.
 
@@ -561,9 +546,13 @@ further embellishment.
     - [Session 016](https://osf.io/d4efp/): ran out of space drawing bars left to right, "I had to skip back here (left) to fill out the rest of the space."
 
     - [Session 022](https://osf.io/psv9g/): would have "made the basket a little bigger."
+   
+  - For unique data elements, people had difficulty picking icons/encodings that "went with" their existing encoding scheme.
+    - [Session 030](https://osf.io/9jxy3/): while drawing, "Code file um” (thought then wrote words). During discussion, "The minor hiccup was, obviously, trying to choose tokens to represent the category of files: text, image, code."
+    - [Session 033](https://osf.io/uj34p/): "And now I have to figure what I want to do for the code files." 
 
 
-### D3. People use text for clarity and understanding.
+### D3. Participants used text for clarity and understanding.
   - *Note: use of text was only noted if the participant noted that they used text.*
   - [Session 009](https://osf.io/es7w6/): calls the files ".java" so that "we can be more explicit."
   - [Session 016](https://osf.io/d4efp/): participant "modified some of the descriptions" to help "me process a bit better." Switched to "noun, adjective."
@@ -574,7 +563,7 @@ further embellishment.
   - [Session 029](https://osf.io/bph2d/): asterisk footnote for residents per apartment
 
 
-### D4. People add details for clarity and understanding.
+### D4. Participants added details for clarity and understanding.
   - *Note: use of detail was only noted if the participant noted that they added detail on purpose.*
   - [Session 012](https://osf.io/xbw3h/): added labels and arrows to suggest hypotheses about the nature of the files and their relations.
   - [Session 015](https://osf.io/zn6qj/): added shading for clarity.
@@ -587,7 +576,7 @@ further embellishment.
     - Verdict: No. This seems to be more related to drawing ability and desired look of the icons, rather than clarity for communication.
 
 
-### D5. Few participants drew a key/legend (e.g. "(house symbol) = house"), but participants often explained symbols when they didn't match the physical appearance of the object
+### D5. Drawing a legend was uncommon, but participants clarified mappings verbally.
   - [Session 006](https://osf.io/pkqsm/): verbally explains the icons for the types of files.
   - [Session 024](https://osf.io/742fb/): verbally explained that small squares represent homes.
   - [Session 032](https://osf.io/bka6e/): made a legend
@@ -608,10 +597,7 @@ further embellishment.
 These codes gather observations about the effect of communication on the
 mental model or depictions.
 
-TODO: KATY/ALEX: Is this a sub-code of depiction?
- - Decided to leave as its own code for now
-
-### C1. Depiction changes for communication
+### C1. Participants changed the depiction for communication
   - This code cross-references with depiction
   - Same general abstraction
       - [Session 006](https://osf.io/pkqsm/) - root added during discussion
@@ -632,11 +618,11 @@ TODO: KATY/ALEX: Is this a sub-code of depiction?
       - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
       - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
 
-### C2. People identify when the drawing alone wouldn't make sense to another person.
+### C2. Participants identified when the drawing alone wouldn't make sense to another person.
 
   - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
 
-### C3. Terminology used by participant in conflict with vis community language of dataset abstractions
+### C3. Participants used terminology in conflict with visualization community concepts for data abstractions.
 
   - Instances where participants drew a table, even though their description was very non-tabular
     - [Session 014](https://osf.io/dm3ak/)
@@ -677,7 +663,7 @@ TODO: KATY/ALEX: Is this a sub-code of depiction?
 
 These codes gather pre-conceptions participants had about the concepts of data and data analysis.
 
-### BD1. The idea that data relates to tables is prevalent:   
+### BD1. The idea that data relates to tables is prevalent. 
 
   - [Session 007](https://osf.io/kxze2/): 
     Me: "Did it surprise you that we called it a data set?" 
@@ -689,7 +675,7 @@ These codes gather pre-conceptions participants had about the concepts of data a
   - [Session 030](https://osf.io/9jxy3/): [bonus image](https://osf.io/s7t2r/) 
     E: "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table..."
 
-### BD2. Other hesitation regarding whether we had given them data:
+### BD2. There was hesitation regarding whether the given dataset was truly data.
 
   - [Session 007](https://osf.io/kxze2/): Data sets have objects and quantities "I guess this is a valid data set, it's got objects and quantities for
     those objects"
