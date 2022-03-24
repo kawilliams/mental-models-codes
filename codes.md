@@ -446,7 +446,7 @@ These codes suggest how ordering arises in the mental model
 
 In these codes, participants infer a bigger picture or task.
 
-### PS1. Participants often want to add additional data or information.
+### PS1. Participants often wanted to add additional data or information.
   - Request data attributes to each item:
     - File system
       - [Session 009](https://osf.io/6n7pa/) - file sizes 
@@ -546,6 +546,10 @@ further embellishment.
     - [Session 016](https://osf.io/d4efp/): ran out of space drawing bars left to right, "I had to skip back here (left) to fill out the rest of the space."
 
     - [Session 022](https://osf.io/psv9g/): would have "made the basket a little bigger."
+   
+  - For unique data elements, people had difficulty picking icons/encodings that "went with" their existing encoding scheme.
+    - [Session 030](https://osf.io/9jxy3/): while drawing, "Code file um” (thought then wrote words). During discussion, "The minor hiccup was, obviously, trying to choose tokens to represent the category of files: text, image, code."
+    - [Session 033](https://osf.io/uj34p/): "And now I have to figure what I want to do for the code files." 
 
 
 ### D3. Participants used text for clarity and understanding.
