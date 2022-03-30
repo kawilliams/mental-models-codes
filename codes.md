@@ -628,9 +628,7 @@ mental model or depictions.
     - [Session 014](https://osf.io/dm3ak/)
   - Instances where participants drew something more like a node-link diagram, even though their description was more set-like
     - [Session 006](https://osf.io/kj4nt/)
-    - [Session 010](https://osf.io/kedv9/)
-  - Instances where participants drew something more like an Euler diagram, even though their description was more tree-like
-    - [Session 009](https://osf.io/6n7pa/)
+
 
 ### C-4. The "Describe your sketch" prompt yielded a range in the level of description detail
 
