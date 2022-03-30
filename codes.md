@@ -675,6 +675,9 @@ These codes gather pre-conceptions participants had about the concepts of data a
   - [Session 030](https://osf.io/9jxy3/): [bonus image](https://osf.io/s7t2r/) 
     E: "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table..."
 
+### BD2.5 Biases about data: data is part of captial-S Science.
+  - [Session 032](https://osf.io/y8z4r/): included the dataset in a journal paper setting. Commented about adding figures and captions, and having space in the paper to explain.
+
 ### BD2. There was hesitation regarding whether the given dataset was truly data.
 
   - [Session 007](https://osf.io/kxze2/): Data sets have objects and quantities "I guess this is a valid data set, it's got objects and quantities for
@@ -689,6 +692,8 @@ These codes gather pre-conceptions participants had about the concepts of data a
   - [Session 019](https://osf.io/z3j9f/): Data analysis is grouping people by demographics: "I really thought about the analysts I worked with and Excel data, and I thought of big data sets and grouping people by demographics, that kind of thing."
   - [Session 027](https://osf.io/q9cn5/): Participant didn't think of
     folders/files given as data, but assumed data was what was contained inside those files
+
+
 
 
 
