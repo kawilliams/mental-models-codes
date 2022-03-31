@@ -21,33 +21,41 @@ These codes describe observations about mental models and their formation.
     - Hierarchies:
       - Node-link hierarchy
         - [Session 006](https://osf.io/kj4nt/)
-        - [Session 012](https://osf.io/4aphc/)
-        - [Session 018](https://osf.io/mj84a/)
         - [Session 021](https://osf.io/5hsua/)
         - [Session 021](https://osf.io/wdr2y/) (second drawing)
-        - [Session 030](https://osf.io/2xvz4/)
       - Nested hierarchy via enclosure
         - [Session 018](https://osf.io/q4ybw/) (second drawing)
-        - [Session 033](https://osf.io/du6mw/) (interaction drawn)
-      - Hybrid:
-        - [Session 009](https://osf.io/6n7pa/)
+    - Hierarchy/Set:
+        - [Session 018](https://osf.io/mj84a/)
+    - Hierarchy/Tree:
         - [Session 027](https://osf.io/mjen8/) (mostly node-link, but whole
           dataset with containment)
-    - Physical:
+    - Hierarchy/Network:
+      - Node-Link:
+        - [Session 030](https://osf.io/2xvz4/)
+    - Tree/Network:
+      - Node-Link:
+        - [Session 012](https://osf.io/4aphc/)
+    - "Folder Structure":
+      - Nested w/Links:
+        - [Session 009](https://osf.io/6n7pa/)
+    - Physical/Nested:
       - [Session 015](https://osf.io/y487f/)
     - List:
       - Stacked bar chart:
         - [Session 009](https://osf.io/6n7pa/) (second drawing)
-    - Table: 
+    - Table/Newtork: 
       - Database tables:
         - [Session 030](https://osf.io/s7t2r/) (second drawing)
+    - Nested:
+      - [Session 033](https://osf.io/du6mw/) (interaction drawn)
   - Power Stations:
     - Tables:
       - [Session 011](https://osf.io/kaemj/)
       - [Session 017](https://osf.io/rqxab/)
       - [Session 026](https://osf.io/mpncx/)
       - [Session 029](https://osf.io/u7d5m/)
-    - Geospatial:
+    - Set/Geospatial:
       - [Session 024](https://osf.io/d8pke/) (second drawing, but also
         discussed as abstracted from original)
     - Bar chart:
@@ -55,13 +63,13 @@ These codes describe observations about mental models and their formation.
         - [Session 023](https://osf.io/prtw4/)
       - Per station, faceted by building type:
         - [Session 032](https://osf.io/y8z4r/) (drawn)
-    - Graph: 
+    - Network: 
       - Node-link:
         - [Session 008](https://osf.io/47sng/)
         - [Session 020](https://osf.io/wrd6x/)
-    - Containment/sets:
+    - Set:
         - [Session 024](https://osf.io/8hsv9/) (though geospatial discussed)
-    - Hybrid:
+    - Network/Hierarchy/Table:
       - Table and Node-link
         - [Session 014](https://osf.io/dm3ak/)
     - Journal paper context with multiple figures, captions, and text:
@@ -69,22 +77,24 @@ These codes describe observations about mental models and their formation.
   - Junk Drawer:
     - Physical:
       - With nesting:
-        - [Session 007](https://osf.io/hsy7q/)
-        - [Session 013](https://osf.io/dgzrs/)
         - [Session 022](https://osf.io/ty2k8/)
       - No nesting:
         - [Session 019](https://osf.io/d2wgk/)
         - [Session 031](https://osf.io/akfv4/)
+    - Physical/Set:
+      - With nesting:
+        - [Session 007](https://osf.io/hsy7q/)
+        - [Session 013](https://osf.io/dgzrs/)
     - Bar chart
       - [Session 016](https://osf.io/4reuj/)
     - List
       - [Session 016](https://osf.io/u5dge/) (second drawing)
     - Key-value, Data format:
       - JSON: [Session 10](https://osf.io/kgv76/)
-    - Node-link: 
+    - Hierarchy: 
       - [Session 10](https://osf.io/kgv76/) (second drawing)
     - Sets:
-      - Venn diagram/text:
+      - Venn diagram/text (Nested):
         - [Session 025](https://osf.io/ejqnr/)
       - Partitioned space:
         - [Session 028](https://osf.io/davzy/)
