@@ -710,7 +710,9 @@ Comparison to Related Work
 
 ## Comparison to Findings in Walny et. al ["An Exploratory Study of Data Sketching for Visual Representation"](http://research.jagoda.ca/selected-work/data-sketches)
 
-### Placing our sketches on the continuum
+### Placing our sketches on Walny's continuum[^fn]
+
+[^fn]: J. Walny, S. Huron, and S. Carpendale. An Exploratory Study of Data Sketching for Visual Representation. Computer Graphics Forum, 34(3):231–240, 2015. doi: 10.1111/cgf.12635
 
 ![The numeracy-to-abstractness continuum of Walny et. al](./images/rep-continuum-4-RED.png)
 
