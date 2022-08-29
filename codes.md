@@ -359,6 +359,7 @@ These codes describe observations about mental models and their formation.
   - [Session 023](https://osf.io/t45ry/) - participant has difficulty with
     multidimensional aspect of power station data, drops the power station dimension
   - [Session 031](https://osf.io/cy3s4/) - drew items as a list as given
+  - Both are NC (non-computing professionals)
 
 
 
@@ -395,10 +396,14 @@ These codes suggest how ordering arises in the mental model
       - [Session 028](https://osf.io/4u63n/) - junk drawer items by function
 
 #### OG2. Participants tend to draw things in order of reading.
+  - Non-read order (4 participants): 007 (junk drawer), 014 (power station), 022 (junk drawer), 023 (power station)
+  - Unclear order (2 participants, due to video issues): 013, 019
+  - Read-order (22 participants): the remaining session numbers not listed above.
   - Often, but not always, this order reflects itself on the page
-    - Support: File System and Power Station tend to be drawn in order of reading
-      - [Session 26](https://osf.io/mpncx/): intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
-    - Against: junk drawer examples. We see organization on the page that is not related to the read-order but instead related to the physical objects
+    - Support: File System and Power Station tend to be drawn in order of reading.
+      - [Session 026](https://osf.io/mpncx/): intentionally gave the participant the power stations in non-alphabetical order. They drew a table, rows in alphabetical order, and then filled in the cells in read-order (not alphabetically).
+      - [Session 029](https://osf.io/bph2d): similar process of writing the names of the power stations in alphabetical order but then filling in table in read order (non-alphabetical). 
+    - Against: 2 junk drawer examples (007, 022) and 2 power station examples (014, 023). We see organization on the page that is not related to the read-order but instead related to grouping the physical objects or categorizing the type of power recipient 
       - [Session 016 Bonus](https://osf.io/u5dge/): this user came up with ways to arrange the data based on attributes that they added
    - Temporal aspect of hypothesis forming on data reading seems interesting. I wonder how far
      this has been pushed with respect to progressive visualizations.
