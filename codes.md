@@ -633,11 +633,10 @@ mental model or depictions.
       - [Session 014](https://osf.io/dm3ak/): added graph with root node 'A' at the bottom of the page when discussing how they would solve for the total power generated.
       - [Session 009](https://osf.io/6n7pa/): added color to the icons as they explained their sketch. Unclear if this was motivated by the discussion or if this was a continuation of their drawing.
 
-### C2. Participants identified when the drawing alone wouldn't make sense to another person.
+  - Identified when the drawing alone wouldn't make sense to another person.
+      - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
 
-  - [Session 031](https://osf.io/cy3s4/): "between the pens and the pencils and the sharpies, you can’t really tell what they are. If I were to give it to somebody, they probably wouldn’t be able to tell -- to differentiate between those groups...I probably should have written 'envelopes' on them, or some type of -- you know, if somebody were to look at this, I don’t think they would know what I drew."
-
-### C3. Participants used terminology in conflict with visualization community concepts for data abstractions.
+### C2. Participants used terminology in conflict with visualization community concepts for data abstractions.
 
   - Instances where participants drew a table, even though their description was very non-tabular
     - [Session 014](https://osf.io/dm3ak/)
@@ -645,7 +644,7 @@ mental model or depictions.
     - [Session 006](https://osf.io/kj4nt/)
 
 
-### C-4. The "Describe your sketch" prompt yielded a range in the level of description detail
+### C3. The "Describe your sketch" prompt yielded a range in the level of description detail
 
   - The range of verbal description provided: individual data points --> individual icons --> relations of icons / positions of icons --> data abstraction
 
