@@ -512,7 +512,7 @@ In these codes, participants infer a bigger picture or task.
   - Present for scientific publication
     - [Session 032](https://osf.io/bka6e/)
 
-### PS4. Participants suggest a source that could have created the data.
+### PS3. Participants suggest a source that could have created the data.
   - [Session 007](https://osf.io/kxze2/) - stationary drawer
   - [Session 010](https://osf.io/kedv9/) - office supplies
   - [Session 013](https://osf.io/bgeh9/) - toolbox, electrician's toolbox
