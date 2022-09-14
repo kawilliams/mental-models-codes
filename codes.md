@@ -596,7 +596,7 @@ further embellishment.
   - [Session 024](https://osf.io/742fb/): verbally explained that small squares represent homes.
   - [Session 032](https://osf.io/bka6e/): made a legend
 
-### D6. Aggregative marks and eliding details
+### D6. Aggregative marks and eliding details (Note: this was eventually combined with D1)
   - Instances where participants used discrete aggregative marks in conjunction with concrete examples
     - [Session 012](https://osf.io/4aphc/)
       - "I marked it with a bunch of question marks to the right because I don't have any idea what [this folder] was for; it's just there"
