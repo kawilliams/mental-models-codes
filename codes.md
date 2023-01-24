@@ -8,7 +8,7 @@ Formatting conventions
 Added in 08/2022: Green highlighting (in PDF) = Computing-related participant (professionals and students)
 		  Blue highlighting (in PDF) = Non-computing-related participant
 		  
-Reorganized 12/11/2022: rearranged codes to higher-level themes than originally, as in [Tables of Re-Organized Codes](https://docs.google.com/document/d/1AP77FFPICcsOZ4IYjnE3fIYjsWsPYjli8FHev-Hc2Qs/edit?usp=sharing).
+Reorganized 12/11/2022: rearranged codes to higher-level themes than originally, as in [Tables of Re-Organized Codes](https://github.com/kawilliams/mental-models-codes/blob/main/Tables%20of%20Re-Organized%20Codes.pdf).
 
 
 Themes & Codes
