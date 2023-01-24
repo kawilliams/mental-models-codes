@@ -2,7 +2,7 @@ Formatting conventions
 ======================
 
 ## Themes are written as first-level headers
-  - Codes are written as next level, subcodes as following level
+  - Codes are written as next level, subcodes as the following level
   - Evidence is listed as bullet points.
 
 Added in 08/2022: Green highlighting (in PDF) = Computing-related participant (professionals and students)
@@ -71,7 +71,7 @@ These codes describe observations about mental models and their formation.
 	  - [Session 022](https://osf.io/psv9g/) - "No, my mental model didn’t change throughout the drawing process."
 	  - [Session 024](https://osf.io/742fb/)
 	  - [Session 025](https://osf.io/z7w25/)
-	  - [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was goingto create a matrix."
+	  - [Session 026](https://osf.io/wfrc5/) - " I don’t think so. I think I kind of just had in mind already, when I was trying to order it, what I was going to do in a matrix and so I know I was going to create a matrix."
 	  - [Session 027](https://osf.io/q9cn5/) - " No I think, after I had the thought of where the last folder being mentioned is, then I had the mental picture and after that I’d feel it was consistent, I’d say."
 	  - [Session 028](https://osf.io/4u63n/)
 	  - [Session 029](https://osf.io/bph2d/)
@@ -115,7 +115,6 @@ These codes describe observations about mental models and their formation.
        drawing to clarify depiction
      - [Session 033](https://osf.io/uj34p/) - icon detail/symbol choices not
        thought about until drawing
-       
 
 ### F3 (was MM7). Many participants could explicitly-state origins of their mental models.
 
@@ -427,7 +426,7 @@ These codes describe the contents of mental models (not their representation on 
       - [Session 030](https://osf.io/9jxy3/) - uses "hierarchy" and "levels"
         for first drawing then starts talking about "normal relationship", "properties"," ownership" and "membership" for the database tables
         - "I wouldn’t design, for example, if this is for an application and I had top-level code, I wouldn’t have a parallel folder that didn’t have code in it. This would be somewhere under this hierarchy (pointing to the right folder and subfolder) and referenced by whatever program was in here"
-        - "youspend a good bit of time kind of clicking from one folder to another, going up,going down, the hierarchy ladder of the stuff."
+        - "you spend a good bit of time kind of clicking from one folder to another, going up,going down, the hierarchy ladder of the stuff."
         - "The other thing that comes to mind, if I were to try to map this out in some sort of normal relationship, then I might think of having a folders table, a files table, and the file table that has the property that tells what type of fileit is, and then I have an ownership or membership table that says, “this is inside that, and that, like that” (gesturing in space with flat hands)."
         - "I might call that an entity relationship diagram."
           - This has now evolved into a network
@@ -435,7 +434,7 @@ These codes describe the contents of mental models (not their representation on 
         - [Session 012](https://osf.io/xbw3h/) - uses the word "branches", draws
           node-link tree but then adds relations between leaves
           - "Text files and code are on their separate branches and branches after that to represent how much they have, four and two respectively."
-          - "nd then the other folder, there’s another folder symbol which leads to another text file and image branch, with one line each."
+          - "and then the other folder, there’s another folder symbol which leads to another text file and image branch, with one line each."
     - Tree & Hierarchy as Node-Link:
 	- [Session 027](https://osf.io/q9cn5/)
           - "Um, I think it’s just whenever we speak of hierarchy in any terms, a tree is what comes to mind so that’s where my head first went, to show the hierarchy out."
@@ -532,7 +531,7 @@ These codes describe the contents of mental models (not their representation on 
 
 # Mental Model Elicitation
 
-### E1 (was D1 & D6). Participants used abstractions in the depiction. Sometiems these were aggregative marks or eliding details
+### E1 (was D1 & D6). Participants used abstractions in the depiction. Sometimes these were aggregative marks or eliding details
   - Voiced the abstraction from the beginning:
     - [Session 011](https://osf.io/qj2pm/) - drew boxes because drawing houses
       would be too difficult
